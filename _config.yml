@@ -3,13 +3,13 @@
 # # # # # # # #
 
 # Basic
-name:               "Kording lab"
-title:              "as called as Bayesian Behavior Lab"
-description:        "this is a page for Konrad Kording lab, we are comptational neurosciece and datascience lab based in Rehabilitation Institute of Chicago and Northwestern University, Chicago"
+name:               "Yatiris"
+title:              "Yatiris"
+description:        "We are Yatiris, a research group located in Tandil, Argentina, working in computer-assisted medicine. We are part of Pladema Institute and UNICEN."
 
 
 # URL
-url:                http://kordinglab.github.io
+url:                http://yatiris.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
