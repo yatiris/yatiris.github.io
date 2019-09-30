@@ -1,6 +1,6 @@
 # Yatiris lab website
 
-This is repository for [Kording lab page](http://kordinglab.com/). We use Jekyll to run our Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
+This is repository for [Yatiris website](http://yatiris.github.com/). Most of the code comes from [http://kordinglab.com/], which uses Jekyll to run a Github page. We are welcome for other people to contribute to our site not just lab members. Feel free to fork and pull-request!
 
 
 ## Run the page locally
@@ -21,8 +21,8 @@ date. Each post can be written in markdown format. You just have to state header
 
 ```
 ---
-title: Summer School in Computational Sensory-Motor Neuroscience (CoSMo)
-description: all links to CoSMo summer school in computational neuroscience materials
+title: SIPAIM
+description: all links to the conference SIPAIM
 categories: scientists
 ---
 ```
@@ -37,7 +37,7 @@ We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can cho
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 
-The changes will take approximately half a minute to render. You can see the new posts or changes on [kordinglab.com](http://kordinglab.github.io/)!
+The changes will take approximately half a minute to render. You can see the new posts or changes on [yatiris.github.io](http://yatiris.github.io/)!
 
 
 ## Add yourself
