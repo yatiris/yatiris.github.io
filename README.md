@@ -27,13 +27,13 @@ categories: scientists
 ---
 ```
 
-We have 4 categories: `scientists`, `students`, `discussion`, `blog` you can choose and this will be rendered to different location.
+We have 4 categories: `scientists`, `students`, `discussion`, `news` you can choose and this will be rendered to different location.
 
 
 ## How to add posts
 
 
-- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing blog post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
+- **Directly edit on Github**, you can simply go to `_posts` and click `New file` then put some markdown file e.g. `2016-02-03-post-name.md` and start writing news post. Github also allows you to preview it so it's nice for people who don't want to clone the repo. 
 
 - **Clone the repository**, kind of the same as directly add post on Github. You just have to clone the repository. Then add new post file, commit and push to the repo.
 

@@ -1,7 +1,12 @@
 ---
 ---
 
-@import url('https://fonts.googleapis.com/css?family=Raleway:400,500&display=swap');
+/**
+*** COLOURS
+**/
+
+$_blueHover: #268bd2;
+
 
 * {
   -webkit-box-sizing: border-box;
@@ -16,7 +21,7 @@ body {
 }
 
 html {
-  font-family: "Raleway", "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Open Sans", "Source Sans Pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 18px;
   font-weight: 300;
   line-height: 1.6;
@@ -51,7 +56,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
   margin-bottom: .5rem;
   font-weight: 600;
-  font-family: "Raleway", "Open Sans", "Source Sans Pro";
+  font-family: "Open Sans", "Source Sans Pro";
   line-height: 1.1;
   color: #333;
   letter-spacing: -.025rem;
@@ -74,14 +79,14 @@ h4, h5, h6 {
 }
 
 p {
-  font-family: "Raleway", "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   margin: 0 0 1rem;
   font-size: 0.8rem;
 }
 
 ul, ol, dl {
-  font-family: "Raleway", "Open Sans", "Helvetica Neue", Helvetica;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica;
   font-weight: 300;
   font-size: 0.8rem;
   margin-top: 0;
@@ -186,7 +191,7 @@ blockquote {
 
 code,
 pre {
-  font-family: "Raleway", Monaco, "Courier New", monospace;
+  font-family: Monaco, "Courier New", monospace;
 }
 
 code {
@@ -229,7 +234,7 @@ pre code {
 }
 
 .gist .gist-file {
-  font-family: "Raleway", Monaco, "Courier New", monospace !important;
+  font-family: Monaco, "Courier New", monospace !important;
 }
 
 .gist .markdown-body {
@@ -371,6 +376,20 @@ tbody tr:nth-child(odd) th {
     font-size: .75rem;
     text-transform: uppercase;
   }
+
+  > .image-post-container {
+    max-width: 100%;
+
+      @media (min-width: 599px) {
+        float: left;
+        margin: 0 1.5em 1em 0;
+        max-width: 50%;
+      }  
+      
+      img {
+        margin: 0;
+      }
+  }
 }
 
 .list {
@@ -475,11 +494,21 @@ tbody tr:nth-child(odd) th {
 .list-item-people {
   display: inline-block;
   padding-right: 1em;
+
+  @media screen and (min-width: 599px) {
+    padding: 0 0.5em;
+    width: 24%;
+    vertical-align: top;
+  }
 }
 
 .list-post-title img {
   margin-bottom: 0.75em;
   margin-top: 1.25em;
+
+  &:hover {
+    filter: grayscale(20%);
+  }
 }
 
 .list-post-title .name {
@@ -487,7 +516,7 @@ tbody tr:nth-child(odd) th {
 }
 
 .list-item a:hover, .list-post-title:hover .name, .list-post-title .name:hover {
-  color: #c42929;
+  color: $_blueHover;
 }
 
 .page-title {
@@ -503,7 +532,7 @@ tbody tr:nth-child(odd) th {
 // change font for navbar
 .navbar, .navbar-nav>li>a {
   background-color: white;
-  font-family: "Raleway", 'Open Sans', sans-serif;
+  font-family: 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;

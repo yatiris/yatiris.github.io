@@ -4,6 +4,7 @@ position: researcher
 avatar: bulant-profile.jpg
 twitter:
 joined: 2017
+order: 4
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

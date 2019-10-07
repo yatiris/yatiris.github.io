@@ -4,6 +4,7 @@ position: researcher
 avatar: ari_benjamin.jpg
 twitter:
 joined: 2008
+order: 2
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

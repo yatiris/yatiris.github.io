@@ -1,5 +1,5 @@
 ---
-title: Reference
+title: Contact
 permalink: /resources/
 ---
 
@@ -19,7 +19,7 @@ permalink: /resources/
 {% endif %}
 
 <div class="content list">
-  {% for post in site.posts %}
+  {% for post in site.post %}
     {% if post.categories contains type %}
     <div class="list-item">
       <p class="list-post-title">

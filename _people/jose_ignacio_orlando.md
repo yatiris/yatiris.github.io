@@ -4,6 +4,7 @@ position: researcher
 avatar: nacho_orlando.jpg
 twitter: https://twitter.com/ignaciorlando
 joined: 2014-2019
+order: 3
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">

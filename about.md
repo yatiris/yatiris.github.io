@@ -3,6 +3,8 @@ title: About
 permalink: /about/
 ---
 
+![The team](/images/people/staff.png)
+
 ### About us
 We are a research group of computer scientists with interest in bringing digital tools to medicine. We are part of Pladema Institute, a multidisciplinary group funded by UNICEN (Universidad Nacional del Centro de la Provincia de Buenos Aires), CNEA (Comisión Nacional de Energía Atómica) and CIC-PBA (Comisión de Investigaciones Científicas de la Provincia de Buenos Aires). Our laboratory is located at the university campus in Tandil, Argentina, in a brand new building inaugurated in 2017.
 

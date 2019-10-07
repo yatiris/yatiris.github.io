@@ -7,7 +7,7 @@ layout: null
 		<title>{{ site.name | xml_escape }}</title>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.posts %}
+		{% for post in site.post %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>

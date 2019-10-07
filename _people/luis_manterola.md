@@ -1,5 +1,5 @@
 ---
-name: Ari Benjamin
+name: Hugo Luis Manterola
 position: postdoc
 avatar: ari_benjamin.jpg
 twitter:
@@ -10,7 +10,7 @@ joined: 2013
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `aarrii@seas.upenn.edu`<br>
+<i class="fa fa-envelope-o"></i>  `hmanterola@exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (old wing) <br>
 <i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=BVj1ufEAAAAJ&hl=en)
 
