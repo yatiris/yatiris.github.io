@@ -3,6 +3,8 @@ title: Publication
 permalink: /publication/
 ---
 
+### Publications
+
 We try to include links for all of our papers. Some of the links open PDFs, others direct you to a journal's site where that particular publication is available for download. If you cannot access one of our papers, let us know. The copyright notice for these papers is listed at the bottom of the page.
 
 <hr>
@@ -18,6 +20,17 @@ _Lumen-intima and media-adventitia segmentation in IVUS images using supervised 
 Lucas Lo Vercio, Mariana del Fresno, Ignacio Larrabide<br>
 Computer Methods and Programs in Biomedicine, 2019, ([Article](https://doi.org/10.1016/j.cmpb.2019.05.021))
 
+_Non-invasive coronary CT angiography-derived fractional flow reserve (FFR): A benchmark study comparing the diagnostic performance of four different computational methodologies_<br>
+J. Carson, S. Pant, C. Roobottom, R. Alcock, Pablo Javier Blanco, Carlos Alberto Bulant, Y. V. Vassilevski, S. Simakov, T. Gamilov, R. Pryamonosov, F. Liang, X. Ge, Y. Liu, P. Nithiarasu.<br>
+International Journal for Numerical Methods in Biomedical Engineering, 2019 ([Article](https://onlinelibrary.wiley.com/doi/full/10.1002/cnm.3235))
+
+_TCT-329 Full Hemodynamic Characterization of Intracoronary Physiology: Merging Advanced Grayscale Intravascular Ultrasound With Fractional Flow Reserve_<br>
+C. Bezerra, F. Pinton, B. Falcao, J. Marini, A. Kajita, Carlos Alberto Bulant, Pablo Javier Blanco, P. A. Lemos<br>
+Journal of the American College of Cardiology, 2019 ([Article](https://www.sciencedirect.com/science/article/pii/S0735109719367592?via%3Dihub))
+
+_Laryngo-CUBE: Diseño y proceso de fabricación de un simulador para intubación orotraqueal en gatos_<br>
+P. Nejamkin, María Clausse, Carlos Alberto Bulant, A. Genaro, F. Landivar, Alejandro Clausse, M. J. del Sole<br>
+3er Congreso Internacional de la Asociacion de Anestesia y Analgesia Veterinaria de la República Argentina
 
 
 ### 2018
@@ -34,9 +47,25 @@ _Towards a glaucoma risk index based on simulated hemodynamics from fundus image
 José Ignacio Orlando, João Barbosa Breda, Karel van Keer, Matthew B Blaschko, Pablo J Blanco, Carlos A Bulant<br>
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2018), 2018 ([Article](https://arxiv.org/pdf/1805.10273))
 
+_Towards fast hemodynamic simulations in large-scale circulatory networks_<br>
+L. A. Mansilla Alvarez, Pablo Javier Blanco, Carlos Alberto Bulant, R. A. Feijóo<br>
+Computer Methods in Applied Mechanics and Engineering, 2018 ([Article](https://doi.org/10.1016/j.cma.2018.10.032))
+
+_TCT-308 Comparison between fractional flow reserve (FFR) and Computational fractional flow reserve derived from three-dimensional intravascular ultrasound (FFR-IVUS), percentage of diameter stenosis by visual estimation and bi-dimensional quantitative coronary angiography_<br>
+A. Kajita, H. García, C. Bezerra, F. Pinton, B. Falcão, J. Mariani, Carlos Alberto Bulant, G. D. Maso Talou, A. Filh, Pablo Javier Blanco, P. A. Lemos<br>
+Journal of the American College of Cardiology, 2018 ([Article](https://doi.org/10.1016/j.jacc.2018.08.1448))
+
+_TCT-619 Comparison of one-dimensional (1D) and three-dimensional (3D) models for the estimation of coronary fractional flow reserve through cardiovascular imaging_<br>
+C. Bezerra, P. A. Lemos, F. Pinton, L. Müller, Carlos Alberto Bulant, G. D. Maso Talou, R. A. Feijóo, A. Filh, Pablo Javier Blanco<br>
+Journal of the American College of Cardiology, 2018 ([Article](https://doi.org/10.1016/j.jacc.2018.08.1820))
+
 _Sistema para el estudio de la evolución geométrica de la aorta en tratamientos de disección tipo B con prótesis endovascular_<br>
 Ramiro Diaz, Bruno Rudenick, Mariana del Fresno, Mariano Casciaro, Salma El-Batti, Jean Marc Alsac, Damian Craiem<br>
 Mecánica Computacional, 2018
+
+_Coronary flow estimation for the computational assessment of fractional flow reserve_<br>
+Carlos Alberto Bulant, Pablo Javier Blanco, G. D. Maso Talou, Alejandro Clausse, Carlos Bezerra, P. A. Lemos, R. A. Feijóo<br>
+Mecánica Computacional, 2018 ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5698))
 
 
 

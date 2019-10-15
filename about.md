@@ -11,7 +11,7 @@ We are a research group of computer scientists with interest in bringing digital
 ### Research
 Computers are great, and we use them all the time in many domains. Medicine is of course included in that group. As researchers, we focus in providing new tools for what's called computer-assisted medicine: aiding clinicians and medical scientists in performing their daily tasks, using computational methods to support them. To this end, we develop novel techniques at the intersection of computer vision, machine learning and computer graphics, using biomedical signals and/or images as inputs. 
 
-Our research covers several areas in medicine, including diagnosis and treatment planning of cardiovascular diseases, neuroscience, screening and analysis of retinal diseases, image synthesis and medical imaging in general.
+Our research covers several areas in medicine, including diagnosis and treatment planning of cardiovascular diseases, neuroscience, screening and analysis of retinal diseases, image synthesis and medical imaging in general. You can find further details about our current and ungoing projects in [our projects page](http://yatiris.github.io/our-projects/).
 
 
 ### Lab Members

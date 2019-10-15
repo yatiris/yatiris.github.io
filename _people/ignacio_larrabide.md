@@ -1,7 +1,7 @@
 ---
 name: Ignacio Larrabide
 position: researcher
-avatar: ari_benjamin.jpg
+avatar: Ignacio_Larrabide.jpg
 twitter:
 joined: 2014
 order: 1

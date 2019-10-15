@@ -2,9 +2,8 @@
 title: People
 permalink: /people/
 ---
-
-{% assign people_sorted = (site.people | sort: 'order' %}
-{% assign people_array = "researcher|postdoc|phdstudent|undergrad" | split: "|" %}
+{% assign people_sorted = (site.people | sort: 'joined' %}
+{% assign people_array = 'researcher|postdoc|phdstudent|undergrad' | split: '|' %}
 
 {% for item in people_array %}
 
@@ -42,4 +41,4 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. students and Postdoc (2012-2017) | Postdoc at University of Calgari
+| [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. student and Postdoc (2012-2017) | Postdoc at University of Calgari

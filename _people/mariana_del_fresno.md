@@ -1,7 +1,7 @@
 ---
 name: Mariana del Fresno
 position: researcher
-avatar: ari_benjamin.jpg
+avatar: delfresno.jpg
 twitter:
 joined: 2008
 order: 2
