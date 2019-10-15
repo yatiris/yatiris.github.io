@@ -1,5 +1,5 @@
 ---
-title: Our projects
+title: Our-projects
 permalink: /our-projects/
 ---
 
