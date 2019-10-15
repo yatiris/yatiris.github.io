@@ -9,7 +9,7 @@ description:        "We are Yatiris, a research group located in Tandil, Argenti
 
 
 # URL
-url:                http://yatiris.github.io
+url:                https://yatiris.github.io
 baseurl:
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title.html
