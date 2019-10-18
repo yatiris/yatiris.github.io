@@ -3,7 +3,7 @@ title: Career
 permalink: /career/
 ---
 
-![](/images/others/yatiris_lab.jpg)
+![](/images/others/campus.jpg)
 
 ### Open positions
 
