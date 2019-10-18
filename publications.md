@@ -20,6 +20,10 @@ _Lumen-intima and media-adventitia segmentation in IVUS images using supervised 
 Lucas Lo Vercio, Mariana del Fresno, Ignacio Larrabide<br>
 Computer Methods and Programs in Biomedicine, 2019, ([Article](https://doi.org/10.1016/j.cmpb.2019.05.021))
 
+_Improved biomechanical metrics of cerebral vasospasm identified via sensitivity analysis of a 1D cerebral circulation model_<br>
+A. Melis, F. Moura, Ignacio Larrabide, K. Janot, R.H. Clayton, A.P. Narata, A. Marzo
+Journal of Biomechanics, 2019, ([Article](https://doi.org/10.1016/j.jbiomech.2019.04.019))
+
 _Non-invasive coronary CT angiography-derived fractional flow reserve (FFR): A benchmark study comparing the diagnostic performance of four different computational methodologies_<br>
 J. Carson, S. Pant, C. Roobottom, R. Alcock, Pablo Javier Blanco, Carlos Alberto Bulant, Y. V. Vassilevski, S. Simakov, T. Gamilov, R. Pryamonosov, F. Liang, X. Ge, Y. Liu, P. Nithiarasu.<br>
 International Journal for Numerical Methods in Biomedical Engineering, 2019 ([Article](https://onlinelibrary.wiley.com/doi/full/10.1002/cnm.3235))
@@ -28,9 +32,17 @@ _TCT-329 Full Hemodynamic Characterization of Intracoronary Physiology: Merging 
 C. Bezerra, F. Pinton, B. Falcao, J. Marini, A. Kajita, Carlos Alberto Bulant, Pablo Javier Blanco, P. A. Lemos<br>
 Journal of the American College of Cardiology, 2019 ([Article](https://www.sciencedirect.com/science/article/pii/S0735109719367592?via%3Dihub))
 
+_Drone Based DSM Reconstruction for Flood Simulations in Small Areas: A Pilot Study_<br>
+Pablo Rinaldi, Ignacio Larrabide, Juan Pablo D’Amato
+World Conference on Information Systems and Technologies, 2019
+
 _Laryngo-CUBE: Diseño y proceso de fabricación de un simulador para intubación orotraqueal en gatos_<br>
 P. Nejamkin, María Clausse, Carlos Alberto Bulant, A. Genaro, F. Landivar, Alejandro Clausse, M. J. del Sole<br>
 3er Congreso Internacional de la Asociacion de Anestesia y Analgesia Veterinaria de la República Argentina
+
+_Computational method to determine final disposition of a Woven Endobridge (WEB) device befire its placement_<br>
+R. Muñoz, Ignacio Larrabide<br>
+MACI 2019
 
 
 ### 2018
@@ -43,9 +55,29 @@ _Carotid Intima Media Thickness Reference Intervals for a Healthy Argentinean Po
 Alejandro Díaz, Daniel Bia, Yanina Zócalo, Hugo Manterola, Ignacio Larrabide, Lucas Lo Vercio, Mariana del Fresno, Edmundo Cabrera Fischer<br>
 International Journal of Hypertension, 2018 ([Article](https://doi.org/10.1155/2018/8086714))
 
-_Towards a glaucoma risk index based on simulated hemodynamics from fundus images_<br>
-José Ignacio Orlando, João Barbosa Breda, Karel van Keer, Matthew B Blaschko, Pablo J Blanco, Carlos A Bulant<br>
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2018), 2018 ([Article](https://arxiv.org/pdf/1805.10273))
+_Software based simulation for pre procedural assessment of LVIS stent sizing: A Validation study_<br>
+K. Chaitanya Joshi, Ignacio Larrabide, A. Saied, N. Elsaid, H. Fernandez, D. K Lopes<br>
+Journal of Neurosurgery, 2018 ([Article](https://doi.org/10.3171/2018.5.JNS18976))
+
+_CFD and MRI studies of hemodynamic changes after flow-diverter implantation in a patient-specific model of cerebral artery_<br>
+S. V. Frolov , S. V. Sindeev , J. S. Kirschke, P. Arnold, S. Prothmann, D. Liepsch, A. Balasso, A. Y. Potlov and Ignacio Larrabide.<br>
+Experiments in Fluids, 2018 ([Article](https://doi.org/10.1007/s00348-018-2635-8))
+
+_Real-World Variability in the Prediction of Intracranial Aneurysm WallShear Stress: The 2015 International Aneurysm CFD Challenge_<br>
+K. Valen-Sendstad, A. W. Bergersen, Y. Shimogonya, L. Goubergrits, J. Bruening, J. Pallares, S. Cito, S. Piskin, K. Pekkan, A. J. Geers, Ignacio Larrabide, ... , D. A. Steinman.<br>
+Cardiovascular Engineering and Technology, 2018 ([Article](https://doi.org/10.1007/s13239-018-00374-2))
+
+_Effects on abdominal aorta fluid dynamics following the implantation of grafts based on endovascular aneurysm sealing system_<br>
+M. E. Casciaro, Javier Dottori, S. El-Batti, J.-M. Alsac, E. Mousseaux, Ignacio Larrabide and D. Craiem<br>
+Journal of Endovascular Surgery, 2018 ([Article](https://doi.org/10.1177/1538574418791059))
+
+_A comparative study of Porous Medium CFD Models for Flow Diverter stents: advantages and short-comings_<br> 
+Nicolás Dazeo, Javier Dottori, Gustavo Boroni, Ignacio Larrabide. <br>
+International Journal for Numerical Methods in Biomedical Engineering, 2018 ([Article](https://doi.org/10.1002/cnm.3145))
+
+_Hemodynamic Changes Caused by Multiple Stenting in Vertebral Artery Fusiform Aneurysms: A Patient-Specific Computational Fluid Dynamics Study_<br>
+N. Lv, W. Cao, Ignacio Larrabide, C. Karmonik, D. Zhu, J. Liu, Q. Huang, and Y. Fang.<br>
+American Journal of Neuroradiology, 2018 ([Article](https://doi.org/10.3174/ajnr.A5452))
 
 _Towards fast hemodynamic simulations in large-scale circulatory networks_<br>
 L. A. Mansilla Alvarez, Pablo Javier Blanco, Carlos Alberto Bulant, R. A. Feijóo<br>
@@ -58,6 +90,26 @@ Journal of the American College of Cardiology, 2018 ([Article](https://doi.org/1
 _TCT-619 Comparison of one-dimensional (1D) and three-dimensional (3D) models for the estimation of coronary fractional flow reserve through cardiovascular imaging_<br>
 C. Bezerra, P. A. Lemos, F. Pinton, L. Müller, Carlos Alberto Bulant, G. D. Maso Talou, R. A. Feijóo, A. Filh, Pablo Javier Blanco<br>
 Journal of the American College of Cardiology, 2018 ([Article](https://doi.org/10.1016/j.jacc.2018.08.1820))
+
+_An ensemble deep learning based approach for red lesion detection in fundus images_<br>
+José Ignacio Orlando, Elena Prokofyeva, Mariana del Fresno, Matthew Blaschko<br>
+Computer Methods and Programs in Biomedicine, 2018 ([Article](https://arxiv.org/pdf/1706.03008.pdf))
+
+_Towards a glaucoma risk index based on simulated hemodynamics from fundus images_<br>
+José Ignacio Orlando, João Barbosa Breda, Karel van Keer, Matthew B Blaschko, Pablo J Blanco, Carlos A Bulant<br>
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2018), 2018 ([Article](https://arxiv.org/pdf/1805.10273))
+
+_A study of single subject VBM and DARTEL on healthy subjects_<br>
+Hernán Kulsgaard, Delfina Braggio, M. Bendersky, L. A. Ferrara, Ignacio Larrabide<br>
+14th International Symposium on Medical Information Processing and Analysis, 2018
+
+_Fine tuning VBM for mouse brain analysis: model adjustment using atrophy simulation_<br>
+Delfina Braggio, J. Barbeito-Andrés, P. Gonzalez, Ignacio Larrabide<br>
+14th International Symposium on Medical Information Processing and Analysis, 2018
+
+_A robustness test of the Braided Device Foreshortening algorithm_<br>
+R. Kale Moyano, H. Fernandez, J. M. Macho, J. Blasco, L. San Roman, A. P. Narata, Ignacio Larrabide
+13th International Symposium on Medical Information Processing and Analysis, 2018 ([Article](https://doi.org/10.1117/12.2286328))
 
 _Sistema para el estudio de la evolución geométrica de la aorta en tratamientos de disección tipo B con prótesis endovascular_<br>
 Ramiro Diaz, Bruno Rudenick, Mariana del Fresno, Mariano Casciaro, Salma El-Batti, Jean Marc Alsac, Damian Craiem<br>
@@ -72,6 +124,10 @@ Mecánica Computacional, 2018 ([Article](https://cimec.org.ar/ojs/index.php/mc/a
 
 ### 2017
 
+A. P. Narata, J. Blasco, L. San Roman, J. M. Macho, H. Fernandez, R. Kale Moyano, R. Winzenrieth, Ignacio Larrabide<br>
+Early results in Flow Diverter sizing by computational simulation: quantification of size change and simulation error assessment<br>
+Operative Neurosurgery. 2017 ([Article](https://doi.org/10.1093/ons/opx288))
+
 _Proliferative Diabetic Retinopathy Characterization based on Fractal Features: Evaluation on a Publicly Available Data Set_<br>
 José Ignacio Orlando, Karel van Keer, João Barbosa Breda, Hugo Luis Manterola, Matthew B. Blaschko, Alejandro Clausse<br>
 Medical Physics, 2017 ([Article](https://lirias.kuleuven.be/retrieve/471707))
@@ -80,9 +136,13 @@ _A Discriminatively Trained Fully Connected Conditional Random Field Model for B
 José Ignacio Orlando, Elena Prokofyeva, Matthew Blaschko<br>
 IEEE Transactions on Biomedical Engineering, 2017 ([Article](https://lirias.kuleuven.be/retrieve/375236))
 
-_An ensemble deep learning based approach for red lesion detection in fundus images_<br>
-José Ignacio Orlando, Elena Prokofyeva, Mariana del Fresno, Matthew Blaschko<br>
-Computer Methods and Programs in Biomedicine, 2018 ([Article](https://arxiv.org/pdf/1706.03008.pdf))
+_Registration Methods for IVUS: Transversal and Longitudinal Transducer Motion Compensation_<br>
+G. D. Maso Talou, P. J. Blanco, Ignacio Larrabide, C. Guedes Bezerra, P. A. Lemos, R. A. Feijóo. 
+IEEE Transactions on Biomedical Engineering, 2017 ([Article](https://doi.org/10.1109/TBME.2016.2581583))
+
+_Wall shear stress at the initiation site of cerebral aneurysms_<br>
+A.J. Geers, H.G. Morales, Ignacio Larrabide, C. Butakoff, P. Bijlenga, A.F. Frangi.
+Biomechanics and Modeling in Mechanobiology, 2017 ([Article](https://doi.org/10.1007/s10237-016-0804-3))
 
 _Retinal blood vessel segmentation in high resolution fundus photographs using automated feature parameter estimation_<br>
 José Ignacio Orlando, Marcos Fracchia, Valeria del Río, Mariana del Fresno<br>
@@ -109,6 +169,26 @@ _Multi-object segmentation framework using deformable models for medical imaging
 Rafael Namías, Juan Pablo D’Amato, Mariana del Fresno, Marcelo Vénere, Nicolás Pirró, Marc-Emmanuel Bellemare<br>
 Medical and Biological Engineering and Computing, 2016 ([Article](https://doi.org/10.1007/s11517-015-1387-3 ))
 
+_Does the Arterial Flow Rate affect Flow Diverter Stent Performance?_<br>
+H.G. Morales, O. Bonnefous, A. J. Geers, O. Brina, V. M. Pereira, L. Spelle, J. Moret and Ignacio Larrabide<br>
+American Journal of Neuroradiology, 2016 ([Article](https://doi.org/10.3174/ajnr.A4933))
+
+_The Role of Hemodynamics in Intracranial Bifurcation Arteries after Aneurysm Treatment with Flow-Diverter Stents_<br>
+A.P. Narata, F.S. de Moura, Ignacio Larrabide, C.M. Perrault, F. Patat, R. Bibi, S. Velasco, A.-C. Januel, C. Cognard, R. Chapot, A. Bouakaz, C.A. Sennoga and A. Marzo.<br>
+American Journal of Neuroradiology, 2016 ([Article](https://doi.org/10.3174/ajnr.A5471))
+
+_CFD analysis of flow reduction induced by flow diverting stents in intracranial aneurysms: A patient-unspecific hemodynamics change perspective_<br>
+R. Ouared, Ignacio Larrabide, O. Brina, P. Bouillot, G. Erceg, H. Yilmaz, K.-O. Lovblad, V. Mendes Pereira<br>
+Journal of NeuroInterventional Surgery, 2016 ([Article](https://doi.org/10.1136/neurintsurg-2015-012154))
+
+_Computation of the Change in Length of a Braided Device When Deployed in Realistic Vessel Models_<br>
+H. Fernandez , J. M. Macho, J. Blasco, L. San Roman, W. Mailaender, L. Serra and Ignacio Larrabide<br>
+International Journal for Computer Assisted Radiology and Surgery, 2016 ([Article](https://doi.org/10.1007/s11548-015-1230-1))
+
+_Change in aneurysmal flow pulsatility after flow diverter treatment_<br>
+Ignacio Larrabide, A. J. Geers, H. Morales, P. Bijlenga, D. A. Rüfenacht<br> 
+Computerized Medical Imaging and Graphics, 2016 ([Article](https://doi.org/10.1016/j.compmedimag.2015.01.008)) 
+
 _Detection of morphological structures for vessel wall segmentation in IVUS using Random Forests_<br>
 Lucas Lo Vercio, Mariana del Fresno, Ignacio Larrabide<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017, ([Article](https://doi.org/10.1117/12.2255748))
@@ -125,6 +205,21 @@ _Ray-casting method to assess the quality of segmented surfaces from 3D images_<
 Juan Pablo D’Amato, Mariana del Fresno, Cristian Garcia Bauza, Marcelo Vénere<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256775))
 
+_Comparison of real-time ultrasound simulation models using abdominal CT images_<br>
+Pablo Rubi, Ezequiel Fernandez Vera, Juan Pablo D’Amato, Joaquín Larrabide, M. Calvo, Ignacio Larrabide. 
+12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2255741))
+
+_Changes on abdominal aortic fluid dynamics after implantation of grafts based on endovascular aneurysm sealing system (EVAS)_<br>
+M. E. Casciaro, Ignacio Larrabide, Javier Dottori, S. El-Batti, J.-M. Alsac and Damian Craiem<br>
+12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2255750))
+
+_Flow diverter stents simulation with CFD: porous media modelling_<br>
+Nicolás Dazeo, Javier Dottori, Gustavo Boroni, Alejandro Clausse, Ignacio Larrabide<br>
+12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256674))
+
+_Porosity distribution upon the surface of a deployed Flow Diverter: an experimental and simulation study_<br>
+H. Fernandez, A. Curto, A. Ding, and Ignacio Larrabide<br>
+12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256773))
 
 
 
@@ -133,6 +228,10 @@ Juan Pablo D’Amato, Mariana del Fresno, Cristian Garcia Bauza, Marcelo Vénere
 _Perceptual Grouping by Tensor Voting: A Comparative Survey of Recent Approaches_<br>
 Emmanuel Maggiori, Hugo Luis Manterola, Mariana del Fresno<br>
 IET Computer Vision, 2015, ([Article](https://doi.org/10.1049/iet-cvi.2014.0103)
+
+_Improving Cardiac Phase Extraction in IVUS Studies by Integration of Gating Methods_<br>
+G. D. Maso Talou, Ignacio Larrabide, Pablo Javier Blanco, C. Guedes Bezerra, P. A. Lemos and R. A. Feijóo. 
+IEEE Transactions on Biomedical Engineering, 2015 ([Article](https://doi.org/10.1109/TBME.2015.2449232)
 
 _An Analysis of Mechanical and Computational Properties for Noninvasive Vascular Elastography_<br>
 Hugo Luis Manterola, Mariana del Fresno, Ignacio Larrabide<br>
@@ -155,9 +254,9 @@ V Congreso de Matemática Aplicada, Computacional e Industrial (MACI 2015), 2015
 
 ### 2014
 
-_Learning fully-connected CRFs for blood vessel segmentation in retinal images_<br>
-José Ignacio Orlando, Matthew Blaschko<br>
-International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2014), 2014 ([Article](https://hal.inria.fr/hal-01024226/document))
+_Effect of aneurysm and ICA morphology on hemodynamics before and after flow diverter treatment_<br>
+Ignacio Larrabide, A. J. Geers, H. G. Morales, M. L. Aguilar, D. A. Rüfenacht<br>
+Journal of NeuroInterventional Surgery, 2014 ([Article](https://doi.org/10.1136/neurintsurg-2014-011171))
 
 _Comments on: A Closed-Form Solution to Tensor Voting: Theory and Applications_<br>
 Emmanuel Maggiori, Pablo Lotito, Hugo Luis Manterola, Mariana del Fresno<br>
@@ -166,6 +265,10 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence, 2014 ([Article](
 _Automatic Rectum Limit Detection by Anatomical Markers Correlation_<br>
 Rafael Namías, Juan Pablo D’Amato, Mariana del Fresno, Marcelo Vénere<br>
 Computerized Medical Imaging and Graphics, 2014 ([Article](http://doi.org/10.1016/j.compmedimag.2014.01.005))
+
+_Learning fully-connected CRFs for blood vessel segmentation in retinal images_<br>
+José Ignacio Orlando, Matthew Blaschko<br>
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2014), 2014 ([Article](https://hal.inria.fr/hal-01024226/document))
 
 _Reducing artifacts impact on IVUS automatic segmentation via inpainting_<br>
 Hugo Luis Manterola, Lucas Lo Vercio, Mariana del Fresno<br>
