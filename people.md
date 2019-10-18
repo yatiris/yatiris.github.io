@@ -39,6 +39,8 @@ permalink: /people/
 {% endfor %}
 
 
+<h3>Past members</h3>
+
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
 | [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. student and Postdoc (2012-2017) | Postdoc at University of Calgari (Canada)

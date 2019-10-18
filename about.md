@@ -24,11 +24,25 @@ Our research group is mainly composed of computer scientists and mathematicians,
 For PDFs of our work, visit our [publications page](http://yatiris.github.io/publication/). Feel free to [issue on Github](https://github.com/yatiris/yatiris.github.io/issues) if links don't work or are obsolete.
 
 
-### Collaborators
+### Other people we work with
 
-Here are some cool people in fields that interest us. **note:** This list is in no way complete. We have a lot of collaborators -- if you've collaborated with us and want a link here, let us know!
+Here are some cool people in fields that interest us and whom we are actively collaborating with. **note:** This list is in no way complete. We have a lot of collaborators -- if you've worked with us and want a link here, let us know!
 
-**UTN-Regional CABA:**
-- [Emmanuel Iarussi - CONICET](http://www.emmanueliarussi.com/)
+##### Argentina
+- [Claudio Delrieux - CONICET / Universidad Nacional del Sur](https://www.conicet.gov.ar/new_scp/detalle.php?id=48068&datos_academicos=yes&keywords=)
+- [Enzo Ferrante - CONICET / Universidad Nacional del Litoral](https://eferrante.github.io/)
+- [Emmanuel Iarussi - CONICET / UTN-Regional CABA](http://www.emmanueliarussi.com/)
+- [José María Massa - INTIA / UNICEN](https://www.researchgate.net/profile/Jose_Maria_Massa)
+
+##### Belgium
+- [Matthew B. Blaschko - ESAT-PSI](http://homes.esat.kuleuven.be/~mblaschk/)
+- [Karel van Keer - UZ Leuven](https://scholar.google.ca/citations?user=BBafcqwAAAAJ&hl=en)
+- [Joao Barbossa Breda - KU Leuven / University of Porto (Portugal)](https://scholar.google.ca/citations?user=XamVOEUAAAAJ&hl=en)
+
+
+
+
+
+
 
 

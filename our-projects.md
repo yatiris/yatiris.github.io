@@ -8,11 +8,13 @@ permalink: /our-projects/
 
 ### Our projects
 
-#### Ungoing projects
 
 
 
-#### Past projects
+
+#### Funding
+
+Here you can find the list of grants we got to fund our research.
 
 **(2015-2017)** <br>
 _MISEV: Modelos de Imagen y Simulación para el diagnóstico y tratamiento de enfermedades vasculares._<br>
