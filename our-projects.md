@@ -1,10 +1,10 @@
 ---
-title: Our-projects
+title: Our projects
 permalink: /our-projects/
 ---
 
 
-![Here we will put a picture of a whiteboard full of equations](/images/people/staff.png)
+![](/images/others/whiteboard.jpg)
 
 ### Our projects
 

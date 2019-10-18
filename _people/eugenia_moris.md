@@ -1,7 +1,7 @@
 ---
 name: Eugenia Moris
 position: undergrad
-avatar: ari_benjamin.jpg
+avatar: euge_moris.jpg
 twitter:
 joined: 2018
 ---

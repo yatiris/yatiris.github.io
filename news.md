@@ -3,6 +3,8 @@ title: News
 permalink: /news/
 ---
 
+![](/images/others/yatiris_lab.jpg)
+
 ## **News from the lab**
 
 Find here our latest news, both in English and Spanish!

@@ -1,7 +1,7 @@
 ---
 name: Delfina Braggio
 position: phdstudent
-avatar: ari_benjamin.jpg
+avatar: delfina_braggio.jpg
 twitter:
 joined: 2016
 ---

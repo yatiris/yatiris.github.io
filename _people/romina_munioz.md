@@ -1,7 +1,7 @@
 ---
 name: Romina Luciana Muñoz
 position: phdstudent
-avatar: ari_benjamin.jpg
+avatar: romina_munioz.jpg
 twitter:
 joined: 2018
 ---

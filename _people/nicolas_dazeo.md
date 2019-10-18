@@ -1,7 +1,7 @@
 ---
 name: Nicolás Dazeo
 position: phdstudent
-avatar: ari_benjamin.jpg
+avatar: nicolas_dazeo.jpg
 twitter:
 joined: 2015
 ---

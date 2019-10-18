@@ -41,4 +41,5 @@ permalink: /people/
 
 | Who are they | When were they here | Where they went |
 | :------------- |:-------------| :-----------|
-| [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. student and Postdoc (2012-2017) | Postdoc at University of Calgari
+| [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. student and Postdoc (2012-2017) | Postdoc at University of Calgari (Canada)
+| Pablo Rubí | Ph.D. student (2016-2017) | Software Engineer at Amazon (Seattle, USA)

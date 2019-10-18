@@ -1,7 +1,7 @@
 ---
 name: Hernán Kulsgaard
 position: phdstudent
-avatar: ari_benjamin.jpg
+avatar: hernan_kulsgaard.jpg
 twitter:
 joined: 2016
 ---
@@ -10,7 +10,7 @@ joined: 2016
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `svitale@conicet.gov.ar`<br>
+<i class="fa fa-envelope-o"></i>  ``<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 
 <hr>
