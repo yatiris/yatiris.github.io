@@ -2,7 +2,7 @@
 title: People
 permalink: /people/
 ---
-{% assign people_sorted = site.people | sort: 'joined' %}
+{% assign people_sorted = site.people | sort: 'order' %}
 {% assign people_array = 'researcher|postdoc|phdstudent|undergrad' | split: '|' %}
 
 {% for item in people_array %}
