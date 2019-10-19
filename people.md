@@ -45,3 +45,4 @@ permalink: /people/
 | :------------- |:-------------| :-----------|
 | [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. student and Postdoc (2012-2017) | Postdoc at University of Calgari (Canada)
 | Pablo Rubí | Ph.D. student (2016-2017) | Software Engineer at Amazon (Seattle, USA)
+| Ezequiel Fernández Vera | Research Engineer (2015-2017) | Software Engineer at PLADEMA (SINIDE project)
