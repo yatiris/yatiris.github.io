@@ -9,6 +9,7 @@ permalink: /about/
 We are Yatiris, a research group part of Pladema Institute (UNICEN - CNEA - CIC-PBA) focused in bringing digital tools to medicine. Our team features researchers in computer science, mathematics and physics that work in a multidisciplinary environment to introduce novel contributions to computer-assisted medicine.
 
 #### Research
+
 Computers are great, and we use them all the time in many ways. As researchers, we focus in providing new tools for what's called computer-assisted medicine: aiding clinicians and medical scientists in performing their daily tasks using digital tools. To this end, we develop novel techniques that combines computer vision, machine learning, mathematical simulation and computer graphics, using biomedical signals and/or images as inputs. 
 
 Our research covers several areas in medicine, including diagnosis and treatment planning of cardiovascular diseases, neuroscience, screening and analysis of retinal diseases, image synthesis and medical imaging in general. You can find further details about our current and ungoing projects in [our projects page](http://yatiris.github.io/our-projects/).
