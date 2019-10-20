@@ -8,13 +8,13 @@ permalink: /about/
 ### About us
 We are Yatiris, a research group part of Pladema Institute (UNICEN - CNEA - CIC-PBA) focused in bringing digital tools to medicine. Our team features researchers in computer science, mathematics and physics that work in a multidisciplinary environment to introduce novel contributions to computer-assisted medicine.
 
-#### Research
+#### Our research
 
 Computers are great, and we use them all the time in many ways. As researchers, we focus in providing new tools for what's called computer-assisted medicine: aiding clinicians and medical scientists in performing their daily tasks using digital tools. To this end, we develop novel techniques that combines computer vision, machine learning, mathematical simulation and computer graphics, using biomedical signals and/or images as inputs. 
 
 Our research covers several areas in medicine, including diagnosis and treatment planning of cardiovascular diseases, neuroscience, screening and analysis of retinal diseases, image synthesis and medical imaging in general. You can find further details about our current and ungoing projects in [our projects page](http://yatiris.github.io/our-projects/).
 
-#### Where are we?
+#### Where are we?
 
 We are settled in Tandil, a beautiful city located about 350 km away from Buenos Aires, Argentina. The name of the city comes from a combination of the Mapuche aborigin words "Than" or "Thav" ("falling) and "lil" ("rock). The name refers to the ["Moving Stone"](https://en.wikipedia.org/wiki/Piedra_Movediza) (["Piedra Movediza"](https://es.wikipedia.org/wiki/Piedra_movediza_de_Tandil) in Spanish), a big boulder naturally located at the edge of a clift, almost in perfect balance, until its fall back in 1912. 
 
