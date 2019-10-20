@@ -29,8 +29,9 @@ For PDFs of our work, visit our [publications page](http://yatiris.github.io/pub
 Here are some cool people in fields that interest us and whom we are actively collaborating with. **note:** This list is in no way complete. We have a lot of collaborators -- if you've worked with us and want a link here, let us know!
 
 ##### Argentina
+- [Damian Craiem - IMETTyB / CONICET / Universidad Favaloro ](https://imettyb.conicet.gov.ar/investigadores/craiem-damian/)
 - [Claudio Delrieux - CONICET / Universidad Nacional del Sur](https://www.conicet.gov.ar/new_scp/detalle.php?id=48068&datos_academicos=yes&keywords=)
-- Alejandro Díaz - CONICET / UNICEN]
+- [Alejandro Díaz - CONICET / UNICEN](https://scholar.google.com/citations?user=fquPJ3oAAAAJ)
 - [Enzo Ferrante - CONICET / Universidad Nacional del Litoral](https://eferrante.github.io/)
 - [Emmanuel Iarussi - CONICET / UTN-Regional CABA](http:/emmanueliarussi.github.io/)
 - [José María Massa - INTIA / UNICEN](https://www.researchgate.net/profile/Jose_Maria_Massa)
@@ -40,7 +41,8 @@ Here are some cool people in fields that interest us and whom we are actively co
 - [Karel van Keer - UZ Leuven](https://scholar.google.ca/citations?user=BBafcqwAAAAJ&hl=en)
 - [Joao Barbossa Breda - KU Leuven / University of Porto (Portugal)](https://scholar.google.ca/citations?user=XamVOEUAAAAJ&hl=en)
 
-
+##### Brasil
+- [Pablo Javier Blanco - LNCA](http://hemolab.lncc.br/)
 
 
 
