@@ -1,7 +1,7 @@
 ---
 name: Hugo Luis Manterola
 position: postdoc
-avatar: ari_benjamin.jpg
+avatar: 
 twitter:
 joined: 2013
 ---
