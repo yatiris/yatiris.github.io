@@ -25,7 +25,7 @@ Find here our latest news, both in English and Spanish!
     {% if post.categories contains type %}
     <div class="list-item">
       <p class="list-post-title">
-        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> (<small>{{post.date | date: "%m/%d/%y" }}</small>)
+        (<small>{{post.date | date: "%m/%d/%y" }}</small>) <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a> 
       </p>
     </div>
     {% endif %}

@@ -17,6 +17,13 @@ joined: 2016
 
 ### Bio
 
-Hernán Kulsgaard (Hernan) is a PhD student in Computational and Industrial Mathematics at UNICEN. 
+Hernán Kulsgaard (Hernan) is a PhD student in Computational and Industrial Mathematics at UNICEN.
+
+### Relevant publications
+
+_A study of single subject VBM and DARTEL on healthy subjects_<br>
+Hernán Kulsgaard, Delfina Braggio, M. Bendersky, L. A. Ferrara, Ignacio Larrabide<br>
+14th International Symposium on Medical Information Processing and Analysis, 2018
+
 
 <hr>

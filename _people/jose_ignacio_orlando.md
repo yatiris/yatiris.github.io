@@ -19,6 +19,33 @@ order: 3
 
 ### Bio
 
-[José Ignacio Orlando](https://ignaciorlando.github.io/) (Nacho) is an Assistant Researcher from CONICET, working as part of Yatiris lab at the PLADEMA Institute (UNICEN - CIC-PBA - CNEA, Tandil, Argentina). Apart from PLADEMA (where he pursued his PhD from 2013 to 2017), his previous affiliations include the Center for Learning and Visual Computing in Paris, France (2013, 6 months working as an intern funded by INRIA), ESAT-PSI in KU Leuven, Belgium (2016, 1 month working as a visiting scholar) and the Christian Doppler Laboratory for Ophthalmic Image Analysis (OPTIMA) from the Medical University of Vienna, Austria (2018-2019, almost 2 years working as a postdoctoral researcher). His main research interests involve the application of machine learning and computer vision techniques to process biomedical signals, with applications in ophthalmology and medicine in general.
+[José Ignacio Orlando](https://ignaciorlando.github.io/) (Nacho) is an Assistant Researcher from CONICET. His main research interests involve the application of machine learning and computer vision techniques to process biomedical signals, with applications in ophthalmology and medicine in general. He holds a Ph.D. in Computational and Industrial Mathematics and a Sotware Engineering degree, both from UNICEN.
+
+### Relevant publications
+
+_REFUGE Challenge: A Unified Framework for Evaluating Automated Methods for Glaucoma Assessment from Fundus Photographs_<br>
+José Ignacio Orlando, Huazhu Fu, João Barbossa Breda, Karel van Keer, ..., Hrvoje Bogunović<br>
+Medical Image Analysis, 2019 ([Article](https://arxiv.org/pdf/1910.03667.pdf))
+
+_Exploiting Epistemic Uncertainty of Anatomy Segmentation for Anomaly Detection in Retinal OCT_<br>
+Philipp Seeböck, José Ignacio Orlando, Thomas Schlegl, Sebastian M. Waldstein, Hrvoje Bogunović, Sophie Klimscha, Georg Langs, Ursula Schmidt-Erfurth<br>
+IEEE Transactions on Medical Imaging, 2019 ([Article](https://arxiv.org/pdf/1905.12806))
+
+_Multiclass segmentation as multitask learning for drusen segmentation in retinal optical coherence tomography_<br>
+Rhona Asgari, José Ignacio Orlando, Sebastian Waldstein, Ferdinand Schlanitz, Magdalena Baratsits, Ursula Schmidt-Erfurth, Hrvoje Bogunović<br>
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2019), 2019 ([Article](https://arxiv.org/pdf/1906.07679))
+
+_Towards a glaucoma risk index based on simulated hemodynamics from fundus images_<br>
+José Ignacio Orlando, João Barbosa Breda, Karel van Keer, Matthew B Blaschko, Pablo J Blanco, Carlos A Bulant<br>
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2018), 2018 ([Article](https://arxiv.org/pdf/1805.10273))
+
+_A Discriminatively Trained Fully Connected Conditional Random Field Model for Blood Vessel Segmentation in Fundus Images_<br>
+José Ignacio Orlando, Elena Prokofyeva, Matthew Blaschko
+IEEE Transactions on Biomedical Engineering, 2017 ([Article](https://lirias.kuleuven.be/retrieve/375236))
+
+_Learning fully-connected CRFs for blood vessel segmentation in retinal images_<br>
+José Ignacio Orlando, Matthew Blaschko
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2014), 2014 ([Article](https://hal.inria.fr/hal-01024226/document))
+
 
 <hr>

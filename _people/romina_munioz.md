@@ -17,6 +17,6 @@ joined: 2018
 
 ### Bio
 
-Romina Luciana Muñoz (Romi) holds a M.Sc. in Mathematics and she is currently a PhD student from the ANPCyT. Her doctoral research focuses in modeling flow disruptors for endovascular treatment, evaluating hemodynamic alterations and validating the realism and precision of these endovascular device models. 
+Romina Luciana Muñoz (Romi) is a PhD student in Computational and Industrial Mathematics at UNICEN. Her doctoral research focused in modeling flow disruptors for endovascular treatment of aneurysms, evaluating their hemodynamic alterations and validating the realism and precision of these devices. Romina holds a M.Sc. degree in Mathematics and her research is funded by a research scholarship granted by ANPCyT.
 
 <hr>
