@@ -6,25 +6,31 @@ permalink: /about/
 ![The team](/images/people/staff.png)
 
 ### About us
-We are Yatiris, a research group part of Pladema Institute (UNICEN - CNEA - CIC-PBA) focused in bringing digital tools to medicine. Our team features researchers in computer science, mathematics and physics that work in a multidisciplinary environment to introduce novel contributions to computer-assisted medicine. Our laboratory is located at the university campus in Tandil, Argentina, in a brand new building inaugurated in 2017.
+We are Yatiris, a research group part of Pladema Institute (UNICEN - CNEA - CIC-PBA) focused in bringing digital tools to medicine. Our team features researchers in computer science, mathematics and physics that work in a multidisciplinary environment to introduce novel contributions to computer-assisted medicine.
 
-### Research
+#### Research
 Computers are great, and we use them all the time in many ways. As researchers, we focus in providing new tools for what's called computer-assisted medicine: aiding clinicians and medical scientists in performing their daily tasks using digital tools. To this end, we develop novel techniques that combines computer vision, machine learning, mathematical simulation and computer graphics, using biomedical signals and/or images as inputs. 
 
 Our research covers several areas in medicine, including diagnosis and treatment planning of cardiovascular diseases, neuroscience, screening and analysis of retinal diseases, image synthesis and medical imaging in general. You can find further details about our current and ungoing projects in [our projects page](http://yatiris.github.io/our-projects/).
 
+#### Where are we?
 
-### Lab Members
+We are settled in Tandil, a beautiful city located about 350 km away from Buenos Aires, Argentina. The name of the city comes from a combination of the Mapuche aborigin words "Than" or "Thav" ("falling) and "lil" ("rock). The name refers to the ["Moving Stone"](https://en.wikipedia.org/wiki/Piedra_Movediza) (["Piedra Movediza"](https://es.wikipedia.org/wiki/Piedra_movediza_de_Tandil) in Spanish), a big boulder naturally located at the edge of a clift, almost in perfect balance, until its fall back in 1912. 
+
+Our laboratory is located within the University Campus of UNICEN, at the facilities of PLADEMA Institute. Our offices are in a brand new building inaugurated in 2017.
+
+
+#### Lab Members
 
 Our research group is mainly composed of computer scientists and mathematicians, working at the intersection of statistics, physics, biology, applied mathematics, software engineering, machine learning and many other disciplines. Visit our [people page](http://yatiris.github.io/people/) to know more about the people who works in the lab (publications, contact information, photos).
 
 
-### Publications
+#### Publications
 
 For PDFs of our work, visit our [publications page](http://yatiris.github.io/publication/). Feel free to [issue on Github](https://github.com/yatiris/yatiris.github.io/issues) if links don't work or are obsolete.
 
 
-### Other people we work with
+#### Other people we work with
 
 Here are some cool people in fields that interest us and whom we are actively collaborating with. **note:** This list is in no way complete. We have a lot of collaborators -- if you've worked with us and want a link here, let us know!
 
