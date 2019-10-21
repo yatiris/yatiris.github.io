@@ -41,15 +41,14 @@ permalink: /people/
 
 ### Other PLADEMA members
 
-Marcelo Vénere - Director <br>
-Alejandro Clausse - Vice-director <br>
-Juan Pablo D'Amato - CONICET<br>
+**Marcelo Vénere** - Director <br>
+**Alejandro Clausse** - Vice-director <br>
+**Juan Pablo D'Amato** - CONICET<br>
 
+* * *
 
-<h3>Past members</h3>
+### Past members
 
-| Who are they | When were they here | Where they went |
-| :------------- |:-------------| :-----------|
-| [Lucas Lo Vercio](http://www.pladema.net/llovercio/) | Ph.D. student and Postdoc (2012-2017) | Postdoc at University of Calgari (Canada)
-| Pablo Rubí | Ph.D. student (2016-2017) | Software Engineer at Amazon (Seattle, USA)
-| Ezequiel Fernández Vera | Research Engineer (2015-2017) | Software Engineer at PLADEMA (SINIDE project)
+[**Lucas Lo Vercio**](http://www.pladema.net/llovercio/) - Ph.D. student and Postdoc from 2012 to 2017, now postdoc at University of Calgari (Canada) <br>
+**Pablo Rubí** - Undergrad and Ph.D. student from 2016 to 2017), now Software Developer at Amazon (Seattle, USA) <br>
+**Ezequiel Fernández Vera** - Undergrad student and Research Engineer (2015-2017), now Software Developer at PLADEMA (SINIDE project) <br>

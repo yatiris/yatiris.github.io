@@ -54,6 +54,9 @@ Here are some cool people in fields that interest us and whom we are actively co
 **Brasil**
 - [Pablo Javier Blanco - LNCC](https://scholar.google.com/citations?user=X0382ScAAAAJ&hl=en)
 
+**Canada**
+- [Lucas Lo Vercio - University of Calgary](http://www.pladema.net/llovercio/) 
+
 **Italy**
 - [Lucas Omar Müller - Department of Mathematics, University of Trento](www.muller.maths.unitn.it)
 
