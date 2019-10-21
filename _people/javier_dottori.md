@@ -1,7 +1,7 @@
 ---
 name: Javier Dottori
 position: postdoc
-avatar: 
+avatar: dottori.png
 twitter:
 joined: 2014
 order: 5
