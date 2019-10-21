@@ -1,7 +1,7 @@
 ---
 name: Giulia Carbonari
 position: phdstudent
-avatar: 
+avatar: giuli.jpg
 twitter:
 joined: 2019
 ---

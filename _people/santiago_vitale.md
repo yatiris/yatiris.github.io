@@ -1,7 +1,7 @@
 ---
 name: Santiago Vitale
 position: phdstudent
-avatar: 
+avatar: santi_vitale.jpg
 twitter:
 joined: 2018
 ---
