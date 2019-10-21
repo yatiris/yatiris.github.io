@@ -34,13 +34,13 @@ Here you can find the list of grants we got to fund our research.
 
 **(2020-2022)** <br>
 _Modelado computacional de la circulación coronaria._<br>
-(Computational modelling of coronary circulation)
+(Computational modelling of coronary circulation)<br>
 PICT-2018-2427. FONCyT. Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT). AR$ 339.600. 
 Principal Investigator: Carlos Bulant.
 
 **(2018-2020)** <br>
 _HI-MED - Herramientas Informáticas aplicadas a la cuanticación de imagen, simulación y planicación del tratamiento en MEDicina._<br>
-(Computational tools applied to medical image quantification, simulation and treatment planning)
+(Computational tools applied to medical image quantification, simulation and treatment planning)<br>
 PICT 2016-0116. FONCyT. Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT). AR$ 339.600. 
 Principal Investigator: Ignacio Larrabide.
 
@@ -64,13 +64,13 @@ Principal Investigator: Marcelo Vénere.
 
 **(2014-2015)** <br>
 _SIMECO: Desarrollo de un simulador de ecografía para entrenamiento._<br>
-(Development of an ultrasound simulator for training)
+(Development of an ultrasound simulator for training)<br>
 SPU 0049/2014, Expediente 1-51977/2014. Secretaría de Políticas Universitarias, Ministerio de Educación de la Nación. AR$ 799.000.
 Principal Investigator: Ignacio Larrabide.
 
 **(2014-2015)** <br>
 _FDF-Movil - Desarrollo de una plataforma movil para la planificación de intervenciones_<br>
-(Development of a mobile platform for intervention planning)
+(Development of a mobile platform for intervention planning)<br>
 IBEROEKA, S.D.C. S.R.L., Galgo Medical S. L.
 Principal Investigator: Ignacio Larrabide.
 
