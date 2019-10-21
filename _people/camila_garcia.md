@@ -1,7 +1,7 @@
 ---
 name: Camila Garcia
 position: phdstudent
-avatar: 
+avatar: camila_garcia.jpg
 twitter:
 joined: 2019
 ---

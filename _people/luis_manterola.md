@@ -1,7 +1,7 @@
 ---
 name: Hugo Luis Manterola
 position: postdoc
-avatar: 
+avatar: luis_manterola.jpg
 twitter:
 joined: 2013
 ---
