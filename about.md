@@ -52,7 +52,7 @@ Here are some cool people in fields that interest us and whom we are actively co
 - [Joao Barbossa Breda - KU Leuven / University of Porto (Portugal)](https://scholar.google.ca/citations?user=XamVOEUAAAAJ&hl=en)
 
 **Brasil**
-- [Pablo Javier Blanco - LNCC](https://scholar.google.com/citations?user=X0382ScAAAAJ&hl=en)
+- [Pablo Javier Blanco - Laboratório Nacional de Computação Científica, Petrópolis, Brasil](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4137186H0)
 
 **Canada**
 - [Lucas Lo Vercio - University of Calgary](http://www.pladema.net/llovercio/) 
