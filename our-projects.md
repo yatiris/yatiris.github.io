@@ -69,7 +69,7 @@ SPU 0049/2014, Expediente 1-51977/2014. Secretaría de Políticas Universitarias
 Principal Investigator: Ignacio Larrabide.
 
 **(2014-2015)** <br>
-_FDF-Movil - Desarrollo de una plataforma movil para la planificación de intervenciones_<br>
+_FDF-Movil - Desarrollo de una plataforma móvil para la planificación de intervenciones_<br>
 (Development of a mobile platform for intervention planning)<br>
 IBEROEKA, S.D.C. S.R.L., Galgo Medical S. L.
 Principal Investigator: Ignacio Larrabide.
