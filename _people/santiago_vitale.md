@@ -19,7 +19,7 @@ joined: 2018
 
 Santiago Vitale (Santi) is a PhD student in Computational and Industrial Mathematics at UNICEN. Santiago's thesis is focused in introducing novel ultrasound simulation techniques to train technicians in controlled environments. He's currently investigating different ray-casting and deep learning methods to simulate abdominal ultrasound images. Santiago Vitale received a B.Sc. degree in Software Engineering at UNICEN in 2018 and is working with a research scholarship granted by CONICET.
 
-### Relevant publications
+### Relevant publications
 
 _Improving realism in patient-specific abdominal Ultrasound simulation using CycleGANs_<br>
 Santiago Vitale, José Ignacio Orlando, Emmanuel Iarussi, Ignacio Larrabide<br>

@@ -21,7 +21,7 @@ order: 4
 
 Carlos Alberto Bulant (Carlitos) is an assistant researcher at the Comisión de Investigaciones Científicas (CIC), and a teaching assistant at UNICEN. His research focuses on enhancing medical images with hemodynamics simulations to improve the diagnosis of cardiovascular diseases. Carlos is a Co-Founder at [CDSim](http://cdsim.com.ar), bringing scientific computing and simulation-based diagnostics to daily clinical practice. Carlos graduated as a Systems Engineer at UNICEN (in 2010), after that, he moved to Petropolis, RJ, Brasil to pursue an M.Sc. in scientific computing (in 2013) and a D.Sc. in computational modeling (in 2017), at the Laboratório Nacional de Computação Científica (LNCC). Currently, he lives in Tandil, Bs As, Argentina, with his beloved wife and daughter :)
 
-### Relevant publications
+### Relevant publications
 
 _Non-invasive coronary CT angiography-derived fractional flow reserve (FFR): A benchmark study comparing the diagnostic performance of four different computational methodologies_<br>
 J. Carson, S. Pant, C. Roobottom, R. Alcock, Pablo Javier Blanco, Carlos Alberto Bulant, Y. V. Vassilevski, S. Simakov, T. Gamilov, R. Pryamonosov, F. Liang, X. Ge, Y. Liu, P. Nithiarasu.<br>

@@ -1,23 +1,25 @@
 ---
-name: Nicolás Dazeo
-position: phdstudent
-avatar: nicolas_dazeo.jpg
+name: Javier Dottori
+position: postdoc
+avatar: 
 twitter:
-joined: 2015
+joined: 2014
+order: 5
 ---
 
 <img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `ndazeo@conicet.gov.ar`<br>
-<i class="fa fa-building"></i> Pladema (new wing) <br>
+<i class="fa fa-envelope-o"></i>  `jdottori@exa.unicen.edu.ar`<br>
+<i class="fa fa-building"></i> Pladema (old wing) <br>
+<i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.es/citations?user=LX6b2wsAAAAJ&hl=en)
 
 <hr>
 
 ### Bio
 
-Nicolás Dazeo (Nico) is a PhD student in Computational and Industrial Mathematics at UNICEN. His doctoral research focuses in the computational modelling of human hemodynamics, particularly during flow diverter stent treatments. Nicolás is also the software architect of [Nogal](https://nogal.pladema.net), a cloud platform for medical image storage and processing. His research is currently funded by a research scholarship granted by CONICET.
+Javier Dottori (Javi) is a teaching assistant in UNICEN, 
 
 ### Relevant publications
 
@@ -28,7 +30,5 @@ International Journal for Numerical Methods in Biomedical Engineering, 2018 ([Ar
 _Flow diverter stents simulation with CFD: porous media modelling_<br>
 Nicolás Dazeo, Javier Dottori, Gustavo Boroni, Alejandro Clausse, Ignacio Larrabide<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256674))
-
-
 
 <hr>

@@ -43,15 +43,19 @@ Here are some cool people in fields that interest us and whom we are actively co
 - [Emmanuel Iarussi - CONICET / UTN-Regional CABA](http:/emmanueliarussi.github.io/)
 - [José María Massa - INTIA / UNICEN](https://www.researchgate.net/profile/Jose_Maria_Massa)
 
+**Australia**
+- [Gonzalo Daniel Maso Talou - The University of Auckland, Auckland Bioengineering Institute](https://unidirectory.auckland.ac.nz/profile/g-masotalou)
+
 **Belgium**
 - [Matthew B. Blaschko - ESAT-PSI](http://homes.esat.kuleuven.be/~mblaschk/)
 - [Karel van Keer - UZ Leuven](https://scholar.google.ca/citations?user=BBafcqwAAAAJ&hl=en)
 - [Joao Barbossa Breda - KU Leuven / University of Porto (Portugal)](https://scholar.google.ca/citations?user=XamVOEUAAAAJ&hl=en)
 
 **Brasil**
-- [Pablo Javier Blanco - LNCA](http://hemolab.lncc.br/)
+- [Pablo Javier Blanco - LNCC](https://scholar.google.com/citations?user=X0382ScAAAAJ&hl=en)
 
-
+**Italy**
+- [Lucas Omar Müller - Department of Mathematics, University of Trento](www.muller.maths.unitn.it)
 
 
 

@@ -39,6 +39,13 @@ permalink: /people/
 {% endfor %}
 
 
+### Other PLADEMA members
+
+Marcelo Vénere - Director <br>
+Alejandro Clausse - Vice-director <br>
+Juan Pablo D'Amato - CONICET<br>
+
+
 <h3>Past members</h3>
 
 | Who are they | When were they here | Where they went |
