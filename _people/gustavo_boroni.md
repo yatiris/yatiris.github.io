@@ -1,7 +1,7 @@
 ---
 name: Gustavo Boroni
 position: researcher
-avatar: 
+avatar: gustavo_boroni.jpg
 twitter:
 joined: 2014
 order: 5
