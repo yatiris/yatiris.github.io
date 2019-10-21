@@ -53,6 +53,7 @@ Here are some cool people in fields that interest us and whom we are actively co
 
 **Brasil**
 - [Pablo Javier Blanco - Laboratório Nacional de Computação Científica, Petrópolis, Brasil](http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4137186H0)
+- [Luis Alonso Mansilla Alvarez - Laboratório Nacional de Computação Científica, Petrópolis, Brasil](https://www.researchgate.net/profile/Alonso_Alvarez)
 
 **Canada**
 - [Lucas Lo Vercio - University of Calgary](http://www.pladema.net/llovercio/) 
