@@ -10,7 +10,7 @@ joined: 2016
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `svitale@conicet.gov.ar`<br>
+<i class="fa fa-envelope-o"></i>  `dbraggio@alumnos.exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 
 <hr>

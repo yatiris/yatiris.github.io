@@ -17,6 +17,6 @@ joined: 2018
 
 ### Bio
 
-Eugenia Moris (Euge) is an undergrad student of Software Engineering working on intravascular ultrasound imaging (IVUS) and deep learning.
+Eugenia Moris (Euge) is an undergrad student of Software Engineering, working on his final project in intravascular ultrasound imaging (IVUS) and deep learning.
 
 <hr>
