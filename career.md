@@ -18,7 +18,9 @@ such as [CONICET](https://www.conicet.gov.ar/?lan=en) or [CIC-PBA](https://www.g
 
 #### Becas y otras posiciones disponibles
 
-Actualmente no tenemos convocatorias a becas u otras posiciones disponibles.
+##### Estudiantes de grado
+
+**Becas de Ingreso a la Investigación INI de SECAT-UNICEN 2020/2021.** Estamos seleccionando estudiantes avanzadxs de Ingeniería de Sistemas para trabajar en un proyecto de análisis de fotografías de fondo de ojo utilizando deep learning. [Más info acá](https://ignaciorlando.github.io/post/open-position-2020-ini).
 
 #### Tesis de grado
 
