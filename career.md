@@ -18,6 +18,8 @@ such as [CONICET](https://www.conicet.gov.ar/?lan=en) or [CIC-PBA](https://www.g
 
 #### Becas y otras posiciones disponibles
 
+**Postulación a Convocatoria de Becas Doctorales de CONICET / CIC-PBA 2020.** Estamos seleccionando *graduadxs / estudiantes avanzadxs de informática* para presentar a becas doctorales de CONICET / CIC-PBA y trabajar en el desarrollo de enfoques novedosos de deep learning para el análisis automático de imágenes de la retina y asistencia al diagnóstico de enfermedades visuales. [Más info acá](https://ignaciorlando.github.io/post/open-position-2020-conicet/).
+
 **Becas de Ingreso a la Investigación INI de SECAT-UNICEN 2020/2021.** Estamos seleccionando *estudiantes avanzadxs de Ingeniería de Sistemas* para trabajar en un proyecto de análisis de fotografías de fondo de ojo utilizando deep learning. [Más info acá](https://ignaciorlando.github.io/post/open-position-2020-ini).
 
 #### Tesis de grado
