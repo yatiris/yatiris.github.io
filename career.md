@@ -18,9 +18,7 @@ such as [CONICET](https://www.conicet.gov.ar/?lan=en) or [CIC-PBA](https://www.g
 
 #### Becas y otras posiciones disponibles
 
-**Postulación a Convocatoria de Becas Postdoctorales de CONICET / CIC-PBA 2020.** Estamos seleccionando *doctores/as en matemática/ciencias de la computación/física* para presentar a becas postdoctorales de CONICET / CIC-PBA y trabajar en el proyectos vinculados a la aplicación de ciencias de la computación en medicina. [Más info acá](...).
-
-**Becas de Ingreso a la Investigación INI de SECAT-UNICEN 2020/2021.** Estamos seleccionando *estudiantes avanzadxs de Ingeniería de Sistemas* para trabajar en un proyecto de análisis de fotografías de fondo de ojo utilizando deep learning. [Más info acá](https://ignaciorlando.github.io/post/open-position-2020-ini).
+**Postulación a Convocatoria de Becas Postdoctorales de CONICET / CIC-PBA 2020.** Estamos seleccionando *doctores/as en matemática/ciencias de la computación/física* para presentar a becas postdoctorales de CONICET / CIC-PBA y trabajar en el proyectos vinculados a la aplicación de ciencias de la computación en medicina. [Más info acá](https://yatiris.github.io/2020/03/06/spa.html).
 
 #### Tesis de grado
 
