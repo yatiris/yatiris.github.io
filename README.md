@@ -5,13 +5,7 @@ This is repository for [Yatiris website](http://yatiris.github.com/). Most of th
 
 ## Run the page locally
 
-To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `jekyll serve` to see in `localhost:4000`. Here is a brief install guidelines.
-
-```bash
-sudo gem install jekyll
-sudo gem install rouge
-jekyll serve
-```
+To run locally, follow instruction [here](https://jekyllrb.com/) to install Jekyll then run `bundle exec jekyll serve` to see in `localhost:4000`.
 
 
 ## Add posts

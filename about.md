@@ -18,7 +18,7 @@ Our research covers several areas in medicine, including diagnosis and treatment
 
 We are settled in Tandil, a beautiful city located about 350 km away from Buenos Aires, Argentina. The name of the city comes from a combination of the Mapuche aborigin words "Than" or "Thav" ("falling) and "lil" ("rock). The name refers to the ["Moving Stone"](https://en.wikipedia.org/wiki/Piedra_Movediza) (["Piedra Movediza"](https://es.wikipedia.org/wiki/Piedra_movediza_de_Tandil) in Spanish), a big boulder naturally located at the edge of a clift, almost in perfect balance, until its fall back in 1912. 
 
-Our laboratory is located within the University Campus of UNICEN, at the facilities of PLADEMA Institute. Our offices are in a brand new building inaugurated in 2017.
+Our laboratory is located within the University Campus of UNICEN, at the facilities of [PLADEMA Institute](http://www.pladema.net). Our offices are in a brand new building inaugurated in 2017. You can easily find us in [Google Maps](https://goo.gl/maps/4uDyPWATFNGYrEMSA).
 
 
 #### Lab Members
@@ -28,7 +28,7 @@ Our research group is mainly composed of computer scientists and mathematicians,
 
 #### Publications
 
-For PDFs of our work, visit our [publications page](http://yatiris.github.io/publication/). Feel free to [issue on Github](https://github.com/yatiris/yatiris.github.io/issues) if links don't work or are obsolete.
+For PDFs of our latest publications, visit our [publications page](http://yatiris.github.io/publication/). Feel free to [issue on Github](https://github.com/yatiris/yatiris.github.io/issues) if links don't work or are obsolete.
 
 
 #### Other people we work with

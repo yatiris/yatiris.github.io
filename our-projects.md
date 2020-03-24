@@ -6,37 +6,61 @@ permalink: /our-projects/
 
 ![](/images/others/whiteboard.jpg)
 
-### Our projects
 
-We have several lines of research, all of them focused on bringing computational tools to medicine. We work with medical problems as targets, and we use machine learning, computer vision, simulation and computer graphics techniques to build our solutions.
+{% assign reference_types = "projects-english|projects-spanish" | split: "|" %}
+{% assign sorted_list_of_posts = (site.posts | sort: 'date') %}
 
-#### Neuroimaging
-TBW
+{% for type in reference_types %}
 
-#### Treatment planning
-TBW
+{% if type == "projects-english" %}
 
-#### Hemodynamics in cardiovascular disease
-TBW
+### **Projects (in English)**
+Take a quick look at the projects and initiatives we are working on:
 
-#### Ultrasound simulation
-TBW
+{% elsif type == "projects-spanish" %}
 
-#### Retinal imaging
-TBW
+### **Proyectos (en Español)**
+Estos son los proyectos e iniciativas en los que estamos trabajando:
 
+{% endif %}
 
-* * *
+<div class="content list">
+  {% for post in sorted_list_of_posts %}
+    {% if post.categories contains type %}
+    <div class="list-item">
+      <p class="list-post-title">
+        <a href="{{ site.baseurl }}{{ post.url }}">- {{ post.title }}</a>
+      </p>
+    </div>
+    {% endif %}
+  {% endfor %}
+</div>
+
+<hr>
+{% endfor %}
+
 
 ### Funding
 
 Here you can find the list of grants we got to fund our research.
+
+**(2020)** <br>
+_Segmentación de Ultrasonido Abdominal Debilmente Supervisada utilizando Imágenes Simuladas y Modelos Generativos con Consistencia Cíclica._<br>
+(Weakly-supervised Abdominal Ultrasound Segmentation using Simulated Scans and Cycle-Consistency based Generative Models.)<br>
+[Kaggle Open Data Research Grant.](https://www.kaggle.com/open-data-research-grant-2020-awardees#project-title-12) Google Kaggle. U$S 2.000.
+Researchers awarded: José Ignacio Orlando, Santiago Vitale, Emmanuel Iarussi, Alejandro Díaz, Ignacio Larrabide.
 
 **(2020-2022)** <br>
 _Modelado computacional de la circulación coronaria._<br>
 (Computational modelling of coronary circulation)<br>
 PICT-2018-2427. FONCyT. Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT). AR$ 339.600. 
 Principal Investigator: Carlos Bulant.
+
+**(2019-2021)** <br>
+_Modelado, simulación y optimización para aplicaciones computacionales de análisis y visualización de señales e imágenes._<br>
+(Modelization, simulation and optimization for computational application in signal and image analysis and visualization)
+Proyecto de Incentivos. Secretaría de Políticas Universitarias (SPU), Ministerio de Educación de la Nación.
+Principal Investigator: Mariana del Fresno.
 
 **(2018-2020)** <br>
 _HI-MED - Herramientas Informáticas aplicadas a la cuanticación de imagen, simulación y planicación del tratamiento en MEDicina._<br>
