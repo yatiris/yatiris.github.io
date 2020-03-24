@@ -30,6 +30,8 @@ nav:
     href:           "/people"
   - name:           "our projects"
     href:           "/our-projects"
+  - name:           "thesis"
+    href:           "/thesis"
   - name:           "publications"
     href:           "/publication"
   - name:           "news"

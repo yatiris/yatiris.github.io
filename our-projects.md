@@ -8,7 +8,7 @@ permalink: /our-projects/
 
 
 {% assign reference_types = "projects-english|projects-spanish" | split: "|" %}
-{% assign sorted_list_of_posts = (site.posts | sort: 'date') %}
+{% assign sorted_list_of_posts = site.posts | sort: 'date' %}
 
 {% for type in reference_types %}
 
