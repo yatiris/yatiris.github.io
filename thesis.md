@@ -17,7 +17,7 @@ These are the PhD thesis that were done in our group.
 TBD
 
 
-### Final Projects (Master Thesis)
+### Final Projects - Software Engineering
 
 These are some of the final projects of Software Engineering that were done in our group.
 
