@@ -11,14 +11,26 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2020
+_A clinically-aligned experimental approach for quantitative characterization of typical patient-specific cardiovascular models_<br>
+A. P. Narata, F. Moura, F. Patat, A. Marzo, I. Larrabide, J.-M. Gregoire, C. Perrault, C. A. Sennoga, A. Bouakaz<br>
+AIP Advances, 2020 ([Article](https://doi.org/10.1063/1.5141350))
 
 ### 2019
+_The role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow-diverter stents_<br>
+A. P. Narata, F. Moura, I. Larrabide, R. Chapot, C. Cognard, A.C. Januel, S. Velasco, A. Bouakaz, f. Patat, A. Marzo<br>
+J. NeuroIntervent., 2019 ([Article](https://doi.org/10.1136/neurintsurg-2019-015447))
 
 _Improving realism in patient-specific abdominal Ultrasound simulation using CycleGANs_<br>
 Santiago Vitale, José Ignacio Orlando, Emmanuel Iarussi, Ignacio Larrabide<br>
 International Journal of Computer Assisted Radiology and Surgery, 2019 ([Article](https://www.researchgate.net/profile/Jose_Orlando2/publication/334784748_Improving_realism_in_patient-specific_abdominal_Ultrasound_simulation_using_CycleGANs/links/5d414c4da6fdcc370a6f1119/Improving-realism-in-patient-specific-abdominal-Ultrasound-simulation-using-CycleGANs.pdf))
 
-_Lumen-intima and media-adventitia segmentation in IVUS images using supervised classifications of arterial layers and morphological structures_<br>
+_Automatic detection of morphological structures in Intravascular Ultrasound images with Convolutional Neural Network_<br>
+E. Moris, L. Lo Vercio, I. Larrabide<br>
+International Conference on Computer Assisted Radiology and Surgery, 2019 ([Presentation](http://medialibrary.cars2019.org/mediatheque/media.aspx?mediaId=71012&channel=70776))
+CARS 2019. Rennes, France.
+
+_Automatic segmentation of Intravascular Ultrasound images based on supervised classifications of arterial regions and morphological structures_<br>
 Lucas Lo Vercio, Mariana del Fresno, Ignacio Larrabide<br>
 Computer Methods and Programs in Biomedicine, 2019, ([Article](https://doi.org/10.1016/j.cmpb.2019.05.021))
 
@@ -43,9 +55,8 @@ P. Nejamkin, María Clausse, Carlos Alberto Bulant, A. Genaro, F. Landivar, Alej
 3er Congreso Internacional de la Asociacion de Anestesia y Analgesia Veterinaria de la República Argentina
 
 _Computational method to determine final disposition of a Woven Endobridge (WEB) device befire its placement_<br>
-R. Muñoz, Ignacio Larrabide<br>
-MACI 2019
-
+Romina Muñoz, Ignacio Larrabide<br>
+MACI 2019, Rio Cuarto, Córdoba, Argentina.
 
 ### 2018
 
