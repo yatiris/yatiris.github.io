@@ -27,8 +27,11 @@ International Journal of Computer Assisted Radiology and Surgery, 2019 ([Article
 
 _Automatic detection of morphological structures in Intravascular Ultrasound images with Convolutional Neural Network_<br>
 E. Moris, L. Lo Vercio, I. Larrabide<br>
-International Conference on Computer Assisted Radiology and Surgery, 2019 ([Presentation](http://medialibrary.cars2019.org/mediatheque/media.aspx?mediaId=71012&channel=70776))
-CARS 2019. Rennes, France.
+International Conference on Computer Assisted Radiology and Surgery, CARS 2019. Rennes, France. ([Presentation](http://medialibrary.cars2019.org/mediatheque/media.aspx?mediaId=71012&channel=70776))
+
+_Stenting As Heterogeneous Porous Media_<br>
+N. Dazeo, J. Dottori, G. Boroni, I. Larrabide<br>
+ENIEF 2019. Asociación Argentinade Mecánica Computacional, Santa fe, Argentina. ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5972/5964))
 
 _Automatic segmentation of Intravascular Ultrasound images based on supervised classifications of arterial regions and morphological structures_<br>
 Lucas Lo Vercio, Mariana del Fresno, Ignacio Larrabide<br>
@@ -112,6 +115,10 @@ _Towards a glaucoma risk index based on simulated hemodynamics from fundus image
 José Ignacio Orlando, João Barbosa Breda, Karel van Keer, Matthew B Blaschko, Pablo J Blanco, Carlos A Bulant<br>
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2018), 2018 ([Article](https://arxiv.org/pdf/1805.10273))
 
+_Heterogeneous porous media simulation_<br>
+N. Dazeo, J. Dottori, G. Boroni, I. Larrabide<br> 
+MECOM 2018. Santa fe, Argentina ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5619/5600))
+
 _A study of single subject VBM and DARTEL on healthy subjects_<br>
 Hernán Kulsgaard, Delfina Braggio, M. Bendersky, L. A. Ferrara, Ignacio Larrabide<br>
 14th International Symposium on Medical Information Processing and Analysis, 2018
@@ -131,8 +138,6 @@ Mecánica Computacional, 2018
 _Coronary flow estimation for the computational assessment of fractional flow reserve_<br>
 Carlos Alberto Bulant, Pablo Javier Blanco, G. D. Maso Talou, Alejandro Clausse, Carlos Bezerra, P. A. Lemos, R. A. Feijóo<br>
 Mecánica Computacional, 2018 ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5698))
-
-
 
 
 ### 2017
@@ -168,8 +173,6 @@ Rafael Namías, Juan Pablo D'Amato, Mariana del Fresno<br>
 _An open and extensible tool for manual segmentation of medical images in mobile devices_<br>
 Lucas Lo Vercio, Cecilia Sachetti, Mariana del Fresno<br>
 XXI Congreso Argentino de Bioingeniería (SABI 2017), 2017
-
-
 
 
 ### 2016
@@ -235,16 +238,15 @@ H. Fernandez, A. Curto, A. Ding, and Ignacio Larrabide<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256773))
 
 
-
 ### 2015
 
 _Perceptual Grouping by Tensor Voting: A Comparative Survey of Recent Approaches_<br>
 Emmanuel Maggiori, Hugo Luis Manterola, Mariana del Fresno<br>
-IET Computer Vision, 2015, ([Article](https://doi.org/10.1049/iet-cvi.2014.0103)
+IET Computer Vision, 2015, ([Article](https://doi.org/10.1049/iet-cvi.2014.0103))
 
 _Improving Cardiac Phase Extraction in IVUS Studies by Integration of Gating Methods_<br>
 G. D. Maso Talou, Ignacio Larrabide, Pablo Javier Blanco, C. Guedes Bezerra, P. A. Lemos and R. A. Feijóo. 
-IEEE Transactions on Biomedical Engineering, 2015 ([Article](https://doi.org/10.1109/TBME.2015.2449232)
+IEEE Transactions on Biomedical Engineering, 2015 ([Article](https://doi.org/10.1109/TBME.2015.2449232))
 
 _An Analysis of Mechanical and Computational Properties for Noninvasive Vascular Elastography_<br>
 Hugo Luis Manterola, Mariana del Fresno, Ignacio Larrabide<br>
@@ -261,9 +263,6 @@ V Congreso de Matemática Aplicada, Computacional e Industrial (MACI 2015), 2015
 _Segmentación múltiple de objetos en imágenes médicas basada en contornos activos_<br>
 Rafael Namías, Juan Pablo D´Amato, Mariana del Fresno, Marcelo Vénere<br>
 V Congreso de Matemática Aplicada, Computacional e Industrial (MACI 2015), 2015
-
-
-
 
 ### 2014
 
