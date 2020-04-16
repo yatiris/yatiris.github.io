@@ -88,6 +88,10 @@ _Real-World Variability in the Prediction of Intracranial Aneurysm WallShear Str
 K. Valen-Sendstad, A. W. Bergersen, Y. Shimogonya, L. Goubergrits, J. Bruening, J. Pallares, S. Cito, S. Piskin, K. Pekkan, A. J. Geers, Ignacio Larrabide, ... , D. A. Steinman.<br>
 Cardiovascular Engineering and Technology, 2018 ([Article](https://doi.org/10.1007/s13239-018-00374-2))
 
+_Sistema para el estudio de la evolución geométrica de la aorta en tratamientos de disección tipo B con prótesis endovascular_<br>
+Ramiro Diaz, Bruno Rudenick, Mariana del Fresno, Mariano Casciaro, Salma El-Batti, Jean Marc Alsac, Damian Craiem.<br>
+Mecánica Computacional, 2018 ([Article](https://cimec.org.ar/~mstorti/MECOM2018/paper-5851.pdf))
+
 _Effects on abdominal aorta fluid dynamics following the implantation of grafts based on endovascular aneurysm sealing system_<br>
 M. E. Casciaro, Javier Dottori, S. El-Batti, J.-M. Alsac, E. Mousseaux, Ignacio Larrabide and D. Craiem<br>
 Journal of Endovascular Surgery, 2018 ([Article](https://doi.org/10.1177/1538574418791059))
