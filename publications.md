@@ -21,6 +21,11 @@ _The role of distal cerebral vasculature in vessel constriction after aneurysm t
 A. P. Narata, F. Moura, I. Larrabide, R. Chapot, C. Cognard, A.C. Januel, S. Velasco, A. Bouakaz, f. Patat, A. Marzo<br>
 J. NeuroIntervent., 2019 ([Article](https://doi.org/10.1136/neurintsurg-2019-015447))
 
+
+_A multiscale method for producing homogenized drag laws of a permeable medium by conflating experimental data with Lattice-Boltzmann simulations_<br>
+A. Clausse, N. Silin, and G. Boroni<br>
+International Journal of Numerical Methods for Heat and Fluid Flow, 2019 ([Article](https://doi.org/10.1108/HFF-01-2019-0058)) 
+
 _Improving realism in patient-specific abdominal Ultrasound simulation using CycleGANs_<br>
 Santiago Vitale, José Ignacio Orlando, Emmanuel Iarussi, Ignacio Larrabide<br>
 International Journal of Computer Assisted Radiology and Surgery, 2019 ([Article](https://www.researchgate.net/profile/Jose_Orlando2/publication/334784748_Improving_realism_in_patient-specific_abdominal_Ultrasound_simulation_using_CycleGANs/links/5d414c4da6fdcc370a6f1119/Improving-realism-in-patient-specific-abdominal-Ultrasound-simulation-using-CycleGANs.pdf))
