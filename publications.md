@@ -12,15 +12,28 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 <hr>
 
 ### 2020
+
+_Stenting as porous media in anatomically accurate geometries. A comparison of models and spatial heterogeneity_<br>
+N. Dazeo, J. Dottori, G. Boroni, A. P. Narata, I. Larrabide<br>
+Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945).
+
 _A clinically-aligned experimental approach for quantitative characterization of typical patient-specific cardiovascular models_<br>
 A. P. Narata, F. Moura, F. Patat, A. Marzo, I. Larrabide, J.-M. Gregoire, C. Perrault, C. A. Sennoga, A. Bouakaz<br>
 AIP Advances, 2020 ([Article](https://doi.org/10.1063/1.5141350))
+
+_Automated Quantification of Photoreceptor alteration in macular disease using Optical Coherence Tomography and Deep Learning_<br>
+J. I. Orlando, B. S. Gerendas, S. Riedl, C. Grechenig, A. Breger, M. Ehler, S. M. Waldstein, H. Bogunović, U. Schmidt-Erfurth<br>
+Scientific Reports, 2020 ([Article](https://doi.org/10.1038/s41598-020-62329-9))
+
+_REFUGE Challenge: A Unified Framework for Evaluating Automated Methods for Glaucoma Assessment from Fundus Photographs_<br>
+J. I. Orlando, H. Fu, J. Barbosa Breda, K. van Keer, D. R. Bathula, A. Diaz-Pinto, R. Fang, P-A. Heng, J. Kim, J. Lee, J. Lee, X. Li, P. Liu, S. Lu, B. Murugesan, V. Naranjo, S. S. R. Phaye, S. M. Shankaranarayana, A. Sikka, J. Son, A. van den Hengel, S. Wang, J. Wu, Z. Wu, G. Xu, Y. Xu, P. Yin, F. Li, X. Zhang, Y. Xu, H. Bogunović<br>
+Medical Image Analysis, 2020 ([Article](https://doi.org/10.1016/j.media.2019.101570))
+
 
 ### 2019
 _The role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow-diverter stents_<br>
 A. P. Narata, F. Moura, I. Larrabide, R. Chapot, C. Cognard, A.C. Januel, S. Velasco, A. Bouakaz, f. Patat, A. Marzo<br>
 J. NeuroIntervent., 2019 ([Article](https://doi.org/10.1136/neurintsurg-2019-015447))
-
 
 _A multiscale method for producing homogenized drag laws of a permeable medium by conflating experimental data with Lattice-Boltzmann simulations_<br>
 A. Clausse, N. Silin, and G. Boroni<br>
