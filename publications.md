@@ -15,7 +15,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Stenting as porous media in anatomically accurate geometries. A comparison of models and spatial heterogeneity_<br>
 N. Dazeo, J. Dottori, G. Boroni, A. P. Narata, I. Larrabide<br>
-Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945).
+Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945)).
 
 _A clinically-aligned experimental approach for quantitative characterization of typical patient-specific cardiovascular models_<br>
 A. P. Narata, F. Moura, F. Patat, A. Marzo, I. Larrabide, J.-M. Gregoire, C. Perrault, C. A. Sennoga, A. Bouakaz<br>
