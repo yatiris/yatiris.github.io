@@ -21,6 +21,10 @@ Nicolás Dazeo (Nico) is a PhD student in Computational and Industrial Mathemati
 
 ### Relevant publications
 
+_Stenting as porous media in anatomically accurate geometries. A comparison of models and spatial heterogeneity_<br>
+N. Dazeo, J. Dottori, G. Boroni, A. P. Narata, I. Larrabide<br>
+Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945)).
+
 _A comparative study of Porous Medium CFD Models for Flow Diverter stents: advantages and short-comings_<br> 
 Nicolás Dazeo, Javier Dottori, Gustavo Boroni, Ignacio Larrabide. <br>
 International Journal for Numerical Methods in Biomedical Engineering, 2018 ([Article](https://doi.org/10.1002/cnm.3145))
