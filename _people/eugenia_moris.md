@@ -1,6 +1,6 @@
 ---
 name: Eugenia Moris
-position: undergrad
+position: phdstudent
 avatar: euge_moris.jpg
 twitter:
 joined: 2018
@@ -17,6 +17,6 @@ joined: 2018
 
 ### Bio
 
-Eugenia Moris (Euge) is an undergrad student of Software Engineering, working on his final project in intravascular ultrasound imaging (IVUS) and deep learning.
+Eugenia Moris (Euge) is Software Engineer and a PhD student in Computational and Industrial Mathematics, working in EEG signal processing with machine learning techniques with a PhD scholarship granted by CONICET.
 
 <hr>

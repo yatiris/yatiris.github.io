@@ -11,14 +11,47 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2020
+
+_Stenting as porous media in anatomically accurate geometries. A comparison of models and spatial heterogeneity_<br>
+N. Dazeo, J. Dottori, G. Boroni, A. P. Narata, I. Larrabide<br>
+Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945)).
+
+_A clinically-aligned experimental approach for quantitative characterization of typical patient-specific cardiovascular models_<br>
+A. P. Narata, F. Moura, F. Patat, A. Marzo, I. Larrabide, J.-M. Gregoire, C. Perrault, C. A. Sennoga, A. Bouakaz<br>
+AIP Advances, 2020 ([Article](https://doi.org/10.1063/1.5141350))
+
+_Automated Quantification of Photoreceptor alteration in macular disease using Optical Coherence Tomography and Deep Learning_<br>
+J. I. Orlando, B. S. Gerendas, S. Riedl, C. Grechenig, A. Breger, M. Ehler, S. M. Waldstein, H. Bogunović, U. Schmidt-Erfurth<br>
+Scientific Reports, 2020 ([Article](https://doi.org/10.1038/s41598-020-62329-9))
+
+_REFUGE Challenge: A Unified Framework for Evaluating Automated Methods for Glaucoma Assessment from Fundus Photographs_<br>
+J. I. Orlando, H. Fu, J. Barbosa Breda, K. van Keer, D. R. Bathula, A. Diaz-Pinto, R. Fang, P-A. Heng, J. Kim, J. Lee, J. Lee, X. Li, P. Liu, S. Lu, B. Murugesan, V. Naranjo, S. S. R. Phaye, S. M. Shankaranarayana, A. Sikka, J. Son, A. van den Hengel, S. Wang, J. Wu, Z. Wu, G. Xu, Y. Xu, P. Yin, F. Li, X. Zhang, Y. Xu, H. Bogunović<br>
+Medical Image Analysis, 2020 ([Article](https://doi.org/10.1016/j.media.2019.101570))
+
 
 ### 2019
+_The role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow-diverter stents_<br>
+A. P. Narata, F. Moura, I. Larrabide, R. Chapot, C. Cognard, A.C. Januel, S. Velasco, A. Bouakaz, f. Patat, A. Marzo<br>
+J. NeuroIntervent., 2019 ([Article](https://doi.org/10.1136/neurintsurg-2019-015447))
+
+_A multiscale method for producing homogenized drag laws of a permeable medium by conflating experimental data with Lattice-Boltzmann simulations_<br>
+A. Clausse, N. Silin, and G. Boroni<br>
+International Journal of Numerical Methods for Heat and Fluid Flow, 2019 ([Article](https://doi.org/10.1108/HFF-01-2019-0058)) 
 
 _Improving realism in patient-specific abdominal Ultrasound simulation using CycleGANs_<br>
 Santiago Vitale, José Ignacio Orlando, Emmanuel Iarussi, Ignacio Larrabide<br>
 International Journal of Computer Assisted Radiology and Surgery, 2019 ([Article](https://www.researchgate.net/profile/Jose_Orlando2/publication/334784748_Improving_realism_in_patient-specific_abdominal_Ultrasound_simulation_using_CycleGANs/links/5d414c4da6fdcc370a6f1119/Improving-realism-in-patient-specific-abdominal-Ultrasound-simulation-using-CycleGANs.pdf))
 
-_Lumen-intima and media-adventitia segmentation in IVUS images using supervised classifications of arterial layers and morphological structures_<br>
+_Automatic detection of morphological structures in Intravascular Ultrasound images with Convolutional Neural Network_<br>
+E. Moris, L. Lo Vercio, I. Larrabide<br>
+International Conference on Computer Assisted Radiology and Surgery, CARS 2019. Rennes, France. ([Presentation](http://medialibrary.cars2019.org/mediatheque/media.aspx?mediaId=71012&channel=70776))
+
+_Stenting As Heterogeneous Porous Media_<br>
+N. Dazeo, J. Dottori, G. Boroni, I. Larrabide<br>
+ENIEF 2019. Asociación Argentinade Mecánica Computacional, Santa fe, Argentina. ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5972/5964))
+
+_Automatic segmentation of Intravascular Ultrasound images based on supervised classifications of arterial regions and morphological structures_<br>
 Lucas Lo Vercio, Mariana del Fresno, Ignacio Larrabide<br>
 Computer Methods and Programs in Biomedicine, 2019, ([Article](https://doi.org/10.1016/j.cmpb.2019.05.021))
 
@@ -43,9 +76,8 @@ P. Nejamkin, María Clausse, Carlos Alberto Bulant, A. Genaro, F. Landivar, Alej
 3er Congreso Internacional de la Asociacion de Anestesia y Analgesia Veterinaria de la República Argentina
 
 _Computational method to determine final disposition of a Woven Endobridge (WEB) device befire its placement_<br>
-R. Muñoz, Ignacio Larrabide<br>
-MACI 2019
-
+Romina Muñoz, Ignacio Larrabide<br>
+MACI 2019, Rio Cuarto, Córdoba, Argentina.
 
 ### 2018
 
@@ -68,6 +100,10 @@ Experiments in Fluids, 2018 ([Article](https://doi.org/10.1007/s00348-018-2635-8
 _Real-World Variability in the Prediction of Intracranial Aneurysm WallShear Stress: The 2015 International Aneurysm CFD Challenge_<br>
 K. Valen-Sendstad, A. W. Bergersen, Y. Shimogonya, L. Goubergrits, J. Bruening, J. Pallares, S. Cito, S. Piskin, K. Pekkan, A. J. Geers, Ignacio Larrabide, ... , D. A. Steinman.<br>
 Cardiovascular Engineering and Technology, 2018 ([Article](https://doi.org/10.1007/s13239-018-00374-2))
+
+_Sistema para el estudio de la evolución geométrica de la aorta en tratamientos de disección tipo B con prótesis endovascular_<br>
+Ramiro Diaz, Bruno Rudenick, Mariana del Fresno, Mariano Casciaro, Salma El-Batti, Jean Marc Alsac, Damian Craiem.<br>
+Mecánica Computacional, 2018 ([Article](https://cimec.org.ar/~mstorti/MECOM2018/paper-5851.pdf))
 
 _Effects on abdominal aorta fluid dynamics following the implantation of grafts based on endovascular aneurysm sealing system_<br>
 M. E. Casciaro, Javier Dottori, S. El-Batti, J.-M. Alsac, E. Mousseaux, Ignacio Larrabide and D. Craiem<br>
@@ -101,6 +137,10 @@ _Towards a glaucoma risk index based on simulated hemodynamics from fundus image
 José Ignacio Orlando, João Barbosa Breda, Karel van Keer, Matthew B Blaschko, Pablo J Blanco, Carlos A Bulant<br>
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2018), 2018 ([Article](https://arxiv.org/pdf/1805.10273))
 
+_Heterogeneous porous media simulation_<br>
+N. Dazeo, J. Dottori, G. Boroni, I. Larrabide<br> 
+MECOM 2018. Santa fe, Argentina ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5619/5600))
+
 _A study of single subject VBM and DARTEL on healthy subjects_<br>
 Hernán Kulsgaard, Delfina Braggio, M. Bendersky, L. A. Ferrara, Ignacio Larrabide<br>
 14th International Symposium on Medical Information Processing and Analysis, 2018
@@ -120,8 +160,6 @@ Mecánica Computacional, 2018
 _Coronary flow estimation for the computational assessment of fractional flow reserve_<br>
 Carlos Alberto Bulant, Pablo Javier Blanco, G. D. Maso Talou, Alejandro Clausse, Carlos Bezerra, P. A. Lemos, R. A. Feijóo<br>
 Mecánica Computacional, 2018 ([Article](https://cimec.org.ar/ojs/index.php/mc/article/view/5698))
-
-
 
 
 ### 2017
@@ -157,8 +195,6 @@ Rafael Namías, Juan Pablo D'Amato, Mariana del Fresno<br>
 _An open and extensible tool for manual segmentation of medical images in mobile devices_<br>
 Lucas Lo Vercio, Cecilia Sachetti, Mariana del Fresno<br>
 XXI Congreso Argentino de Bioingeniería (SABI 2017), 2017
-
-
 
 
 ### 2016
@@ -224,16 +260,15 @@ H. Fernandez, A. Curto, A. Ding, and Ignacio Larrabide<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256773))
 
 
-
 ### 2015
 
 _Perceptual Grouping by Tensor Voting: A Comparative Survey of Recent Approaches_<br>
 Emmanuel Maggiori, Hugo Luis Manterola, Mariana del Fresno<br>
-IET Computer Vision, 2015, ([Article](https://doi.org/10.1049/iet-cvi.2014.0103)
+IET Computer Vision, 2015, ([Article](https://doi.org/10.1049/iet-cvi.2014.0103))
 
 _Improving Cardiac Phase Extraction in IVUS Studies by Integration of Gating Methods_<br>
 G. D. Maso Talou, Ignacio Larrabide, Pablo Javier Blanco, C. Guedes Bezerra, P. A. Lemos and R. A. Feijóo. 
-IEEE Transactions on Biomedical Engineering, 2015 ([Article](https://doi.org/10.1109/TBME.2015.2449232)
+IEEE Transactions on Biomedical Engineering, 2015 ([Article](https://doi.org/10.1109/TBME.2015.2449232))
 
 _An Analysis of Mechanical and Computational Properties for Noninvasive Vascular Elastography_<br>
 Hugo Luis Manterola, Mariana del Fresno, Ignacio Larrabide<br>
@@ -250,9 +285,6 @@ V Congreso de Matemática Aplicada, Computacional e Industrial (MACI 2015), 2015
 _Segmentación múltiple de objetos en imágenes médicas basada en contornos activos_<br>
 Rafael Namías, Juan Pablo D´Amato, Mariana del Fresno, Marcelo Vénere<br>
 V Congreso de Matemática Aplicada, Computacional e Industrial (MACI 2015), 2015
-
-
-
 
 ### 2014
 
