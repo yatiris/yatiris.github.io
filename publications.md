@@ -1,6 +1,6 @@
 ---
-title: Publication
-permalink: /publication/
+title: Publications
+permalink: /publications/
 ---
 
 ![](/images/others/whiteboard.jpg)
