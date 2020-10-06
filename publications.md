@@ -13,6 +13,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2020
 
+_ID-Fit: Intra-saccular device adjustment for personalized cerebral aneurysm treatment_<br>
+R. Muñoz, A. P. Narata, I. Larrabide<br>
+International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020), 2020 ([Article](https://doi.org/10.1007/978-3-030-59725-2_10)). 
+
+_AGE challenge: Angle Closure Glaucoma Evaluation in Anterior Segment Optical Coherence Tomography_<br>
+H. Fu, F. Li, X. Sun, X. Cao, J. Liao, J I. Orlando, X.Tao, Y. Li, S. Zhang, M. Tan, C. Yuan, C. Bian, R. Xie, J. Li, X. Li, J. Wang, L. Geng, P. Li, H. Hao, J. Liu, Y. Kong, Y. Ren, H. Bogunović, X. Zhang, Y. Xu for iChallenge-PACG study group.<br>
+Medical Image Analysis, 2020 ([Article](https://doi.org/10.1016/j.media.2020.101798))
+
 _Stenting as porous media in anatomically accurate geometries. A comparison of models and spatial heterogeneity_<br>
 N. Dazeo, J. Dottori, G. Boroni, A. P. Narata, I. Larrabide<br>
 Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945)).

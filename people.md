@@ -49,6 +49,8 @@ permalink: /people/
 
 ### Past members
 
+**Hugo Luis Manterola** - Ph.D. student and Postdoc from 2013 to 2020, now Teaching Assistant at UNICEN and software developer at [Lamansys](https://lamansys.com.ar/).
+**Tomás Pérez Cambet** - Undergrad student from 2018 to 2020.
 [**Lucas Lo Vercio**](http://www.pladema.net/llovercio/) - Ph.D. student and Postdoc from 2012 to 2017, now postdoc at University of Calgari (Canada) <br>
 **Pablo Rubí** - Undergrad and Ph.D. student from 2016 to 2017), now Software Developer at Amazon (Seattle, USA) <br>
 **Ezequiel Fernández Vera** - Undergrad student and Research Engineer (2015-2017), now Software Developer at PLADEMA (SINIDE project) <br>

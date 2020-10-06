@@ -1,0 +1,22 @@
+---
+name: Francisco Iarussi
+position: undergrad
+avatar: francisco_iarussi.jpg
+twitter:
+joined: 2020
+---
+
+<img width="300" src="{{site.baseurl}}/images/people/{{page.avatar}}" data-action="zoom">
+
+### Contact
+
+<i class="fa fa-envelope-o"></i>  `franciscoiarussi74@gmail.com`<br>
+<i class="fa fa-building"></i> Pladema (new wing) <br>
+
+<hr>
+
+### Bio
+
+Francisco Iarussi (Fran) is an undergrad student of Software Engineering, working on his final project in machine learning based hippocampi assymetry characterization from brain MRI scans. He's also a research trainee working with a scholarship granted by CIN.
+
+<hr>
