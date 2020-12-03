@@ -13,6 +13,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2020
 
+_Automated lumen segmentation using multi-frame convolutional neural networks in Intravascular Ultrasound datasets_<br>
+P. G. P. Ziemer, C.A. Bulant, J.I. Orlando, G. D. Maso Talou, L. A. M. Álvarez, C. Guedes Bezerra, P. A. Lemos, H. M. García-García and P. J. Blanco. 
+European Heart Journal Digital Health, 2020 ([Article](https://doi:10.1093/ehjdh/ztaa014)).
+
+_Machine learning for filtering out false positive grey matteratrophies in single subject voxel based morphometry: a simulation based study_<br>
+H. Külsgaard, J. I. Orlando, M. Bendersky, J. P. Princich, L. S. R. Manzanera, A. Vargas, S. Kochen and I. Larrabide. 
+Journal of the Neurological Sciences, 2020 ([Article](https://doi:10.1016/j.jns.2020.117220)).
+
 _ID-Fit: Intra-saccular device adjustment for personalized cerebral aneurysm treatment_<br>
 R. Muñoz, A. P. Narata, I. Larrabide<br>
 International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI 2020), 2020 ([Article](https://doi.org/10.1007/978-3-030-59725-2_10)). 
