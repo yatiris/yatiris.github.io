@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2020
 
+_SketchZooms: Deep multi-view descriptors for matching line drawings_<br>
+P Navarro, JI Orlando, C Delrieux, E Iarussi<br>
+Computer Graphics Forum, 2020 ([Article]()).
+
 _A low-cost portable simulator of a domestic cat larynx for teaching endotracheal intubation_<br>
 M. Clausse, P. Nejamkin, C. A. Bulant, A. Genaro, F. Landivar, M. J. Del Sole, and A. Clausse.<br>
 Veterinary Anaesthesia and Analgesia, 2020 ([Article](https://doi.org/10.1016/j.vaa.2020.05.006)).
@@ -24,6 +28,14 @@ European Heart Journal Digital Health, 2020 ([Article](https://doi:10.1093/ehjdh
 _Machine learning for filtering out false positive grey matter atrophies in single subject voxel based morphometry: a simulation based study_<br>
 H. Külsgaard, J. I. Orlando, M. Bendersky, J. P. Princich, L. S. R. Manzanera, A. Vargas, S. Kochen and I. Larrabide.<br>
 Journal of the Neurological Sciences, 2020 ([Article](https://doi:10.1016/j.jns.2020.117220)).
+
+_High performance ultrasound simulation using Monte-Carlo simulation: a GPU ray-tracing implementation_<br>
+T. Pérez Cambet, S. Vital, I Larrabide<br>
+16th International Symposium on Medical Information Processing and Analysis, 2020 ([Article](https://doi.org/10.1117/12.2576099)).
+
+_VBM sensitivity to localization and extent of mouse brain lesions: A simulation approach_<br>
+D. Braggio, J. Barbeito-Andrés, P. Gonzalez, B. Hallgrímsson, I. Larrabide<br>
+Computer Methods and Programs in Biomedicine, 2020 ([Article](https://doi.org/10.1016/j.cmpb.2020.105636)).
 
 _ID-Fit: Intra-saccular device adjustment for personalized cerebral aneurysm treatment_<br>
 R. Muñoz, A. P. Narata, I. Larrabide<br>
@@ -37,6 +49,10 @@ _Stenting as porous media in anatomically accurate geometries. A comparison of m
 N. Dazeo, J. Dottori, G. Boroni, A. P. Narata, I. Larrabide<br>
 Journal of Biomechanics, 2020 ([Article](https://doi.org/10.1016/j.jbiomech.2020.109945)).
 
+_Regional assessment of vascular morphology and hemodynamics: methodology and evaluation for abdominal aortic aneurysms after endovascular repair_<br>
+Javier Dottori, Mariano Casciaro, Damian Craiem, Salma El-Batti, Elie Mousseaux, Jean-Marc Alsac, Ignacio Larrabide<br>
+Computer Methods in Biomechanics and Biomedical Engineering, 2020 ([Article](https://doi.org/10.1080/10255842.2020.1786073)).
+
 _A clinically-aligned experimental approach for quantitative characterization of typical patient-specific cardiovascular models_<br>
 A. P. Narata, F. Moura, F. Patat, A. Marzo, I. Larrabide, J.-M. Gregoire, C. Perrault, C. A. Sennoga, A. Bouakaz<br>
 AIP Advances, 2020 ([Article](https://doi.org/10.1063/1.5141350))
@@ -48,6 +64,14 @@ Scientific Reports, 2020 ([Article](https://doi.org/10.1038/s41598-020-62329-9))
 _REFUGE Challenge: A Unified Framework for Evaluating Automated Methods for Glaucoma Assessment from Fundus Photographs_<br>
 J. I. Orlando, H. Fu, J. Barbosa Breda, K. van Keer, D. R. Bathula, A. Diaz-Pinto, R. Fang, P-A. Heng, J. Kim, J. Lee, J. Lee, X. Li, P. Liu, S. Lu, B. Murugesan, V. Naranjo, S. S. R. Phaye, S. M. Shankaranarayana, A. Sikka, J. Son, A. van den Hengel, S. Wang, J. Wu, Z. Wu, G. Xu, Y. Xu, P. Yin, F. Li, X. Zhang, Y. Xu, H. Bogunović<br>
 Medical Image Analysis, 2020 ([Article](https://doi.org/10.1016/j.media.2019.101570))
+
+_Role of distal cerebral vasculature in vessel constriction after aneurysm treatment with flow diverter stents_<br>
+Ana Paula Narata, Fernando Moura, Ignacio Larrabide, René Chapot, Christophe Cognard, Anne-Christine Januel, Stéphane Velasco, Ayache Bouakaz, Frederic Patat, Alberto Marzo<br>
+Journal of NeuroInterventional Surgery, 2020 ([Article](http://dx.doi.org/10.1136/neurintsurg-2019-015447))
+
+_Software-based simulation for preprocedural assessment of Tubridge flow diverter sizing: a validation study_<br>
+Jia-nan Li, Laura Obradó, Ignacio Larrabide, Héctor Fernández, Nan Lv, Qiang Li, Peng-fei Yang, Qing-hai Huang, Yi Xu, Bo Hong, Jian-min Liu, Yi-bin Fang<br>
+Research Square, 2020 ([Article](https://doi.org/10.21203/rs.2.18768/v1))
 
 
 ### 2019
