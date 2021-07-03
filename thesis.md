@@ -40,9 +40,10 @@ Since we established ourselves as Yatiris in 2014, several PhD students made the
     </div>
     {% endif %}
   {% endfor %}
-</div>
 
-<hr>
+  <hr>
+
+</div>
 
 
 ### Final Projects - Software Engineering
