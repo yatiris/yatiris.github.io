@@ -39,7 +39,7 @@ permalink: /people/
 {% endfor %}
 
 
-### Other PLADEMA members
+### Other PLADEMA members who work with us
 
 **Marcelo Vénere** - Director <br>
 **Alejandro Clausse** - Vice-director <br>
@@ -49,9 +49,12 @@ permalink: /people/
 
 ### Past members
 
+**Rodrigo Cobo** - Undergrad student, now Data Scientist at [Globant](https://www.globant.com/en) <br>
+**Francisco Iarussi** - Undergrad student and Research Trainee from 2020 to 2021, now QA and Test Automation Engineer at [Globant](https://www.globant.com/en) <br>
 **Javier Dottori** - Ph.D. student and Postdoc from 2012 to 2020, now Senior Software Engineer at [Glofox](https://www.glofox.com/) <br>
 **Hugo Luis Manterola** - Ph.D. student and Postdoc from 2013 to 2019, now Software Developer at [Lamansys](https://lamansys.com.ar/) <br>
-**Tomás Pérez Cambet** - Undergrad student from 2018 to 2020. <br>
+**Giulia Carbonari** - Ph.D. student from 2019 to 2021, now Ph.D. student at [ITBA](https://www.itba.edu.ar/) <br>
+**Tomás Pérez Cambet** - Undergrad student from 2018 to 2020, now Software Development Engineer at [Salesforce](https://www.salesforce.com/mx/?ir=1) <br>
 [**Lucas Lo Vercio**](http://www.pladema.net/llovercio/) - Ph.D. student and Postdoc from 2012 to 2017, now postdoc at University of Calgari (Canada) <br>
 **Pablo Rubí** - Undergrad and Ph.D. student from 2016 to 2017), now Software Developer at Amazon (Seattle, USA) <br>
-**Ezequiel Fernández Vera** - Undergrad student and Research Engineer (2015-2017), now Software Developer at PLADEMA (SINIDE project) <br>
+**Ezequiel Fernández Vera** - Undergrad student and Research Engineer (2015-2017), now Software Developer at [Lamansys](https://lamansys.com.ar/) <br>

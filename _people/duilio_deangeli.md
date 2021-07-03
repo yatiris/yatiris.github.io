@@ -1,7 +1,7 @@
 ---
 name: Duilio Deangeli
 position: phdstudent
-avatar: 
+avatar: duilio_deangeli.jpg
 twitter:
 joined: 2021
 ---
