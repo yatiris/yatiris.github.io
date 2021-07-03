@@ -14,7 +14,7 @@ permalink: /our-projects/
 
 {% if type == "projects-english" %}
 
-### **Projects (in English)**
+### **Research projects**
 Take a quick look at the projects and initiatives we are working on:
 
 {% endif %}
@@ -52,7 +52,7 @@ NVIDIA Applied Research Accelerator Program. NVIDIA Corporation. 500 hours of cl
 Researcher awarded: José Ignacio Orlando.
 
 _Hacia una plataforma inteligente para el tamizado remoto de la retinopatía diabética: control de calidad de fotografías de fondo de ojo utilizando autocodificadores._<br>
-(Towards a smart platform for diabetic retinopathy screening: automated quality control of color fundus photographs using autoencoders)
+(Towards a smart platform for diabetic retinopathy screening: automated quality control of color fundus photographs using autoencoders) <br>
 03-JOVIN-37c. Secretaría de Ciencia, Arte y Tecnología, Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN). AR$ 100.000.
 Principal Investigator: José Ignacio Orlando.
 
