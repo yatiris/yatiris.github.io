@@ -17,10 +17,12 @@ permalink: /our-projects/
 ### **Projects (in English)**
 Take a quick look at the projects and initiatives we are working on:
 
+<!-->
 {% elsif type == "projects-spanish" %}
 
 ### **Proyectos (en Español)**
 Estos son los proyectos e iniciativas en los que estamos trabajando:
+<-->
 
 {% endif %}
 
@@ -43,6 +45,23 @@ Estos son los proyectos e iniciativas en los que estamos trabajando:
 ### Funding
 
 Here you can find the list of grants we got to fund our research.
+
+**(2021-2023)** <br>
+_CANOA: CAracterización morfológica de la cabeza del Nervio Óptico en fotografías de fondo de ojo mediante Aprendizaje profundo._<br>
+(CANOA: Morphological characterization of the optic nerve head in color fundus photographs using deep learning.)<br>
+PICT-2019-00070. FONCyT. Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT). AR$ 475.000. 
+Principal Investigator: José Ignacio Orlando.
+
+**(2021)** <br>
+_retinar: assisting remote diabetic retinopathy screening with AI tools._<br>
+(Weakly-supervised Abdominal Ultrasound Segmentation using Simulated Scans and Cycle-Consistency based Generative Models.)<br>
+NVIDIA Applied Research Accelerator Program. NVIDIA Corporation. 500 hours of cloud computing in V100 GPUs using SaturnCloud.<br>
+Researcher awarded: José Ignacio Orlando.
+
+_Hacia una plataforma inteligente para el tamizado remoto de la retinopatía diabética: control de calidad de fotografías de fondo de ojo utilizando autocodificadores._<br>
+(Towards a smart platform for diabetic retinopathy screening: automated quality control of color fundus photographs using autoencoders)
+03-JOVIN-37c. Secretaría de Ciencia, Arte y Tecnología, Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN). AR$ 100.000.
+Principal Investigator: José Ignacio Orlando.
 
 **(2020)** <br>
 _Segmentación de Ultrasonido Abdominal Debilmente Supervisada utilizando Imágenes Simuladas y Modelos Generativos con Consistencia Cíclica._<br>
