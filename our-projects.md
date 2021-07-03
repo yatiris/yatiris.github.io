@@ -17,13 +17,6 @@ permalink: /our-projects/
 ### **Projects (in English)**
 Take a quick look at the projects and initiatives we are working on:
 
-<!-->
-{% elsif type == "projects-spanish" %}
-
-### **Proyectos (en Español)**
-Estos son los proyectos e iniciativas en los que estamos trabajando:
-<-->
-
 {% endif %}
 
 <div class="content list">
