@@ -14,33 +14,6 @@ Here you can find some of the PhD thesis and final projects of Software Engineer
 
 Since we established ourselves as Yatiris in 2014, several PhD students made there thesis in our lab. We are always looking for talented, enthusiastic students with a strong mathematical and software development backgroud to join Yatiris to pursue a doctorate degree. If you want to know more about our open positions, you can check the Career tab in this website, or send us an email to [yatirisarg@gmail.com](mailto:yatirisarg@gmail.com).
 
-<div class="content list">
-  {% for post in site.posts %}
-    {% if post.categories contains "tesis-doctorado" %}
-    <div class="list-item">
-      <p class="list-post-title">
-        <a href="{{ post.url | prepend: site.baseurl }}">
-            <div class="row">
-                <div class="col-sm-4">
-                    <img src="/{% if post.header-img %}{{ post.header-img }}{% else %}{{ site.header-img }}{% endif %}">
-                </div>
-                <div class="col-sm-8">
-                    <h5 class="post-title">
-                        {{ post.title }}
-                    </h5>
-                    <p class="list-detail" style="color:#A8A3A0" >
-                      {{ post.description }}
-                    </p>
-                </div>
-            </div>
-            <hr/>
-        </a>
-      </p>
-    </div>
-    {% endif %}
-  {% endfor %}
-</div>
-
 
 ### Final Projects - Software Engineering
 

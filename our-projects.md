@@ -31,7 +31,6 @@ Take a quick look at the projects and initiatives we are working on:
   {% endfor %}
 </div>
 
-<hr>
 {% endfor %}
 
 
