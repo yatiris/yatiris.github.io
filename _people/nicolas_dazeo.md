@@ -12,6 +12,7 @@ joined: 2015
 
 <i class="fa fa-envelope-o"></i>  `ndazeo@conicet.gov.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=FtvEn3MAAAAJ&hl=es&oi=ao)
 
 <hr>
 

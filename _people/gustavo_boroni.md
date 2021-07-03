@@ -13,7 +13,7 @@ order: 5
 
 <i class="fa fa-envelope-o"></i>  `gboroni@exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (old wing) <br>
-<i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.es/citations?user=LX6b2wsAAAAJ&hl=en)
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.es/citations?user=LX6b2wsAAAAJ&hl=en)
 
 <hr>
 
@@ -23,12 +23,20 @@ Gustavo Boroni (Boro) is an Associate Researcher from CONICET working at PLADEMA
 
 ### Relevant publications
 
+_A Python implementation in graphic processing unit of a lattice Boltzmann model for unstable three-dimensional flows in immersed permeable media_<br>
+**Gustavo Boroni**, Nicolás Silin, Alejandro Clausse. <br>
+Physics of Fluids, 2020
+
+_Stenting as porous media in anatomically accurate geometries. A comparison of models and spatial heterogeneity_<br>
+I. Larrabide N. Dazeo, J. Dottori, **G. Boroni**, A. Narata <br>
+Journal of Biomechanics, 2020
+
 _A comparative study of Porous Medium CFD Models for Flow Diverter stents: advantages and short-comings_<br> 
-Nicolás Dazeo, Javier Dottori, Gustavo Boroni, Ignacio Larrabide. <br>
+Nicolás Dazeo, Javier Dottori, **Gustavo Boroni**, Ignacio Larrabide. <br>
 International Journal for Numerical Methods in Biomedical Engineering, 2018 ([Article](https://doi.org/10.1002/cnm.3145))
 
 _Flow diverter stents simulation with CFD: porous media modelling_<br>
-Nicolás Dazeo, Javier Dottori, Gustavo Boroni, Alejandro Clausse, Ignacio Larrabide<br>
+Nicolás Dazeo, Javier Dottori, **Gustavo Boroni**, Alejandro Clausse, Ignacio Larrabide<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256674))
 
 <hr>

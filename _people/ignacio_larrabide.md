@@ -13,7 +13,7 @@ order: 1
 
 <i class="fa fa-envelope-o"></i>  `larrabide@exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
-<i class="fa fa-bar-chart"></i> [google scholar](https://scholar.google.com/citations?user=eezVodIAAAAJ&hl=en)
+<i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?user=eezVodIAAAAJ&hl=en)
 
 <hr>
 
