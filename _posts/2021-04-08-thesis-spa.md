@@ -1,5 +1,5 @@
 ---
-title:Simulación de cámaras estereoscópicas utilizando redes neuronales
+title: Simulación de cámaras estereoscópicas utilizando redes neuronales
 description: Tesis de grado de Rodrigo Cobo, dirigida por el Dr. José Ignacio Orlando y el Dr. Ignacio Larrabide.
 header-img: images/tesis-grado/2021-cobo.png
 categories: tesis-grado
