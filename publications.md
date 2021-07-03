@@ -11,11 +11,33 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2021
+
+_Simultaneous assessment of coronary stenosis relevance with automated computed tomography angiography and intravascular ultrasound analyses and fractional flow reserve_<br>
+PJ Blanco, C.A. Bulant, C.G. Bezerra, P.A. Lemos, and H.M García-García. <br>
+Coronary Artery Disease, 2021 ([Article](https://doi.org/10.1097/mca.0000000000001044))
+
+_Coronary arterial geometry: A comprehensive comparison of two imaging modalities_<br>
+Pablo J Blanco, Carlos A Bulant, Cristiano G Bezerra, Gonzalo D Maso Talou, Fabio A Pinton, Paulo GP Ziemer, Raúl A Feijóo, Héctor M García‐García, and Pedro A Lemos.<br>
+International Journal for Numerical Methods in Biomedical Engineering, 2021 ([Article](https://doi.org/10.1002/cnm.3442))
+
+_Combining Invasive Cardiopulmonary Exercise Testing with Computational Fluid Dynamics to Better Understand LVAD Fluid Mechanics during Exercise_<br>
+J Grinstein, PJ Blanco, CA Bulant, R Torii, CV Bourantas, PA Lemos, and H Garcia-Garcia.<br>
+The Journal of Heart and Lung Transplantation, 2021 ([Article](https://doi.org/10.1016/j.healun.2021.01.1254))
+
+_Left Ventricular Assist Device Flow Pattern Analysis Using Computational Fluid Dynamics at the Time of Invasive Hemodynamic Ramp Study: Using Patient-Specific Data to Optimize the Ramp Study_<br>
+J Grinstein, PJ Blanco, CA Bulant, R Torii, CV Bourantas, PA Lemos, and H Garcia-Garcia.<br>
+The Journal of Heart and Lung Transplantation, 2021 ([Article](https://doi.org/10.1016/j.healun.2021.01.1249))
+
+_A simple coronary blood flow model to study the collateral flow index_<br>
+Pablo J Blanco, Carlos A Bulant, Gonzalo D Ares, Pedro A Lemos, and Raul A Feijoo.<br>
+Biomechanics and Modeling in Mechanobiology, 2021 ([Article](https://doi.org/10.1007/s10237-021-01449-1))
+
 ### 2020
 
 _SketchZooms: Deep multi-view descriptors for matching line drawings_<br>
 P Navarro, JI Orlando, C Delrieux, E Iarussi<br>
-Computer Graphics Forum, 2020 ([Article]()).
+Computer Graphics Forum, 2020 ([Article](https://doi.org/10.1111/cgf.14197)).
 
 _A low-cost portable simulator of a domestic cat larynx for teaching endotracheal intubation_<br>
 M. Clausse, P. Nejamkin, C. A. Bulant, A. Genaro, F. Landivar, M. J. Del Sole, and A. Clausse.<br>
