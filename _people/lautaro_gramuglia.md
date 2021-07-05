@@ -1,7 +1,7 @@
 ---
 name: Lautaro Gramuglia
 position: undergrad
-avatar: lautaro_gramuglia.jpg
+avatar: gramuglialautaro@gmail.com
 twitter:
 joined: 2021
 ---
@@ -10,7 +10,7 @@ joined: 2021
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i> `tomasC613@gmail.com` <br>
+<i class="fa fa-envelope-o"></i> `gramuglialautaro@gmail.com` <br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 
 <hr>
