@@ -1,7 +1,7 @@
 ---
 name: Lautaro Gramuglia
 position: undergrad
-avatar: gramuglialautaro@gmail.com
+avatar: lautaro_gramuglia.png
 twitter:
 joined: 2021
 ---

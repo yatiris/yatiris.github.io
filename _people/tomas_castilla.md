@@ -1,7 +1,7 @@
 ---
 name: Tomás Castilla
 position: undergrad
-avatar: 
+avatar: tomas_castilla.png
 twitter:
 joined: 2021
 ---
