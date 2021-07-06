@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2021
 
+_Intra-saccular device modeling for treatment planning of intracranial aneurysms: from morphology to hemodynamics._<br>
+N. Dazeo*, R. Muñoz*, A. P. Narata, H. Fernandez, and I. Larrabide. <br>
+International Journal of Computer Assisted Radiology and Surgery, 2021
+
 _Simultaneous assessment of coronary stenosis relevance with automated computed tomography angiography and intravascular ultrasound analyses and fractional flow reserve_<br>
 PJ Blanco, C.A. Bulant, C.G. Bezerra, P.A. Lemos, and H.M García-García. <br>
 Coronary Artery Disease, 2021 ([Article](https://doi.org/10.1097/mca.0000000000001044))
