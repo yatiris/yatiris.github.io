@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2021
 
+_Supervised learning for sleep stage scoring using Random Forest: is a "simpler" model accurate enough on unseen individuals?_<br>
+E. Moris, C. Forcato, and I. Larrabide. <br>
+Matemática Aplicada, Computacional e Industrial (MACI) 8, 693-696, 2021 ([Article](https://amcaonline.org.ar/maci/index.php/maci2021/maci2021/paper/viewFile/5282/636))
+
 _Intra-saccular device modeling for treatment planning of intracranial aneurysms: from morphology to hemodynamics._<br>
 N. Dazeo*, R. Muñoz*, A. P. Narata, H. Fernandez, and I. Larrabide. <br>
 International Journal of Computer Assisted Radiology and Surgery, 2021 ([Article](https://doi.org/10.1007/s11548-021-02427-9))
