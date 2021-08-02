@@ -1,7 +1,7 @@
 ---
 name: Leandro Rocamora
 position: phdstudent
-avatar: 
+avatar: leatroca.png
 twitter:
 joined: 2021
 ---
