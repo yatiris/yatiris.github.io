@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2021
 
+_Cerebral aneurysm occlusion at 12-month follow-up after Flow-Diverter treatment: statistical modelling for V&V with real-world  data_<br>
+AP Narata, L. Obradó, RK Moyano, JM Macho, J. Blasco, A. López Rueda, L. San Roman, S. Remollo, C. Marinelli, R. Cepeda, H. Fernández, I. Larrabide. <br>
+Frontiers in Medical Technology Journal. 3:705003. 2021 ([Article](https://doi.org/10.3389/fmedt.2021.705003))
+
 _Supervised learning for sleep stage scoring using Random Forest: is a "simpler" model accurate enough on unseen individuals?_<br>
 E. Moris, C. Forcato, and I. Larrabide. <br>
 Matemática Aplicada, Computacional e Industrial (MACI) 8, 693-696, 2021 ([Article](https://amcaonline.org.ar/maci/index.php/maci2021/maci2021/paper/viewFile/5282/636))
