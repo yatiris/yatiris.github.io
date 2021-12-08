@@ -1,7 +1,7 @@
 ---
 title: Herramienta WEB para la Visualización y Segmentación 3D de Imágenes Médicas
 description: Tesis de grado de Gustavo Tajes Genga, dirigida por la Dra. Mariana del Fresno y el Dr. Juan D'Amato.
-header-img: images/tesis-grado/2021-castilla.png
+header-img: images/tesis-grado/2021-genga.png
 categories: tesis-grado
 ---
 
