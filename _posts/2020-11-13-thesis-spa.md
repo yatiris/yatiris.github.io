@@ -15,4 +15,4 @@ El objetivo principal de este trabajo es desarrollar un sistema que permita opti
 
 *Podés ver el video de la defensa de la tesis acá:*
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZDiBTInmiOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDiBTInmiOY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
