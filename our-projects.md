@@ -40,6 +40,12 @@ Take a quick look at the projects and initiatives we are working on:
 Here you can find the list of grants we got to fund our research.
 
 **(2021-2023)** <br>
+_retinar: inteligencia artificial para el diagnóstico asistido por computadora de la retinopatía diabética._<br>
+(retinar: artificial intelligence for computer-assisted diagnosis of diabetic retinopathy-)<br>
+PICT start-up 2021-00023. FONCyT. Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i). AR$ 2.700.000. 
+Principal Investigator: José Ignacio Orlando.
+
+**(2021-2023)** <br>
 _yatiris++: inteligencia artificial para aplicaciones clínicas basadas en imágenes médicas._<br>
 (yatiris++: artificial intelligence for medical image based clinical applications-)<br>
 PIP GI 2021-2023 - 11220200102472CO. Consejo Nacional de Investigaciones Científicas y Técnicas (CONICET). AR$ 1.320.000.
@@ -48,12 +54,11 @@ Principal Investigator: José Ignacio Orlando.
 **(2021-2023)** <br>
 _CANOA: CAracterización morfológica de la cabeza del Nervio Óptico en fotografías de fondo de ojo mediante Aprendizaje profundo._<br>
 (CANOA: Morphological characterization of the optic nerve head in color fundus photographs using deep learning.)<br>
-PICT-2019-00070. FONCyT. Agencia Nacional de Promoción Científica y Tecnológica (ANPCyT). AR$ 475.000. 
+PICT-2019-00070. FONCyT. Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i). AR$ 475.000. 
 Principal Investigator: José Ignacio Orlando.
 
 **(2021)** <br>
 _retinar: assisting remote diabetic retinopathy screening with AI tools._<br>
-(Weakly-supervised Abdominal Ultrasound Segmentation using Simulated Scans and Cycle-Consistency based Generative Models.)<br>
 NVIDIA Applied Research Accelerator Program. NVIDIA Corporation. 500 hours of cloud computing in V100 GPUs using SaturnCloud.<br>
 Researcher awarded: José Ignacio Orlando.
 
