@@ -67,6 +67,12 @@ _Hacia una plataforma inteligente para el tamizado remoto de la retinopatía dia
 03-JOVIN-37c. Secretaría de Ciencia, Arte y Tecnología, Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN). AR$ 100.000.
 Principal Investigator: José Ignacio Orlando.
 
+**(2020-2022)** <br>
+_Diseño y estudio de viabilidad para el uso clínico de simulación en el tratamiento de Aneurismas Cerebrales complejos._<br>
+(Design and viability study of the clinical usage of simulation for treating complex brain aneurysms-)<br>
+PICT start-up 2020-00045. FONCyT. Agencia Nacional de Promoción de la Investigación, el Desarrollo Tecnológico y la Innovación (Agencia I+D+i). AR$ 2.700.000. 
+Principal Investigator: Ignacio Larrabide.
+
 **(2020)** <br>
 _Segmentación de Ultrasonido Abdominal Debilmente Supervisada utilizando Imágenes Simuladas y Modelos Generativos con Consistencia Cíclica._<br>
 (Weakly-supervised Abdominal Ultrasound Segmentation using Simulated Scans and Cycle-Consistency based Generative Models.)<br>
