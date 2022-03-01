@@ -1,6 +1,6 @@
 ---
 name: Nicolás Dazeo
-position: phdstudent
+position: postdoc
 avatar: nicolas_dazeo.jpg
 twitter:
 joined: 2015
@@ -18,7 +18,7 @@ joined: 2015
 
 ### Bio
 
-Nicolás Dazeo (Nico) is a PhD student in Computational and Industrial Mathematics at UNICEN. His doctoral research focuses in the computational modelling of human hemodynamics, particularly during flow diverter stent treatments. Nicolás is also the software architect of [Nogal](https://nogal.pladema.net), a cloud platform for medical image storage and processing. His research is currently funded by a research scholarship granted by CONICET.
+Nicolás Dazeo (Nico) is a Postdoctoral Research Fellow from CONICET. He holds a PhD degree in Computational and Industrial Mathematics from UNICEN (2022). His research focuses in the computational modelling of human hemodynamics, computer-assisted vascular interventions and web tecnologies.
 
 ### Relevant publications
 
