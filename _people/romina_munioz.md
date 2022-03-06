@@ -21,8 +21,7 @@ Romina Luciana Muñoz (Romi) is a Postdoctoral Research Fellow from CONICET. She
 
 ### Relevant publications
 
-_
-Intra-saccular device modeling for treatment planning of intracranial aneurysms: from morphology to hemodynamics_<br>
+_Intra-saccular device modeling for treatment planning of intracranial aneurysms: from morphology to hemodynamics_<br>
 Nicolás Dazeo, **Romina Muñoz**, Ana Paula Narata, Hector Fernandez, Ignacio Larrabide<br>
 International Journal of Computer Assisted Radiology and Surgery
 
