@@ -11,10 +11,21 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2022
+
+_Linking Function and Structure with ReSenseNet: Predicting Retinal Sensitivity from Optical Coherence Tomography using Deep Learning_<br>
+P. Seeböck, WD. Vogl, SM. Waldstein, J. I. Orlando, M. Baratsits, T. Alten, M. Arikan, G. Mylonas, H. Bogunović, U. Schmidt-Erfurth. <br>
+Ophthalmology Retina. 2022 ([Article](https://doi.org/10.1016/j.oret.2022.01.021))
+
+
 ### 2021
 
+_DSM Generation with UAVs and OpenDroneMap toolkit: A parametric analysis_<br>
+PR. Rinaldi, I. Larrabide. <br>
+XIX Workshop on Information Processing and Control (RPIC). 2021 ([Article](https://doi.org/10.1109/RPIC53795.2021.9648415))
+
 _Cerebral aneurysm occlusion at 12-month follow-up after Flow-Diverter treatment: statistical modelling for V&V with real-world  data_<br>
-AP Narata, L. Obradó, RK Moyano, JM Macho, J. Blasco, A. López Rueda, L. San Roman, S. Remollo, C. Marinelli, R. Cepeda, H. Fernández, I. Larrabide. <br>
+AP- Narata, L. Obradó, RK Moyano, JM Macho, J. Blasco, A. López Rueda, L. San Roman, S. Remollo, C. Marinelli, R. Cepeda, H. Fernández, I. Larrabide. <br>
 Frontiers in Medical Technology Journal. 3:705003. 2021 ([Article](https://doi.org/10.3389/fmedt.2021.705003))
 
 _Supervised learning for sleep stage scoring using Random Forest: is a "simpler" model accurate enough on unseen individuals?_<br>
