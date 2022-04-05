@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2022
 
+_Improving foveal avascular zone segmentation in fluorescein angiograms by leveraging manual vessel labels from public color fundus pictures_<br>
+D. Hofer, U. Schmidt-Erfurth, J. I. Orlando, F. Goldbach, B. S. Gerendas, P. Seeböck. <br>
+Biomedical Optics Express. 2022 ([Article](https://doi.org/10.1364/BOE.452873))
+
 _Linking Function and Structure with ReSenseNet: Predicting Retinal Sensitivity from Optical Coherence Tomography using Deep Learning_<br>
 P. Seeböck, WD. Vogl, SM. Waldstein, J. I. Orlando, M. Baratsits, T. Alten, M. Arikan, G. Mylonas, H. Bogunović, U. Schmidt-Erfurth. <br>
 Ophthalmology Retina. 2022 ([Article](https://doi.org/10.1016/j.oret.2022.01.021))
