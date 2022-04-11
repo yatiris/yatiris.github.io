@@ -8,11 +8,13 @@ permalink: /about/
 ### About us
 We are Yatiris, a research group part of Pladema Institute (UNICEN - CNEA - CIC-PBA) focused in bringing digital tools to medicine. Our team is formed by researchers in computer science, mathematics and physics that work in a multidisciplinary environment to introduce novel contributions to computer-assisted medicine.
 
-#### Our research
+#### Why using computers in medicine?
 
 Computers are great, and we use them all the time in many ways. As researchers, we focus in providing new tools for what's called *computer-assisted medicine*: aiding clinicians and medical scientists in performing their daily tasks using digital tools. To this end, we develop novel techniques that combines computer vision, machine learning, mathematical simulation and computer graphics, with biomedical signals and/or images as inputs, that extract and/or produce valuable information for physicians. 
 
-Our research covers several areas in medicine, including diagnosis and treatment planning of cardiovascular diseases, neuroscience, screening and analysis of ophthalmological diseases, image synthesis and medical imaging in general. From time to time, we also like to explore other alternative lines like drone imaging analysis or computer graphics. You can find further details about our current and ungoing projects in [our projects page](http://yatiris.github.io/our-projects/).
+#### What we do in our lab
+
+Our research is focused on developing cutting-edge algorithms based on artificial intelligence and signal processing for automated medical image analysis, with applications on diagnostics, treatment planning, simulation and disease following. Our main research lines are focused on cardiovascular diseases, treating aneurysms, ophthalmology, neuroimaging and ultrasound simulation. The group has expertise in image classification and segmentation with machine/deep learning, hemodynamics simulation, generative modeling using computer graphics techniques and generative adversarial models and in-silico simulation of endovascular treatments. From time to time, we also like to explore other alternative lines like drone imaging analysis or computer graphics. You can find further details about our current and ungoing projects in [our projects page](http://yatiris.github.io/our-projects/).
 
 #### Where are we?
 
