@@ -17,7 +17,10 @@ If you are an international student, have in mind that PhDs and Postdocs positio
 
 #### Becas y otras posiciones disponibles
 
-No tenemos por ahora ninguna postulación abierta disponible. Si de todas formas te interesa hacer un doctorado con nosotros, seguí las instrucciones de más arriba!
+Tenemos una beca de iniciación doctoral de Agencia para trabajar en el PICT startup 2021-00023 desarrollando algoritmos de IA para análisis de fotografías de fondo de ojo. Más información [en este link](https://ignaciorlando.github.io/post/2022-open-position-agencia/).
+
+[//]: <> (No tenemos por ahora ninguna postulación abierta disponible. Si de todas formas te interesa hacer un doctorado con nosotros, seguí las instrucciones de más arriba!)
+
 
 #### Tesis de grado
 
