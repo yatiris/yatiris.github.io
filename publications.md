@@ -15,7 +15,7 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images._<br>
 H. Fang, F. Li, H. Fu, X. Sun, X. Cao, F. Lin, J. Son, S. Kim, G. Quellec, S. Matta, S. M. Shankaranarayana, Y-T. Chen, C-h. Wang, N. A. Shah, C-Y. Lee, C-C. Hsu, H. Xie, B. Lei, U. Baid, S. Innani, K. Dang, W. Shi, R. Kamble, N. Singhal, C-W. Wang, S-C. Lo, J. I. Orlando, H. Bogunovic, X. Zhang, Y. Xu. <br>
-IEEE Transaction on Medical Imaging. 2022 ([Article]())
+IEEE Transaction on Medical Imaging. 2022 ([Article](https://doi.org/10.1109/TMI.2022.3172773))
 
 _Improving foveal avascular zone segmentation in fluorescein angiograms by leveraging manual vessel labels from public color fundus pictures_<br>
 D. Hofer, U. Schmidt-Erfurth, J. I. Orlando, F. Goldbach, B. S. Gerendas, P. Seeböck. <br>
