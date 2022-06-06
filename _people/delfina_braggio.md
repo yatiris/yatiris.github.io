@@ -1,6 +1,6 @@
 ---
 name: Delfina Braggio
-position: phdstudent
+position: postdoc
 avatar: delfina_braggio.jpg
 twitter:
 joined: 2016
@@ -18,7 +18,7 @@ joined: 2016
 
 ### Bio
 
-Delfina Braggio (Delfi) is a PhD student in Computational and Industrial Mathematics at UNICEN. Her research is focused in analyzing neuroimages using machine learning techniques.
+Delfina Braggio (Delfi) is a Postdoctoral Research Fellow from CONICET. She holds a PhD degree in Computational and Industrial Mathematics from UNICEN (2022). Her research is focused in analyzing brain images from mice and humans using VBM and machine learning techniques.
 
 ### Relevant publications
 
