@@ -1,6 +1,6 @@
 ---
 name: Hernán Kulsgaard
-position: phdstudent
+position: postdoc
 avatar: hernan_kulsgaard.jpg
 twitter:
 joined: 2016
@@ -17,7 +17,7 @@ joined: 2016
 
 ### Bio
 
-Hernán Kulsgaard (Hernan) is a PhD student in Computational and Industrial Mathematics at UNICEN. His research is focused on bringing new tools for aiding radiologists to analyze brain MRIs.
+Hernán Kulsgaard (Hernan) is a Postdoctoral Research Fellow. He holds a PhD degree in Computational and Industrial Mathematics from UNICEN (2022). His research is focused on bringing new tools for aiding radiologists to analyze brain MRIs.
 
 ### Relevant publications
 
