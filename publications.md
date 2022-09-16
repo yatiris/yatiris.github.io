@@ -25,6 +25,14 @@ _Linking Function and Structure with ReSenseNet: Predicting Retinal Sensitivity 
 P. Seeböck, WD. Vogl, SM. Waldstein, J. I. Orlando, M. Baratsits, T. Alten, M. Arikan, G. Mylonas, H. Bogunović, U. Schmidt-Erfurth. <br>
 Ophthalmology Retina. 2022 ([Article](https://doi.org/10.1016/j.oret.2022.01.021))
 
+_Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
+E. Moris, N. Dazep, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+
+_A Deep Learning Model for brain vessel segmentation in 3DRA with Arteriovenous Malformations._<br> 
+C. Garcia, Y. Fang, J. Liu, A. P. Narata, J. I. Orlando, I. Larrabide. <br>
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+
 
 ### 2021
 
