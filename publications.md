@@ -13,6 +13,14 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2022
 
+_Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
+E. Moris, N. Dazep, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+
+_A Deep Learning Model for brain vessel segmentation in 3DRA with Arteriovenous Malformations._<br> 
+C. Garcia, Y. Fang, J. Liu, A. P. Narata, J. I. Orlando, I. Larrabide. <br>
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+
 _ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images._<br>
 H. Fang, F. Li, H. Fu, X. Sun, X. Cao, F. Lin, J. Son, S. Kim, G. Quellec, S. Matta, S. M. Shankaranarayana, Y-T. Chen, C-h. Wang, N. A. Shah, C-Y. Lee, C-C. Hsu, H. Xie, B. Lei, U. Baid, S. Innani, K. Dang, W. Shi, R. Kamble, N. Singhal, C-W. Wang, S-C. Lo, J. I. Orlando, H. Bogunovic, X. Zhang, Y. Xu. <br>
 IEEE Transaction on Medical Imaging. 2022 ([Article](https://doi.org/10.1109/TMI.2022.3172773))
@@ -24,14 +32,6 @@ Biomedical Optics Express. 2022 ([Article](https://doi.org/10.1364/BOE.452873))
 _Linking Function and Structure with ReSenseNet: Predicting Retinal Sensitivity from Optical Coherence Tomography using Deep Learning_<br>
 P. Seeböck, WD. Vogl, SM. Waldstein, J. I. Orlando, M. Baratsits, T. Alten, M. Arikan, G. Mylonas, H. Bogunović, U. Schmidt-Erfurth. <br>
 Ophthalmology Retina. 2022 ([Article](https://doi.org/10.1016/j.oret.2022.01.021))
-
-_Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
-E. Moris, N. Dazep, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
-18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
-
-_A Deep Learning Model for brain vessel segmentation in 3DRA with Arteriovenous Malformations._<br> 
-C. Garcia, Y. Fang, J. Liu, A. P. Narata, J. I. Orlando, I. Larrabide. <br>
-18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
 
 
 ### 2021
