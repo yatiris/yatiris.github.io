@@ -1,0 +1,16 @@
+---
+title: "Segmentación de arterias y venas en imágenes de fondo de ojo mediante aprendizaje profundo: Aplicaciones en simulación hemodinámica"
+description: Tesis de grado de Lautaro Gramuglia, dirigida por el Dr. Carlos Bulant y el Dr. José Ignacio Orlando
+header-img: images/tesis-grado/2021-gramuglia.png
+categories: tesis-grado
+---
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/bitstream/handle/123456789/3244/Tesis%20Gramuglia.docx.pdf?sequence=1&isAllowed=y).*
+
+
+<div class="image-post-container">
+    <img src="/images/tesis-grado/2022-gramuglia.png"/>
+</div>
+
+### Resumen
+
+La segmentación de arterias y venas en imágenes de la retina es una ardua y compleja tarea que se utiliza para estudiar el comportamiento morfológico y hemodinámico de estas estructuras. Actualmente este proceso se realiza manualmente para asegurar que las segmentaciones sean conexas y continuas, aunque no dejan de ser susceptibles a errores entre- e intra-observadores. Sin embargo, en la literatura no se observan trabajos que evalúen qué tan fieles son las segmentaciones para realizar simulaciones hemodinámicas similares a las que pueden lograrse empleando segmentaciones manuales. En este trabajo final de carrera se propone un modelo de aprendizaje profundo para automatizar la segmentación y clasificación de arterias y venas de la retina a partir de fotografías de fondo de ojo. Aunque existen algoritmos para realizar esta tarea, estos suelen fallar cuando se aplican sobre imágenes muy diferentes a las utilizadas para su entrenamiento. Así mismo, estos métodos han sido siempre evaluados en función de métricas específicas que cuantifican el nivel de superposición de las segmentaciones obtenidas automáticamente respecto a las producidas por expertos humanos. En este sentido, se propone utilizar estas medidas de calidad clásicas, y establecer un criterio de evaluación basado en comparar los resultados de las simulaciones computacionales de la hemodinamia de la retina. Para ello, se fijarán las condiciones de contorno y los parámetros fisiológicos y matemáticos de un modelo de fluido-dinámica, y se cuantificarán las variaciones en los flujos y presiones producto de las variaciones en la geometría arterio-venular producidas por el algoritmo. La evaluación de los métodos propuestos se realizará utilizando conjuntos de imágenes públicos. Los resultados obtenidos por el mejor modelo propuesto sugiere que las comparaciones morfométrica y hemodinámica basándose en algunos indicadores no presentan diferencias significativas entre las segmentaciones y su ground-truth. La comparación de estos indicadores permite evaluar la calidad de los algoritmos de segmentación de forma indirecta, en el contexto de una aplicación concreta, en este caso las simulaciones hemodinámicas. Teniendo en cuenta la cantidad de imágenes usadas en esta comparación, y el hecho de que la evaluación hemodinámica de los árboles arteriales de la retina es un área de investigación abierta, este trabajo presenta resultados alentadores, creando un abanico de posibilidades para realizar estudios en el marco de su aplicación en la identificación de factores de riesgo hemodinámicos como el glaucoma de tensión normal.
