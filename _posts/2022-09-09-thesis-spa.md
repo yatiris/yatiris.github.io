@@ -1,7 +1,7 @@
 ---
 title: "Segmentación de arterias y venas en imágenes de fondo de ojo mediante aprendizaje profundo: Aplicaciones en simulación hemodinámica"
 description: Tesis de grado de Lautaro Gramuglia, dirigida por el Dr. Carlos Bulant y el Dr. José Ignacio Orlando
-header-img: images/tesis-grado/2021-gramuglia.png
+header-img: images/tesis-grado/2022-gramuglia.png
 categories: tesis-grado
 ---
 *Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/bitstream/handle/123456789/3244/Tesis%20Gramuglia.docx.pdf?sequence=1&isAllowed=y).*
