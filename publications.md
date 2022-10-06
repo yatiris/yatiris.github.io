@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2022
 
+_A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images._<br>
+T. Castilla, M. S. Martínez, M. Leguía, I. Larrabide, J. I. Orlando. <br>
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+
 _Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
 E. Moris, N. Dazeo, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
 18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
