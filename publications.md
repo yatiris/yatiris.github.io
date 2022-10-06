@@ -17,6 +17,10 @@ _A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Di
 T. Castilla, M. S. Martínez, M. Leguía, I. Larrabide, J. I. Orlando. <br>
 18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
 
+_Simulation of intra-saccular devices for pre-operative device size selection: method and validation for sizing and porosity simulation._<br>
+R. Muñoz, A. P. Narata, L. Obradó, H. Fernandez, I. Larrabide. <br>
+Computers in Biology and Medicine. ([Article](https://doi.org/10.1016/j.compbiomed.2022.105744)).
+
 _Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
 E. Moris, N. Dazeo, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
 18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
