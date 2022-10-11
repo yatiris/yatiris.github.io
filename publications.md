@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2022
 
+_Postoperative vault prediction for phakic implantable collamer lens surgery: the LASSO formulae._<br>
+L. Rocamora, J. I. Orlando, C. Lwowski, T. Kohnen, E. Mertens, K. van Keer. <br>
+Journal of Cataract & Refractive Surgery. 2022 (En prensa)
+
 _A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images._<br>
 T. Castilla, M. S. Martínez, M. Leguía, I. Larrabide, J. I. Orlando. <br>
 18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
