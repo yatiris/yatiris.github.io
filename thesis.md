@@ -9,6 +9,7 @@ permalink: /thesis/
 
 Here you can find some of the PhD thesis and final projects of Software Engineering that were done in our group. Most of them are in Spanish.
 
+{% assign sorted_list_of_thesis = site.thesis | sort: 'date' | reverse %}
 
 ### PhD Thesis
 
@@ -16,7 +17,7 @@ Since we established ourselves as Yatiris in 2014, several PhD students made the
 
 <div class="content list">
   <hr>
-  {% for post in site.thesis %}
+  {% for post in sorted_list_of_thesis %}
     {% if post.categories contains "tesis-doctorado" %}
     <div class="list-item">
       <p class="list-post-title">
@@ -50,7 +51,7 @@ Our researchers are also actively supervising Software Engineering students in t
 These are just a few of the final project that were made in the lab. If you want to do yours also at Yatiris, you can contact us at [yatirisarg@gmail.com](mailto:yatirisarg@gmail.com). We always have open topics to work on!
 
 <div class="content list">
-  {% for post in site.thesis %}
+  {% for post in sorted_list_of_thesis %}
     {% if post.categories contains "tesis-grado" %}
     <div class="list-item">
       <p class="list-post-title">
