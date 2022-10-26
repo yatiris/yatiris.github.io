@@ -563,17 +563,11 @@ tbody tr:nth-child(odd) th {
 }
 
 // in-page posts
-
 .ipp {max-width:100%}
-
 .ipp .image {float:left; margin-right:2%; width:25%}
-
 .ipp .info {
-  font-size: 12px;
-
+  font-size: 1.0rem;
   &-title {font-weight:600; color: #333;}
-
   &-contact {text-align: justify; font-size: 0.75rem; color: #333;}
-
   &-description {text-align: justify; font-size: 0.75rem; color: #333;}
 }
