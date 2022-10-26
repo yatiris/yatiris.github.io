@@ -31,15 +31,15 @@ Si querés hacer tu posgrado en Yatiris, te presentamos algunas de las propuesta
                                     {% endif %}
                                 </p>
                                 <p class="info">
-                                    <p class="title" style="font-weight:600">
+                                    <p class="info-title">
                                         {{ post.title }}
                                     </p>
-                                    <p class="contact" >
+                                    <p class="info-contact" >
                                         A cargo de: <a href="mailto:{{post.contact}} ">
                                             {{ post.referent }}
                                         </a>
                                     </p>
-                                    <p class="description" >
+                                    <p class="info-description" >
                                         {{ post.description }}
                                     </p>
                                 </p>

@@ -569,10 +569,11 @@ tbody tr:nth-child(odd) th {
 .ipp .image {float:left; margin-right:2%; width:25%}
 
 .ipp .info {
+  font-size: 12px;
 
-.ipp .info .title {font-size: 12px; font-weight:600; color: #333;}
+  &-title {font-weight:600; color: #333;}
 
-.ipp .info .contact {text-align: justify; font-size: .75rem; color: #333;}
+  &-contact {text-align: justify; font-size: 0.75rem; color: #333;}
 
-.ipp .info .description {text-align: justify; font-size: .75rem; color: #333;}
+  &-description {text-align: justify; font-size: 0.75rem; color: #333;}
 }
