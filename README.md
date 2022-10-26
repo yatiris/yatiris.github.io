@@ -54,3 +54,37 @@ For lab position, you can choose position from 4 classes including `postdoc`, `g
 ## Add new publications
 
 All publications from the lab are located in `publications.md`. Please upload new publication on your own!
+
+
+## Add a new Thesis to our archive
+
+You can add your proposals to the web just by creating a file `<YYYY>-<MM>-<DD>-thesis-spa.md` inside the `_thesis` folder. We require the file to have a few lines of information:
+
+```
+---
+title: My thesis
+description: PhD Thesis 
+header-img: images/tesis-grado/<filename>.png
+categories: [tesis-grado/tesis-doctorado]
+---
+```
+
+Below this header, you may add the abstract or description of your work.
+
+## Add Project proposals
+
+You can add your proposals to the web just by creating a file `<YYYY>-<MM>-<DD>-tfi-<yourname>.md` inside the `_tfi` or `_phd` folder. We require the file to have a few lines of information:
+
+```
+---
+title: Title of your proposal
+categories: [propuestas-tfi | propuestas-phd]
+header-img: <filename>.png
+referent: "<your name>"
+contact: <your e-mail>
+state: [open | closed]
+description: <Description of project proposal>
+---
+```
+
+The image should illustrate the topic of the project and the file should be added to `images/tfi/` or `images/phd/`. Set state to `closed` when the project has been assigned to a student. Please bear in mind that these proposals should be in Spanish.
