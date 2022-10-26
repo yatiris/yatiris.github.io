@@ -22,24 +22,26 @@ Si querés hacer tu posgrado en Yatiris, te presentamos algunas de las propuesta
                 <div class="list-item">
                     <p class="list-post-title">
                         <div class="row">
-                            <div class="col-sm-4">
-                                {% if post.header-img %}
-                                    <img src="{{site.baseurl}}/images/phd/{{post.header-img}}">
-                                {% else %} 
-                                    <img src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg">
-                                {% endif %}
-                            </div>
-                            <div class="col-sm-8">
-                                <p class="post-title" style="font-weight:600">
-                                    {{ post.title }}
+                            <div class="ipp">
+                                <p class="image">
+                                    {% if post.header-img %}
+                                        <img src="{{site.baseurl}}/images/phd/{{post.header-img}}">
+                                    {% else %} 
+                                        <img src="http://evansheline.com/wp-content/uploads/2011/02/facebook-Storm-Trooper.jpg">
+                                    {% endif %}
                                 </p>
-                                <p class="list-detail" >
-                                    A cargo de: <a href="mailto:{{post.contact}} ">
-                                        {{ post.referent }}
-                                    </a>
-                                </p>
-                                <p class="list-detail" style="font-size:.75rem" >
-                                    {{ post.description }}
+                                <p class="info">
+                                    <p class="info-title">
+                                        {{ post.title }}
+                                    </p>
+                                    <p class="info-contact" >
+                                        A cargo de: <a href="mailto:{{post.contact}} ">
+                                            {{ post.referent }}
+                                        </a>
+                                    </p>
+                                    <p class="info-description" >
+                                        {{ post.description }}
+                                    </p>
                                 </p>
                             </div>
                         </div>
