@@ -36,8 +36,8 @@ nav:
     href:           "/publications"
   - name:           "news"
     href:           "/news"
-  - name:           "career"
-    href:           "/career"
+  - name:           "work with us"
+    href:           "/work-with-us"
 
 # Sass
 sass:
@@ -63,9 +63,26 @@ defaults:
       type:         "people"
     values:
       layout:       "profile"
+  -
+    scope:
+      path:         ""
+      type:         "thesis"
+    values:
+      layout:       "post"
 
 
 collections:
+  tfi:
+    output: true
+    permalink: /:collection/:name.html
+  phd:
+    output: true
+    permalink: /:collection/:name.html
+  thesis:
+    output: true
+    permalink: /:collection/:year/:title.html
   people:
     output: true
     permalink: /people/:title/index.html
+    
+
