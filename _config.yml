@@ -80,7 +80,7 @@ collections:
     permalink: /:collection/:name.html
   thesis:
     output: true
-    permalink: /:collection/:year/:title.html
+    permalink: /:collection/:year/:month/:day/:title.html
   people:
     output: true
     permalink: /people/:title/index.html
