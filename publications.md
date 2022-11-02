@@ -15,11 +15,11 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 _Postoperative vault prediction for phakic implantable collamer lens surgery: the LASSO formulae._<br>
 L. Rocamora, J. I. Orlando, C. Lwowski, T. Kohnen, E. Mertens, K. van Keer. <br>
-Journal of Cataract & Refractive Surgery. 2022 (En prensa)
+Journal of Cataract & Refractive Surgery. 2022 ([Article](https://doi.org/10.1097/j.jcrs.0000000000001079))
 
 _A ResNet is All You Need? Modeling A Strong Baseline for Detecting Referable Diabetic Retinopathy in Fundus Images._<br>
 T. Castilla, M. S. Martínez, M. Leguía, I. Larrabide, J. I. Orlando. <br>
-18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 ([Article](https://arxiv.org/pdf/2210.03180.pdf))
 
 _Simulation of intra-saccular devices for pre-operative device size selection: method and validation for sizing and porosity simulation._<br>
 R. Muñoz, A. P. Narata, L. Obradó, H. Fernandez, I. Larrabide. <br>
@@ -27,11 +27,11 @@ Computers in Biology and Medicine. ([Article](https://doi.org/10.1016/j.compbiom
 
 _Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
 E. Moris, N. Dazeo, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
-18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 ([Article](https://arxiv.org/pdf/2209.14383.pdf))
 
 _A Deep Learning Model for brain vessel segmentation in 3DRA with Arteriovenous Malformations._<br> 
 C. Garcia, Y. Fang, J. Liu, A. P. Narata, J. I. Orlando, I. Larrabide. <br>
-18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 (En prensa)
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 ([Article](https://arxiv.org/pdf/2210.02416.pdf))
 
 _ADAM Challenge: Detecting Age-related Macular Degeneration from Fundus Images._<br>
 H. Fang, F. Li, H. Fu, X. Sun, X. Cao, F. Lin, J. Son, S. Kim, G. Quellec, S. Matta, S. M. Shankaranarayana, Y-T. Chen, C-h. Wang, N. A. Shah, C-Y. Lee, C-C. Hsu, H. Xie, B. Lei, U. Baid, S. Innani, K. Dang, W. Shi, R. Kamble, N. Singhal, C-W. Wang, S-C. Lo, J. I. Orlando, H. Bogunovic, X. Zhang, Y. Xu. <br>
