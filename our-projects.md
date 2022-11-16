@@ -39,6 +39,19 @@ Take a quick look at the projects and initiatives we are working on:
 
 Here you can find the list of grants we got to fund our research.
 
+**(2022)** <br>
+_Evaluación cuantitativa y cualitativa del fenómeno de compresión del dispositivo intrasacular luego del tratamiento de aneurismas._<br>
+(Quantitative and qualitative evaluation of the compression phenomenon of intrasacular devices after aneurysm treatment)<br>
+03-JOVIN-79C. Fortalecimiento VI. Secretaría de Ciencia, Arte y Tecnología de la UNICEN. AR$ 200.000.
+Principal Investigator: Romina Muñoz.
+
+
+**(2022)** <br>
+_Asistencia y guiado computacional al tratamiento de aneurismas cerebrales._<br>
+(Computer-assisted guidance of brain aneurysm treatment)<br>
+03-JOVIN-94C. Fortalecimiento VI. Secretaría de Ciencia, Arte y Tecnología de la UNICEN. AR$ 200.000.
+Principal Investigator: Nicolás Dazeo.
+
 **(2021-2023)** <br>
 _retinar: inteligencia artificial para el diagnóstico asistido por computadora de la retinopatía diabética._<br>
 (retinar: artificial intelligence for computer-assisted diagnosis of diabetic retinopathy-)<br>
