@@ -11,6 +11,12 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2023
+
+_Assessing coarse-to-fine deep learning models for optic disc and cup segmentation in fundus images.<br>
+E. Moris, N. Dazeo, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguía, I. Larrabide, J. I. Orlando. <br> 
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2023 ([Article](https://doi.org/10.1117/12.2670093))
+
 ### 2022
 
 _Postoperative vault prediction for phakic implantable collamer lens surgery: the LASSO formulae._<br>
