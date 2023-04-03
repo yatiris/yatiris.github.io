@@ -27,7 +27,7 @@ Computers in Biology and Medicine. ([Article](https://doi.org/10.1016/j.compbiom
 
 _Assessing Coarse-to-Fine Deep Learning Models for Optic Disc and Cup Segmentation in Fundus Images._<br>
 E. Moris, N. Dazeo, M. P. Albina de Rueda, F. Filizzola, N. Iannuzzo, D. Nejamkin, K. Wignall, M. Leguia, I. Larrabide, J. I. Orlando. <br>
-18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 ([Article](https://arxiv.org/pdf/2209.14383.pdf))
+18th International Symposium on Medical Information Processing and Analysis (SIPAIM). 2022 ([Article](https://doi.org/10.1117/12.2670093))
 
 _A Deep Learning Model for brain vessel segmentation in 3DRA with Arteriovenous Malformations._<br> 
 C. Garcia, Y. Fang, J. Liu, A. P. Narata, J. I. Orlando, I. Larrabide. <br>
