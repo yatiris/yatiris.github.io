@@ -1,7 +1,7 @@
 ---
 name: Franco Arellano
 position: undergrad
-avatar: franco_arellano.png
+avatar: franco_arellano.jpg
 twitter:
 joined: 2023
 ---
