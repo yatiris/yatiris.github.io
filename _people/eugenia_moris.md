@@ -10,7 +10,7 @@ joined: 2018
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `emoris@alumnos.exa.unicen.edu.ar`<br>
+<i class="fa fa-envelope-o"></i>  `emoris@pladema.exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?hl=es&user=krc21eUAAAAJ)
 
@@ -18,7 +18,12 @@ joined: 2018
 
 ### Bio
 
-Eugenia Moris (Euge) is Software Engineer and a PhD student in Computational and Industrial Mathematics, working in EEG signal processing with machine learning techniques with a PhD scholarship granted by CONICET.
+Eugenia Moris (Euge) is a software engineer and a PhD student in Computational and Industrial Mathematics, specializing in the implementation of artificial intelligence in medical imaging. Her expertise ranges from the classification of structures in IVUS to the classification of sleep stages in EEG. Currently, she is working on the segmentation of the optic disc and cup in fundus images for the early detection of ophthalmologic diseases.
+
+### Recent publications
+_Assessing coarse-to-fine deep learning models for optic disc and cup segmentation in fundus images_<br>
+Eugenia Moris, Nicolás Dazeo, María Paula Albina de Rueda, Francisco Filizzola, Nicolás Iannuzzo, Danila Nejamkin, Kevin Wignall, Mercedes Leguía, Ignacio Larrabide, José Ignacio Orlando<br>
+18th International Symposium on Medical Information Processing and Analysis
 
 ### Recent posters
 

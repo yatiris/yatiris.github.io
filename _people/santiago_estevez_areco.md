@@ -10,7 +10,7 @@ joined: 2023
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>`sareco@pladema.exa.unicen.edu.ar`<br>
+<i class="fa fa-envelope-o"></i>  `sareco@pladema.exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?hl=es&user=8ae6Y90AAAAJ)
 
@@ -22,13 +22,6 @@ Santiago Estevez Areco (Santi) is a post-doctoral research fellow from ANPCyT. H
 
 ### Relevant publications
 
-Evolution of the free volume during water desorption in thermoplastic starch/citric acid films: In situ positron annihilation studies.
-Santiago Estevez-Areco, Carlos Macchi, Lucas Guz, Silvia Goyanes, Alberto Somoza.
-Carbohydrate Polymers (2023)
-
-Active bilayer films based on cassava starch incorporating ZnO nanorods and PVA electrospun mats containing rosemary extract. 
-Santiago Estevez-Areco, Lucas Guz, Roberto Candal, Silvia Goyanes.
-Food Hydrocolloids (2020)
 
 
 <hr>
