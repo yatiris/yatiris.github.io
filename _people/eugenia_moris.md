@@ -25,6 +25,10 @@ _Assessing coarse-to-fine deep learning models for optic disc and cup segmentati
 Eugenia Moris, Nicolás Dazeo, María Paula Albina de Rueda, Francisco Filizzola, Nicolás Iannuzzo, Danila Nejamkin, Kevin Wignall, Mercedes Leguía, Ignacio Larrabide, José Ignacio Orlando<br>
 18th International Symposium on Medical Information Processing and Analysis
 
+_Evaluating sleep-stage classification: how age and early-late sleep affects classification performance_<br>
+Eugenia Moris, Ignacio Larrabide<br>
+Medical & Biological Engineering & Computing
+
 ### Recent posters
 
 _Wavelets for sleep scoring: A machine learning approach_<br>
