@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2024
 
+_Anomaly guided segmentation: Introducing semantic context for lesion segmentation in retinal OCT using weak context supervision from anomaly detection_<br>
+Phillip Seeböck, J. I. Orlando, M. Michl, J. Mai, U. Schmidt-Erfurth, H. Bogunović, H<br>
+Medical Image Analysis. 2024 ([Article](https://doi.org/10.1016/j.media.2024.103104)).
+
 _Open Fundus Photograph Dataset with Pathologic Myopia Recognition and Anatomical Structure Annotation_<br>
 Huihui Fang, Fei Li, Junde Wu, Huazhu Fu, Xu Sun, José Ignacio Orlando, Hrvoje Bogunović, Xiulan Zhang, Yanwu Xu<br>
 Scientific Data. 2024 ([Article](https://doi.org/10.1038/s41597-024-02911-2))
