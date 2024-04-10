@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2024
 
+_Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
+Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
+Proceedings of Machine Learning Research. 2024 (a ser publicado)
+
 _Anomaly guided segmentation: Introducing semantic context for lesion segmentation in retinal OCT using weak context supervision from anomaly detection_<br>
 Phillip Seeböck, J. I. Orlando, M. Michl, J. Mai, U. Schmidt-Erfurth, H. Bogunović, H<br>
 Medical Image Analysis. 2024 ([Article](https://doi.org/10.1016/j.media.2024.103104)).
