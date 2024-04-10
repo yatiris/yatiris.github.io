@@ -1,7 +1,7 @@
 ---
 name: Franco Arellano
 position: undergrad
-avatar: franco_arellano.png
+avatar: franco_arellano.jpg
 twitter:
 joined: 2023
 ---
@@ -18,4 +18,6 @@ joined: 2023
 ### Bio
 
 Franco Arellano is an undergrad student of Software Engineering working as a Research Trainee on anomaly deteccion on image scraping through web interfaces and anomaly detection for the training of deep learning algorithms in ophthalmic applications.
+
+
 <hr>
