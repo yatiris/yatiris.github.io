@@ -1,8 +1,7 @@
 ---
 name: Eugenia Moris
 position: phdstudent
-avatar: euge_moris.jpg
-twitter: @eugee22
+avatar: camila_garcia.jpg
 joined: 2018
 ---
 
