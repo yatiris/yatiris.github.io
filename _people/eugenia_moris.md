@@ -23,6 +23,10 @@ Eugenia Moris (Euge) is a software engineer and a PhD student in Computational a
 
 ### Recent publications
 
+_Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images<br>
+Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
+Proceedings of Machine Learning Research
+
 _Assessing coarse-to-fine deep learning models for optic disc and cup segmentation in fundus images_<br>
 Eugenia Moris, Nicolás Dazeo, María Paula Albina de Rueda, Francisco Filizzola, Nicolás Iannuzzo, Danila Nejamkin, Kevin Wignall, Mercedes Leguía, Ignacio Larrabide, José Ignacio Orlando<br>
 18th International Symposium on Medical Information Processing and Analysis
