@@ -4,7 +4,7 @@ description: Tesis doctoral de José Ignacio Orlando, dirigida por el Dr. Matthe
 header-img: images/tesis-grado/2017-orlando.png
 categories: tesis-doctorado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/bitstream/handle/123456789/1476/Orlando%2c%20Jos%c3%a9%20Ignacio.PDF?sequence=1&isAllowed=y).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/34eefc42-884c-42d3-81a5-cde93d25e2dd).*
 
 
 <div class="image-post-container">

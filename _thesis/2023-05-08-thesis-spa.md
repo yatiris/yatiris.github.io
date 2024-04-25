@@ -4,7 +4,7 @@ description: Tesis de grado de Roberto Marcos, dirigida por el Dr. Ignacio Larra
 header-img: images/tesis-grado/2023-marcos.png
 categories: tesis-grado
 ---
-*Podés acceder al documento de la tesis [desde este link]().*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/03a2bf30-2b3f-4897-ad65-3e4bb3c651a4).*
 
 
 <div class="image-post-container">

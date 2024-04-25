@@ -4,7 +4,7 @@ description: Tesis de grado de Lautaro Gramuglia, dirigida por el Dr. Carlos Bul
 header-img: images/tesis-grado/2022-gramuglia.png
 categories: tesis-grado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/bitstream/handle/123456789/3244/Tesis%20Gramuglia.docx.pdf?sequence=1&isAllowed=y).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/f5113066-06c0-4433-a73f-fea2b03330ab).*
 
 
 <div class="image-post-container">

@@ -4,7 +4,7 @@ description: Tesis doctoral de Lucas Lo Vercio, dirigida por el Dr. Ignacio Larr
 header-img: images/tesis-grado/2017-lovercio.png
 categories: tesis-doctorado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/bitstream/handle/123456789/1398/Lo%20Vercio_%20Tesis_Version_Final.pdf?sequence=1&isAllowed=y).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/18bb4da3-4eaf-4daf-afed-6ce6c8d319bb).*
 
 
 <div class="image-post-container">

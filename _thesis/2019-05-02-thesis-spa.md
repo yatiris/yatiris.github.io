@@ -4,12 +4,14 @@ description: Tesis de grado de Ramiro Diaz y Bruno Rudenick, dirigida por la Dra
 header-img: images/tesis-grado/2019-diaz.jpg
 categories: tesis-grado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/handle/123456789/2050).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/e1e1db48-f4a4-4b4c-b305-914b4f2bf13f).*
 
 
 <div class="image-post-container">
     <img src="/images/tesis-grado/2019-diaz.jpg"/>
 </div>
+
+### Resumen
 
 La disección aórtica de tipo B consiste en un desgarro en la pared de la aorta torácica descendente, que provoca la formación de un canal falso paralelo al lumen natural. Esto puede producir debilitamiento y dilatación de la pared arterial, incrementando el riesgo de aneurismas y patologías trombóticas, con graves consecuencias para el paciente en caso de ruptura. Para reducir el riesgo de dilatación, en algunos casos se sugiere una cirugía de reparación para colocar una endoprótesis que cierra la puerta de entrada que perfunde el canal falso. A fin de realizar un seguimiento del tratamiento, los cirujanos estiman la evolución del diámetro externo máximo de la aorta e identifican la presencia de fugas. 
 

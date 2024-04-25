@@ -4,12 +4,14 @@ description: Tesis de grado de Diego Martín Gogorza y José Ignacio Irumberry, 
 header-img: images/tesis-grado/2019-gogorza.jpg
 categories: tesis-grado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/handle/123456789/2049).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/47998c0e-06a9-4ec6-b8f5-90e006e4f29d).*
 
 
 <div class="image-post-container">
     <img src="/images/tesis-grado/2019-gogorza.jpg"/>
 </div>
+
+### Resumen
 
 El trabajo consiste en el diseño y propuesta de una implementación que permite el intercambio de documentos clínicos de instituciones argentinas de salud, utilizando estándares de interoperabilidad vigentes: HL7, CDA y FHIR.
 

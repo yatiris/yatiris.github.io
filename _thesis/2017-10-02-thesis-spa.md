@@ -4,12 +4,14 @@ description: Tesis de grado de Mauro Giamberardino y Ariel Borthiry, dirigida po
 header-img: images/tesis-grado/2017-giamberardino.jpg
 categories: tesis-grado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/handle/123456789/1558).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/bab0f19c-b3f7-448f-8334-a7abdf0882f6).*
 
 
 <div class="image-post-container">
     <img src="/images/tesis-grado/2017-giamberardino.jpg"/>
 </div>
+
+### Resumen
 
 Según la Organización Mundial de la Salud, más de 200 millones de personas en todo el mundo sufre de algún tipo de discapacidad visual. En general, las mismas ocurren como consecuencia de padecer algún tipo de enfermedad visual, algunas de las cuales, tales como la retinopatía diabética o la degeneración macular asociada a la edad, afectan principalmente a la retina.
 

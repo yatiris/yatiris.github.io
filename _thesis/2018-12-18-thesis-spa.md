@@ -4,7 +4,7 @@ description: Tesis doctoral de Hugo Luis Manterola, dirigida por el Dr. Ignacio 
 header-img: images/tesis-grado/2018-manterola.png
 categories: tesis-doctorado
 ---
-*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/xmlui/bitstream/handle/123456789/1947/tesis%20MANTEROLA.pdf?sequence=1&isAllowed=y).*
+*Podés acceder al documento de la tesis [desde este link](https://www.ridaa.unicen.edu.ar/items/b48002a0-4aba-4768-a82e-9ce073eabc1e).*
 
 
 <div class="image-post-container">
