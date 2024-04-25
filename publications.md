@@ -13,16 +13,27 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2024
 
+_Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
+Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
+Proceedings of Machine Learning Research. 2024 (a ser publicado)
+
+_Anomaly guided segmentation: Introducing semantic context for lesion segmentation in retinal OCT using weak context supervision from anomaly detection_<br>
+Phillip Seeböck, J. I. Orlando, M. Michl, J. Mai, U. Schmidt-Erfurth, H. Bogunović, H<br>
+Medical Image Analysis. 2024 ([Article](https://doi.org/10.1016/j.media.2024.103104)).
+
 _Open Fundus Photograph Dataset with Pathologic Myopia Recognition and Anatomical Structure Annotation_<br>
 Huihui Fang, Fei Li, Junde Wu, Huazhu Fu, Xu Sun, José Ignacio Orlando, Hrvoje Bogunović, Xiulan Zhang, Yanwu Xu<br>
 Scientific Data. 2024 ([Article](https://doi.org/10.1038/s41597-024-02911-2))
-
 
 ### 2023
 
 _Gamma challenge: glaucoma grading from multi-modality images_<br>
 Junde Wu, Huihui Fang, Fei Li, Huazhu Fu, Fengbin Lin, Jiongcheng Li, Yue Huang, Qinji Yu, Sifan Song, Xinxing Xu, Yanyu Xu, Wensai Wang, Lingxiao Wang, Shuai Lu, Huiqi Li, Shihua Huang, Zhichao Lu, Chubin Ou, Xifei Wei, Bingyuan Liu, Riadh Kobbi, Xiaoying Tang, Li Lin, Qiang Zhou, Qiang Hu, Hrvoje Bogunović, José Ignacio Orlando, Xiulan Zhang, Yanwu Xu<br>
 Medical Image Analysis. 2023 ([Article](https://doi.org/10.1016/j.media.2023.102938))
+
+_Comparative Study of Automated Algorithms for Brain Arteriovenous Malformation Nidus Extent Identification Using 3DRA_<br>
+C. García, A. P. Narata, J. Liu, Y. Fang, I. Larrabide<br>
+Cardiovascular Engineering and Technology. 2023 ([Article](https://doi.org/10.1007/s13239-023-00688-w))
 
 _Evaluating sleep-stage classification: how age and early-late sleep affects classification performance_<br>
 Eugenia Moris, Ignacio Larrabide<br>

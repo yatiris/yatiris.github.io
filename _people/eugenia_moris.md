@@ -2,7 +2,6 @@
 name: Eugenia Moris
 position: phdstudent
 avatar: euge_moris.jpg
-twitter:
 joined: 2018
 ---
 
@@ -13,6 +12,7 @@ joined: 2018
 <i class="fa fa-envelope-o"></i>  `emoris@pladema.exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?hl=es&user=krc21eUAAAAJ)
+<i class="fa fa-bar-chart"></i> [LinkedIn](https://www.linkedin.com/in/eugenia-moris-480a55162)
 
 <hr>
 
@@ -22,6 +22,10 @@ Eugenia Moris (Euge) is a software engineer and a PhD student in Computational a
 
 ### Recent publications
 
+_Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images<br>
+Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
+Proceedings of Machine Learning Research
+
 _Assessing coarse-to-fine deep learning models for optic disc and cup segmentation in fundus images_<br>
 Eugenia Moris, Nicolás Dazeo, María Paula Albina de Rueda, Francisco Filizzola, Nicolás Iannuzzo, Danila Nejamkin, Kevin Wignall, Mercedes Leguía, Ignacio Larrabide, José Ignacio Orlando<br>
 18th International Symposium on Medical Information Processing and Analysis
@@ -29,15 +33,3 @@ Eugenia Moris, Nicolás Dazeo, María Paula Albina de Rueda, Francisco Filizzola
 _Evaluating sleep-stage classification: how age and early-late sleep affects classification performance_<br>
 Eugenia Moris, Ignacio Larrabide<br>
 Medical & Biological Engineering & Computing
-
-### Recent posters
-
-_Wavelets for sleep scoring: A machine learning approach_<br>
-**Eugenia Moris**, Cecilia Forcato, Ignacio Larrabide<br>
-SAN 2020
-
-_A study of single subject VBM and DARTEL on healthy subjects_<br>
-Giulia Carbonari, Julia Carosi, Aylin Vázquez Chenlo, **Eugenia Moris**, Cecilia Forcato, Rodrigo Ramele, Ignacio Larrabide
-SAN 2020
-
-<hr>
