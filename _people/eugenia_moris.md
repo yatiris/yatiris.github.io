@@ -22,7 +22,7 @@ Eugenia Moris (Euge) is a software engineer and a PhD student in Computational a
 
 ### Recent publications
 
-_Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images<br>
+_Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
 Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
 Proceedings of Machine Learning Research
 
@@ -32,4 +32,10 @@ Eugenia Moris, Nicolás Dazeo, María Paula Albina de Rueda, Francisco Filizzola
 
 _Evaluating sleep-stage classification: how age and early-late sleep affects classification performance_<br>
 Eugenia Moris, Ignacio Larrabide<br>
+Medical & Biological Engineering & Computing
+
+## Award
+
+_Editor's Choice_<br>
+Evaluating sleep-stage classification: how age and early-late sleep affects classification performance<br>
 Medical & Biological Engineering & Computing
