@@ -17,7 +17,7 @@ joined: 2018
 
 ### Bio
 
-Santiago Vitale (Santi) is a Postdoctoral Research at Yatiris. Santiago's thesis is focused in introducing novel ultrasound simulation techniques to train technicians in controlled environments. He's currently investigating different ray-casting and deep learning methods to simulate abdominal ultrasound images. Santiago Vitale received a B.Sc. degree in Software Engineering at UNICEN in 2018 and his PhD in Computational and Industrial Mathematics in 2023. He is working with us with a research scholarship granted by CONICET.
+Santiago Vitale (Santi) is a Postdoctoral Researcher at Yatiris. His thesis focuses on introducing novel ultrasound simulation techniques to train technicians in controlled environments. He is currently investigating various ray-casting and deep learning methods to simulate abdominal ultrasound images. Santiago received a B.Sc. in Software Engineering from UNICEN in 2018 and his PhD in Computational and Industrial Mathematics in 2023. He is working with us through a research scholarship granted by CONICET.
 
 ### Relevant publications
 

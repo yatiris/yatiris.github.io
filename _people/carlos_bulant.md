@@ -19,7 +19,8 @@ order: 4
 
 ### Bio
 
-Carlos Alberto Bulant (Carlitos) is an Assistant Researcher at CONICET, and a teaching assistant at UNICEN. His research focuses on enhancing medical images with hemodynamics simulations to improve the diagnosis of cardiovascular diseases. Carlos is one of the Co-Founders of [Flouit](https://www.flouit.com/), bringing scientific computing and simulation-based diagnostics to daily clinical practice. Carlos graduated as a Systems Engineer at UNICEN (in 2010), after that, he moved to Petropolis, RJ, Brasil to pursue an M.Sc. in scientific computing (in 2013) and a D.Sc. in computational modeling (in 2017), at the Laboratório Nacional de Computação Científica (LNCC). Currently, he lives in Tandil, Bs As, Argentina, with his beloved wife and daughter :)
+Carlos Alberto Bulant (Carlitos) is an Assistant Researcher at CONICET and a teaching assistant at UNICEN. His research focuses on enhancing medical images with hemodynamic simulations to improve the diagnosis of cardiovascular diseases. Carlos is one of the Co-Founders of [Flouit](https://www.flouit.com/), a company that integrates scientific computing and simulation-based diagnostics into daily clinical practice. Carlos graduated as a Systems Engineer from UNICEN in 2010. He then moved to Petrópolis, RJ, Brazil, where he pursued an M.Sc. in Scientific Computing (2013) and a D.Sc. in Computational Modeling (2017) at the Laboratório Nacional de Computação Científica (LNCC). He currently lives in Tandil, Buenos Aires, Argentina, with his beloved wife and daughter :)
+
 
 ### Relevant publications
 

@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2024
 
+_Computer Aided Intracranial Aneurysm Treatment Based on 2D/3D Mapping, Virtual Deployment and Online Distal Marker Detection_<br>
+Nicolas Dazeo, José Ignacio Orlando, Camila García, Romina Muñoz, Laura Obrado, Hector Fernandez, Jordi Blasco, Luis San Román, Juan M Macho, Andreas Ding, Raphael Utz, Ignacio Larrabide<br>
+Cardiovascular Engineering and Technology. 2024 ([Article](https://doi.org/10.1007/s13239-024-00745-y))
+
 _Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
 Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
 Proceedings of Machine Learning Research. 2024 (a ser publicado)

@@ -18,7 +18,9 @@ joined: 2023
 
 ### Bio
 
-Santiago Estevez Areco (Santi) is a post-doctoral research fellow from ANPCyT. He holds a PhD degree in Physics from the Buenos Aires University (2021). His research aims to better understand the interaction between endovascular devices and the arterial wall following the treatment of cerebral aneurysms.
+Santiago Estevez Areco (Santi) is a Post-Doctoral Research Fellow at ANPCyT. He holds a PhD in Physics from the University of Buenos Aires (2021). His research aims to better understand the interaction between endovascular devices and the arterial wall following the treatment of cerebral aneurysms.
+
+
 
 ### Relevant publications
 

@@ -18,7 +18,7 @@ joined: 2018
 
 ### Bio
 
-Eugenia Moris (Euge) is a software engineer and a PhD student in Computational and Industrial Mathematics, specializing in the implementation of artificial intelligence in medical imaging. Her expertise ranges from the classification of structures in IVUS to the classification of sleep stages in EEG. Currently, she is working on the segmentation of the optic disc and cup in fundus images for the early detection of ophthalmologic diseases.
+Eugenia Moris (Euge) is a software engineer and a PhD student in Computational and Industrial Mathematics, specializing in the implementation of artificial intelligence in medical imaging. Her expertise ranges from the classification of structures in IVUS (Intravascular Ultrasound) to the classification of sleep stages in EEG (Electroencephalography). Currently, she is working on the segmentation of the optic disc and cup in fundus images for the early detection of ophthalmologic diseases.
 
 ### Recent publications
 

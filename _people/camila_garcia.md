@@ -1,6 +1,6 @@
 ---
 name: Camila Garcia
-position: phdstudent
+position: postdoc
 avatar: camila_garcia.jpg
 joined: 2019
 ---
@@ -17,7 +17,7 @@ joined: 2019
 
 ### Bio
 
-Camila García (Cami) is a PhD student in Computational and Industrial Mathematics, and a teaching assistant in Programming Languages and Computer Architecture and Digital Techniques at UNICEN. Currently she is working on Brain Arterio-Venous Malformations (BAVMs) characterisation, aiming to help neurointerventionists acquire a better comprehension of BAVMs' morphology. In addition to her main research area, she is interested in gender studies, critical animal studies and neurodiversity in higher education.
+Camila García (Cami) is a Postdoctoral Research Associate at Yatiris, funded by a PhD scholarship grant from CONICET. She holds a PhD in Computational and Industrial Mathematics and is also a teaching assistant in Programming Languages, as well as Computer Architecture and Digital Techniques at UNICEN. Currently, she is working on the characterization of Brain Arterio-Venous Malformations (BAVMs), aiming to help neurointerventionists gain a better understanding of BAVM morphology. In addition to her main research area, she is interested in gender studies, critical animal studies, and neurodiversity in higher education.
 
 ### Relevant publications
 

@@ -17,7 +17,7 @@ joined: 2018
 
 ### Bio
 
-Romina Luciana Muñoz (Romi) is a Postdoctoral Research Fellow from CONICET. She holds a PhD in Computational and Industrial Mathematics at UNICEN (2022) and a M.Sc. degree in Mathematics. Her research is focused in modeling flow disruptors for endovascular treatment of aneurysms, evaluating their hemodynamic alterations and validating the realism and precision of these devices.
+Romina Luciana Muñoz (Romi) is a Postdoctoral Research Fellow at CONICET, awaiting her promotion to Assistant Researcher. She holds a PhD in Computational and Industrial Mathematics from UNICEN (2022) and an M.Sc. degree in Mathematics. Her research focuses on modeling flow disruptors for endovascular treatment of aneurysms, evaluating their hemodynamic alterations, and validating the realism and precision of these devices.
 
 ### Relevant publications
 

@@ -19,7 +19,7 @@ order: 3
 
 ### Bio
 
-[José Ignacio Orlando](https://ignaciorlando.github.io/) (Nacho) is an Assistant Researcher from CONICET, a teaching assistant at UNICEN and professor of Machine Learning and Computer Vision at [DUIA](https://duia.exa.unicen.edu.ar/). His main research interests involve the application of machine learning and computer vision techniques to process biomedical signals, with applications in ophthalmology and medicine in general. He is also a Co-Founder of [retinar](https://retinar.com.ar/en/), a project that aims to develop an AI based platform for teleophthalmology of diabetic retinopathy. He holds a Ph.D. in Computational and Industrial Mathematics and a Sotware Engineering degree, both from UNICEN.
+[José Ignacio Orlando](https://ignaciorlando.github.io/) (Nacho) is an Associate Researcher from CONICET, a teaching assistant at UNICEN and professor of Machine Learning and Computer Vision at [DUIA](https://duia.exa.unicen.edu.ar/). His main research interests involve the application of machine learning and computer vision techniques to process biomedical signals, with applications in ophthalmology and medicine in general. He is also a Co-Founder of [retinar](https://retinar.com.ar/en/), a project that aims to develop an AI based platform for teleophthalmology of diabetic retinopathy. He holds a Ph.D. in Computational and Industrial Mathematics and a Sotware Engineering degree, both from UNICEN.
 
 ### Relevant publications
 

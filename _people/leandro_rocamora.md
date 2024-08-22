@@ -17,6 +17,6 @@ joined: 2021
 
 ### Bio
 
-Leandro Rocamora is a PhD student in Computational and Industrial Mathematics. He is currently working as a developer and assisting in the ophthalmology research lines at Yatiris. His research interests include machine learning, artificial intelligence and natural sciences.
+Leandro Rocamora is a PhD student in Computational and Industrial Mathematics. He is currently working as a developer and assisting in the ophthalmology research lines at Yatiris. His research interests include machine learning, artificial intelligence, and natural sciences.
 
 <hr>

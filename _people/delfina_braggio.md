@@ -1,6 +1,6 @@
 ---
 name: Delfina Braggio
-position: postdoc
+position: researcher
 avatar: delfina_braggio.jpg
 twitter:
 joined: 2016
@@ -18,7 +18,7 @@ joined: 2016
 
 ### Bio
 
-Delfina Braggio (Delfi) is a Postdoctoral Research Fellow from CONICET. She holds a PhD degree in Computational and Industrial Mathematics from UNICEN (2022). Her research is focused in analyzing brain images from mice and humans using VBM and machine learning techniques.
+Delfina Braggio (Delfi) is an Assistant Researcher at CIC-PBA. She holds a PhD in Computational and Industrial Mathematics from UNICEN (2022), which she pursued with a doctoral scholarship from CONICET. She also worked as a Postdoctoral Research Associate funded by CONICET. Her research focuses on analyzing brain images from both mice and humans using VBM (Voxel-Based Morphometry) and machine learning techniques. More recently, she has started working on the characterization of cortical and subcortical brain structures using machine learning models.
 
 ### Relevant publications
 

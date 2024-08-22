@@ -1,6 +1,6 @@
 ---
 name: Nicolás Dazeo
-position: postdoc
+position: researcher
 avatar: nicolas_dazeo.jpg
 twitter:
 joined: 2015
@@ -18,7 +18,7 @@ joined: 2015
 
 ### Bio
 
-Nicolás Dazeo (Nico) is a Postdoctoral Research Fellow from CONICET. He holds a PhD degree in Computational and Industrial Mathematics from UNICEN (2022). His research focuses in the computational modelling of human hemodynamics, computer-assisted vascular interventions and web tecnologies.
+Nicolás Dazeo (Nico) is an Assistant Researcher at CNEA. He holds a PhD in Computational and Industrial Mathematics from UNICEN (2022), which was funded by a scholarship granted by CONICET. He also served as a Postdoctoral Research Associate at the same institution. His research focuses on the computational modeling of human hemodynamics, computer-assisted vascular interventions, and web technologies. He is also a Teaching Assistant at UNICEN.
 
 ### Relevant publications
 

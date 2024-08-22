@@ -17,7 +17,6 @@ joined: 2022
 
 ### Bio
 
-Lucas Telesco (Lucky) is Software Engineer and a PhD student in Computational and Industrial Mathematics, focusing on anomaly detection in optical coherence tomography (OCT) images with a PhD scholarship granted by CONICET.
-
+Lucas Telesco (Lucky or Tele) is a Software Engineer and a PhD student in Computational and Industrial Mathematics, focusing on image characterization in ophthalmology. He is pursuing his PhD with a scholarship granted by CONICET.
 
 <hr>

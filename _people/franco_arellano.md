@@ -1,6 +1,6 @@
 ---
 name: Franco Arellano
-position: undergrad
+position: phdstudent
 avatar: franco_arellano.jpg
 twitter:
 joined: 2023
@@ -17,7 +17,6 @@ joined: 2023
 
 ### Bio
 
-Franco Arellano is an undergrad student of Software Engineering working as a Research Trainee on anomaly deteccion on image scraping through web interfaces and anomaly detection for the training of deep learning algorithms in ophthalmic applications.
-
+Franco Arellano (Fran) is a Software Engineer (UNICEN) currently pursuing a PhD in Computational and Industrial Mathematics with a scholarship granted by CONICET. His research focuses on leveraging unlabeled data and scraping tools to build better foundation models, aiming to reduce the annotation burden in medical image classification and segmentation tasks, with a focus on ophthalmological applications.
 
 <hr>
