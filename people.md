@@ -43,6 +43,7 @@ permalink: /people/
 
 ### Past members
 
+**Hernán Külsgaard** - PhD student (2024) <br>
 **Tomás Castilla** - Research Intern, now Data Engineer at [Datalytics](https://www.datalytics.com/) (2022) <br>
 **Lautaro Gramuglia** - Research Intern. (2022) <br>
 **Rodrigo Cobo** - Undergrad student, now Data Scientist at [Globant](https://www.globant.com/en) (2021) <br>
