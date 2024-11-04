@@ -8,7 +8,7 @@ categories: tesis-grado
 
 
 <div class="image-post-container">
-    <img src="/images/tesis-grado/....png"/>
+    <img src="/images/tesis-grado/2024-BurckArispe.png"/>
 </div>
 
 ### Resumen
