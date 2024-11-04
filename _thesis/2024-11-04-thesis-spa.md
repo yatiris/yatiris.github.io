@@ -1,6 +1,6 @@
 ---
 title: "Desarrollo de un modelo de Segmentación de Dispositivos para el Tratamiento de Aneurismas Cerebrales a partir de Imágenes Médicas 3D"
-description: Tesis de grado de David Burckhardt y Martin Vazquez Arispe, dirigida por el Dr. Ignacio Larrabide y por Romina Muñoz
+description: Tesis de grado de David Burckhardt y Martin Vazquez Arispe, dirigida por el Dr. Ignacio Larrabide y por la Dra. Romina Muñoz
 header-img: images/tesis-grado/2024-burckarispe.png
 categories: tesis-grado
 ---
