@@ -11,6 +11,20 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+### 2025
+
+_The impact of pre-treatment aneurysm angulation. What happens with WEB devices at follow-up?_<br>
+Romina Muñoz, Nicolás Dazeo, Camila García, Kevin Janot, Nourou Dine Adeniran Bankole, Ana Paula Narata, Aymeric Rouchaud, Ignacio Larrabide<br>
+interventional neuroradiology. 2025 ([Article](https://doi.org/10.1177/15910199251316411))
+
+_Advancing flow diverter porosity assessment: what can it tell us about occlusion rates?_<br>
+Santiago Estevez-Areco, Laura Obradó, Romina Muñoz, Ignacio Larrabide<br>
+Expert Review of Medical Devices. 2025 ([Artible](https://doi.org/10.1080/17434440.2025.2464177))
+
+_A Self-supervised Deep Learning Model for Diagonal Sulcus Detection with Limited Labeled Data_<br>
+Delfina Braggio, Hernán Külsgaard, Mariana Vallejo-Azar, Mariana Bendersky, Paula González, Lucía Alba-Ferrara, José Ignacio Orlando, Ignacio Larrabide<br>
+Neuroinformatics. 2025 ([Article](https://doi.org/10.1007/s12021-024-09700-7))
+
 ### 2024
 
 _Computer Aided Intracranial Aneurysm Treatment Based on 2D/3D Mapping, Virtual Deployment and Online Distal Marker Detection_<br>
