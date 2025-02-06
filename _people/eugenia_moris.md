@@ -35,6 +35,9 @@ Eugenia Moris, Ignacio Larrabide<br>
 Medical & Biological Engineering & Computing
 
 ## Award
+_Poster Destacado_<br>
+Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
+Simposio Cientifico de IA y Aplicaciones 2024
 
 _Editor's Choice_<br>
 Evaluating sleep-stage classification: how age and early-late sleep affects classification performance<br>
