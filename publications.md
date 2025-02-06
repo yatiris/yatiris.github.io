@@ -19,7 +19,7 @@ Cardiovascular Engineering and Technology. 2024 ([Article](https://doi.org/10.10
 
 _Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
 Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
-Proceedings of Machine Learning Research. 2024 (a ser publicado)
+Proceedings of Machine Learning Research. 2024 ([Article](https://proceedings.mlr.press/v250/moris24a.html))
 
 _Anomaly guided segmentation: Introducing semantic context for lesion segmentation in retinal OCT using weak context supervision from anomaly detection_<br>
 Phillip Seeböck, J. I. Orlando, M. Michl, J. Mai, U. Schmidt-Erfurth, H. Bogunović, H<br>
