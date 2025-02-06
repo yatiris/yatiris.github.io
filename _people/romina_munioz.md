@@ -29,7 +29,7 @@ _Advancing flow diverter porosity assessment: what can it tell us about occlusio
 Santiago Estevez-Areco, Laura Obradó, **Romina Muñoz**, Ignacio Larrabide<br>
 Expert Review of Medical Devices. 2025
 
-_Assessing flow diverter porosity: a comparative analysis of quantification techniques based on imaging and simulation<br>
+_Assessing flow diverter porosity: a comparative analysis of quantification techniques based on imaging and simulation_<br>
 Laura Obradó, Santiago Estevez-Areco, **Romina Muñoz**, Hector Fernandez, Luis San Roman, Jordi Blasco, Antonio Lopez-Rueda, Juan Macho, Javier Moreno, Ignacio Larrabide<br>
 Expert Review of Medical Devices. 2024
 
