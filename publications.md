@@ -19,7 +19,7 @@ interventional neuroradiology. 2025 ([Article](https://doi.org/10.1177/159101992
 
 _Advancing flow diverter porosity assessment: what can it tell us about occlusion rates?_<br>
 Santiago Estevez-Areco, Laura Obradó, Romina Muñoz, Ignacio Larrabide<br>
-Expert Review of Medical Devices. 2025 ([Artible](https://doi.org/10.1080/17434440.2025.2464177))
+Expert Review of Medical Devices. 2025 ([Article](https://doi.org/10.1080/17434440.2025.2464177))
 
 _A Self-supervised Deep Learning Model for Diagonal Sulcus Detection with Limited Labeled Data_<br>
 Delfina Braggio, Hernán Külsgaard, Mariana Vallejo-Azar, Mariana Bendersky, Paula González, Lucía Alba-Ferrara, José Ignacio Orlando, Ignacio Larrabide<br>
