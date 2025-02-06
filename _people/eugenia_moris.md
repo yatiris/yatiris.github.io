@@ -1,6 +1,6 @@
 ---
 name: Eugenia Moris
-position: phdstudent
+position: postdoc
 avatar: euge_moris.jpg
 joined: 2018
 ---
