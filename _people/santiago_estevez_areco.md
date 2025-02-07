@@ -24,6 +24,10 @@ Santiago Estevez Areco (Santi) is a Post-Doctoral Research Fellow at ANPCyT. He 
 
 ### Relevant publications
 
+_New insights of the adaptation of flow diverters to the local geometry of vessel in the treatment of intracranial aneurysms_<br>
+Ariá Jaimejuan, Santiago Estevez-Areco, Laura Obradó, Hector Fernandez, Jordi Blasco, Luis San Roman, Juan M. Macho, Demetrius Lopes, Carlos Castaño, Sebastian Remollo, Ignacio Larrabide<br>
+Expert Review of Medical Devices, 2025
+
 _Advancing flow diverter porosity assessment: what can it tell us about occlusion rates?_<br>
 Santiago Estevez-Areco, Laura Obradó, Romina Muñoz, Ignacio Larrabide<br>
 Expert Review of Medical Devices. 2025
