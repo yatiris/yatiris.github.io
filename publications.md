@@ -13,6 +13,10 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 ### 2025
 
+_New insights of the adaptation of flow diverters to the local geometry of vessel in the treatment of intracranial aneurysms_<br>
+Ariá Jaimejuan, Santiago Estevez-Areco, Laura Obradó, Hector Fernandez, Jordi Blasco, Luis San Roman, Juan M. Macho, Demetrius Lopes, Carlos Castaño, Sebastian Remollo, Ignacio Larrabide<br>
+Expert Review of Medical Devices, 2025 (To be published)
+
 _The impact of pre-treatment aneurysm angulation. What happens with WEB devices at follow-up?_<br>
 Romina Muñoz, Nicolás Dazeo, Camila García, Kevin Janot, Nourou Dine Adeniran Bankole, Ana Paula Narata, Aymeric Rouchaud, Ignacio Larrabide<br>
 interventional neuroradiology. 2025 ([Article](https://doi.org/10.1177/15910199251316411))
