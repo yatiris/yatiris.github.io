@@ -36,6 +36,8 @@ nav:
     href:           "/publications"
   - name:           "news"
     href:           "/news"
+  - name:           "consultancy"
+    href:           "/consultancy"
   - name:           "work with us"
     href:           "/work-with-us"
 
