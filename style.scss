@@ -536,6 +536,10 @@ tbody tr:nth-child(odd) th {
   text-transform: uppercase;
   font-weight: 400;
   font-size: 80%;
+  white-space: nowrap;  /* Prevent wrapping */
+  display: flex;         /* Ensure items stay in a row */
+  flex-wrap: nowrap;     /* Prevent items from moving to a second row */
+  justify-content: space-between; /* Distribute items evenly */
 }
 
 // fix menu bar spacing for mobile
