@@ -535,13 +535,13 @@ tbody tr:nth-child(odd) th {
   font-family: "Encode Sans", 'Open Sans', sans-serif;
   text-transform: uppercase;
   font-weight: 400;
-  font-size: 80%;
+  font-size: 75%;
 }
 
 // fix menu bar spacing for mobile
-@media(max-width: 40em){
+@media (max-width: 40em) {
   .navbar-nav>li>a {
-    padding: 0.75em 0 0.5em 2.5em;
+    padding: 0.75em 0 0.5em 1.5em;
     font-size: 15px;
   }
 
@@ -554,6 +554,14 @@ tbody tr:nth-child(odd) th {
 // fix spacing
 .navbar-nav>li {
   margin-bottom: 0;
+}
+
+// Add padding adjustment for desktop menu items
+@media (min-width: 40em) {
+  .navbar-nav>li>a {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
 }
 
 // fix menu button for mobile
