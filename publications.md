@@ -11,6 +11,18 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
+
+
+### 2025
+
+_Improving realism in abdominal ultrasound simulation combining a segmentation‐guided loss and polar coordinates training_<br>
+S Vitale, JI Orlando, E Iarussi, A Díaz, I Larrabide<br>
+Medical Physics. 2025. ([Article](https://doi.org/10.1002/mp.16772))
+
+_A Self-supervised Deep Learning Model for Diagonal Sulcus Detection with Limited Labeled Data_<br>
+D Braggio, HC Külsgaard, M Vallejo-Azar, M Bendersky, P González, et al.<br>
+Neuroinformatics 23 (1), 1-17. 2025. ([Article](https://doi.org/10.1007/s12021-024-09652-y))
+
 ### 2024
 
 _Computer Aided Intracranial Aneurysm Treatment Based on 2D/3D Mapping, Virtual Deployment and Online Distal Marker Detection_<br>
@@ -19,7 +31,7 @@ Cardiovascular Engineering and Technology. 2024 ([Article](https://doi.org/10.10
 
 _Semi-supervised learning with Noisy Students improves domain generalization in optic disc and cup segmentation in uncropped fundus images_<br>
 Eugenia Moris, Ignacio Larrabide, José Ignacio Orlando<br>
-Proceedings of Machine Learning Research. 2024 (a ser publicado)
+Proceedings of Machine Learning Research. 2024 ([Article](https://proceedings.mlr.press/v250/moris24a.html))
 
 _Anomaly guided segmentation: Introducing semantic context for lesion segmentation in retinal OCT using weak context supervision from anomaly detection_<br>
 Phillip Seeböck, J. I. Orlando, M. Michl, J. Mai, U. Schmidt-Erfurth, H. Bogunović, H<br>
@@ -225,7 +237,7 @@ C. Bezerra, F. Pinton, B. Falcao, J. Marini, A. Kajita, Carlos Alberto Bulant, P
 Journal of the American College of Cardiology, 2019 ([Article](https://www.sciencedirect.com/science/article/pii/S0735109719367592?via%3Dihub))
 
 _Drone Based DSM Reconstruction for Flood Simulations in Small Areas: A Pilot Study_<br>
-Pablo Rinaldi, Ignacio Larrabide, Juan Pablo D’Amato
+Pablo Rinaldi, Ignacio Larrabide, Juan Pablo D'Amato
 World Conference on Information Systems and Technologies, 2019
 
 _Laryngo-CUBE: Diseño y proceso de fabricación de un simulador para intubación orotraqueal en gatos_<br>
@@ -361,7 +373,7 @@ Lucas Lo Vercio, José Ignacio Orlando, Mariana del Fresno, Ignacio Larrabide<br
 International Journal for Computer Assisted Radiology and Surgery, 2016 ([Article](http://www.academia.edu/download/40975441/main.pdf))
 
 _Multi-object segmentation framework using deformable models for medical imaging analysis_<br>
-Rafael Namías, Juan Pablo D’Amato, Mariana del Fresno, Marcelo Vénere, Nicolás Pirró, Marc-Emmanuel Bellemare<br>
+Rafael Namías, Juan Pablo D'Amato, Mariana del Fresno, Marcelo Vénere, Nicolás Pirró, Marc-Emmanuel Bellemare<br>
 Medical and Biological Engineering and Computing, 2016 ([Article](https://doi.org/10.1007/s11517-015-1387-3 ))
 
 _Does the Arterial Flow Rate affect Flow Diverter Stent Performance?_<br>
@@ -397,11 +409,11 @@ José Ignacio Orlando, Elena Prokofyeva, Mariana del Fresno, Matthew B. Blaschko
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2255740))
 
 _Ray-casting method to assess the quality of segmented surfaces from 3D images_<br>
-Juan Pablo D’Amato, Mariana del Fresno, Cristian Garcia Bauza, Marcelo Vénere<br>
+Juan Pablo D'Amato, Mariana del Fresno, Cristian Garcia Bauza, Marcelo Vénere<br>
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2256775))
 
 _Comparison of real-time ultrasound simulation models using abdominal CT images_<br>
-Pablo Rubi, Ezequiel Fernandez Vera, Juan Pablo D’Amato, Joaquín Larrabide, M. Calvo, Ignacio Larrabide. 
+Pablo Rubi, Ezequiel Fernandez Vera, Juan Pablo D'Amato, Joaquín Larrabide, M. Calvo, Ignacio Larrabide. 
 12th International Symposium on Medical Information Processing and Analysis (SIPAIM 2016), 2017 ([Article](https://doi.org/10.1117/12.2255741))
 
 _Changes on abdominal aortic fluid dynamics after implantation of grafts based on endovascular aneurysm sealing system (EVAS)_<br>
@@ -454,7 +466,7 @@ Emmanuel Maggiori, Pablo Lotito, Hugo Luis Manterola, Mariana del Fresno<br>
 IEEE Transactions on Pattern Analysis and Machine Intelligence, 2014 ([Article](https://doi.org/10.1109/TPAMI.2014.2342233))
 
 _Automatic Rectum Limit Detection by Anatomical Markers Correlation_<br>
-Rafael Namías, Juan Pablo D’Amato, Mariana del Fresno, Marcelo Vénere<br>
+Rafael Namías, Juan Pablo D'Amato, Mariana del Fresno, Marcelo Vénere<br>
 Computerized Medical Imaging and Graphics, 2014 ([Article](http://doi.org/10.1016/j.compmedimag.2014.01.005))
 
 _Learning fully-connected CRFs for blood vessel segmentation in retinal images_<br>

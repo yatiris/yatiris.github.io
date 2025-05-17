@@ -43,15 +43,17 @@ permalink: /people/
 
 ### Past members
 
+**Eugenia Moris** - PhD student (2025) - After finishing: Data Scientist at [Arionkoder](https:www.arionkoder.com/) <br>
+**Camila García** - PhD student (2024) - After finishing: Data Scientist at [mediaire](https://www.linkedin.com/company/mediaire/) <br>
 **Hernán Külsgaard** - PhD student (2024) <br>
-**Tomás Castilla** - Research Intern, now Data Engineer at [Datalytics](https://www.datalytics.com/) (2022) <br>
+**Tomás Castilla** - Research Intern - After finishing: Data Engineer at [Datalytics](https://www.datalytics.com/) (2022) <br>
 **Lautaro Gramuglia** - Research Intern. (2022) <br>
-**Rodrigo Cobo** - Undergrad student, now Data Scientist at [Globant](https://www.globant.com/en) (2021) <br>
-**Francisco Iarussi** - Undergrad student and Research Trainee from 2020 to 2021, now QA and Test Automation Engineer at [Globant](https://www.globant.com/en) (2021) <br>
-**Javier Dottori** - Ph.D. student and Postdoc from 2012 to 2020, now Senior Software Engineer at [Glofox](https://www.glofox.com/) (2020) <br>
-**Hugo Luis Manterola** - Ph.D. student and Postdoc from 2013 to 2019, now Software Developer at [Lamansys](https://lamansys.com.ar/) (2019) <br>
-**Giulia Carbonari** - Ph.D. student from 2019 to 2021, now Ph.D. student at [ITBA](https://www.itba.edu.ar/) (2020) <br>
-**Tomás Pérez Cambet** - Undergrad student from 2018 to 2020, now Software Development Engineer at [Salesforce](https://www.salesforce.com/mx/?ir=1) (2020) <br>
-[**Lucas Lo Vercio**](http://www.pladema.net/llovercio/) - Ph.D. student and Postdoc from 2012 to 2017, now postdoc at University of Calgari (Canada) (2017) <br>
-**Pablo Rubí** - Undergrad and Ph.D. student from 2016 to 2017), now Software Developer at Amazon (Seattle, USA) (2017) <br>
-**Ezequiel Fernández Vera** - Undergrad student and Research Engineer (2015-2017), now Software Developer at [Lamansys](https://lamansys.com.ar/) (2017) <br>
+**Rodrigo Cobo** - Undergrad student - After finishing: Data Scientist at [Globant](https://www.globant.com/en) (2021) <br>
+**Francisco Iarussi** - Undergrad student and Research Trainee from 2020 to 2021 - After finishing: QA and Test Automation Engineer at [Globant](https://www.globant.com/en) (2021) <br>
+**Javier Dottori** - Ph.D. student and Postdoc from 2012 to 2020- After finishing: Senior Software Engineer at [Glofox](https://www.glofox.com/) (2020) <br>
+**Hugo Luis Manterola** - Ph.D. student and Postdoc from 2013 to 2019- After finishing: Software Developer at [Lamansys](https://lamansys.com.ar/) (2019) <br>
+**Giulia Carbonari** - Ph.D. student from 2019 to 2021- After finishing: Ph.D. student at [ITBA](https://www.itba.edu.ar/) (2020) <br>
+**Tomás Pérez Cambet** - Undergrad student from 2018 to 2020- After finishing: Software Development Engineer at [Salesforce](https://www.salesforce.com/mx/?ir=1) (2020) <br>
+[**Lucas Lo Vercio**](http://www.pladema.net/llovercio/) - Ph.D. student and Postdoc from 2012 to 2017- After finishing: postdoc at University of Calgari (Canada) (2017) <br>
+**Pablo Rubí** - Undergrad and Ph.D. student from 2016 to 2017 - After finishing: Software Developer at Amazon (Seattle, USA) (2017) <br>
+**Ezequiel Fernández Vera** - Undergrad student and Research Engineer (2015-2017)- After finishing: Software Developer at [Lamansys](https://lamansys.com.ar/) (2017) <br>
