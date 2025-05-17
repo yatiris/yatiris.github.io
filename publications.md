@@ -11,19 +11,38 @@ We try to include links for all of our papers. Some of the links open PDFs, othe
 
 <hr>
 
-
-
 ### 2025
 
 _Improving realism in abdominal ultrasound simulation combining a segmentation‐guided loss and polar coordinates training_<br>
 S Vitale, JI Orlando, E Iarussi, A Díaz, I Larrabide<br>
 Medical Physics. 2025. ([Article](https://doi.org/10.1002/mp.16772))
 
+_New insights of the adaptation of flow diverters to the local geometry of vessel in the treatment of intracranial aneurysms_<br>
+Ariá Jaimejuan, Santiago Estevez-Areco, Laura Obradó, Hector Fernandez, Jordi Blasco, Luis San Roman, Juan M. Macho, Demetrius Lopes, Carlos Castaño, Sebastian Remollo, Ignacio Larrabide<br>
+Expert Review of Medical Devices, 2025 (To be published)
+
+_The impact of pre-treatment aneurysm angulation. What happens with WEB devices at follow-up?_<br>
+Romina Muñoz, Nicolás Dazeo, Camila García, Kevin Janot, Nourou Dine Adeniran Bankole, Ana Paula Narata, Aymeric Rouchaud, Ignacio Larrabide<br>
+interventional neuroradiology. 2025 ([Article](https://doi.org/10.1177/15910199251316411))
+
+_Advancing flow diverter porosity assessment: what can it tell us about occlusion rates?_<br>
+Santiago Estevez-Areco, Laura Obradó, Romina Muñoz, Ignacio Larrabide<br>
+Expert Review of Medical Devices. 2025 ([Article](https://doi.org/10.1080/17434440.2025.2464177))
+
 _A Self-supervised Deep Learning Model for Diagonal Sulcus Detection with Limited Labeled Data_<br>
-D Braggio, HC Külsgaard, M Vallejo-Azar, M Bendersky, P González, et al.<br>
-Neuroinformatics 23 (1), 1-17. 2025. ([Article](https://doi.org/10.1007/s12021-024-09652-y))
+Delfina Braggio, Hernán Külsgaard, Mariana Vallejo-Azar, Mariana Bendersky, Paula González, Lucía Alba-Ferrara, José Ignacio Orlando, Ignacio Larrabide<br>
+Neuroinformatics. 2025 ([Article](https://doi.org/10.1007/s12021-024-09700-7))
 
 ### 2024
+
+_Assessing flow diverter porosity: a comparative analysis of quantification techniques based on imaging and simulation_<br>
+Laura Obradó, Santiago Estevez-Areco, Romina Muñoz, Hector Fernandez, Luis San Roman, Jordi Blasco,
+Antonio Lopez-Rueda, Juan Macho, Javier Moreno, Ignacio Larrabide<br>
+Expert Review of Medical Devices. 2024 ([Article](https://doi.org/10.1080/17434440.2024.2437519))
+
+_Modification of Woven Endo‑Bridge After Intracranial Aneurysm Treatment: A Methodology for Three‑Dimensional Analysis of Shape and Relative Position Changes_<br>
+Romina Muñoz, Nicolás Dazeo, Santiago Estevez‑Areco, Kevin Janot, Ana Paula Narata, Aymeric Rouchaud, Ignacio Larrabide<br>
+ Annals of Biomedical Engineering. 2024 ([Article](https://link.springer.com/article/10.1007/s10439-024-03465-5))
 
 _Computer Aided Intracranial Aneurysm Treatment Based on 2D/3D Mapping, Virtual Deployment and Online Distal Marker Detection_<br>
 Nicolas Dazeo, José Ignacio Orlando, Camila García, Romina Muñoz, Laura Obrado, Hector Fernandez, Jordi Blasco, Luis San Román, Juan M Macho, Andreas Ding, Raphael Utz, Ignacio Larrabide<br>

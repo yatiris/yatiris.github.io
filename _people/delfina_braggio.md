@@ -10,7 +10,7 @@ joined: 2016
 
 ### Contact
 
-<i class="fa fa-envelope-o"></i>  `dbraggio@alumnos.exa.unicen.edu.ar`<br>
+<i class="fa fa-envelope-o"></i>  `delfinabraggio@pladema.exa.unicen.edu.ar`<br>
 <i class="fa fa-building"></i> Pladema (new wing) <br>
 <i class="fa fa-bar-chart"></i> [Google Scholar](https://scholar.google.com/citations?hl=es&user=sjwsVEcAAAAJ)
 
@@ -21,6 +21,10 @@ joined: 2016
 Delfina Braggio (Delfi) is an Assistant Researcher at CIC-PBA. She holds a PhD in Computational and Industrial Mathematics from UNICEN (2022), which she pursued with a doctoral scholarship from CONICET. She also worked as a Postdoctoral Research Associate funded by CONICET. Her research focuses on analyzing brain images from both mice and humans using VBM (Voxel-Based Morphometry) and machine learning techniques. More recently, she has started working on the characterization of cortical and subcortical brain structures using machine learning models.
 
 ### Relevant publications
+
+_A Self-supervised Deep Learning Model for Diagonal Sulcus Detection with Limited Labeled Data_<br>
+**Delfina Braggio**, Hernán Külsgaard, Mariana Vallejo-Azar, Mariana Bendersky, Paula González, Lucía Alba-Ferrara, José Ignacio Orlando, Ignacio Larrabide<br>
+Neuroinformatics. 2025 
 
 _VBM sensitivity to localization and extent of mouse brain lesions: A simulation approach_<br>
 **Delfina Braggio**, Jimena Barbeito-Andrés, Paula Gonzalez, Benedikt Hallgrímsson, Ignacio Larrabide<br>
