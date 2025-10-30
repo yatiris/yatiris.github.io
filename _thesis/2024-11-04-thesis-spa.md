@@ -8,7 +8,10 @@ categories: tesis-grado
 
 
 <div class="image-post-container">
-    <img src="/images/tesis-grado/2024-BurckArispe.png"/>
+    <img src="/images/tesis-grado/2024-burckarispe.png"/>
+    yatiris.github.io/images/tesis-grado
+/2024-burckarispe.png
+
 </div>
 
 ### Resumen
