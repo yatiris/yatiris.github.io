@@ -1,7 +1,7 @@
 ---
 title:  Adecuaciones experimentales y nuevos enfoques de aprendizaje automático para aplicaciones en estudios de sueño y detección de glaucoma
 description: Tesis doctoral de Eugenia Moris, dirigida por los Doctores Ignacio Larrabide y José Ignacio Orlando 
-header-img: images/tesis-grado/moris_image.png
+header-img: images/tesis-grado/2024_moris.png
 categories: tesis-doctorado
 ---
 
